@@ -149,10 +149,10 @@ print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 # === 新增功能：网页截图 ===
 def generate_image_from_html(html_file_path: str, output_image_path: str):
     """
-    使用 Playwright 渲染 HTML 文件并截取指定元素的图片。
+    使用 Playwright 渲染 HTML 文件并截取指定元素的图片.
     """
     if not PLAYWRIGHT_AVAILABLE:
-        print("Playwright 模块未安装，无法生成图片。请运行 'pip install playwright'。")
+        print("Playwright 模块未安装，无法生成图片.请运行 'pip install playwright'.")
         return
 
     print(f"正在从 {html_file_path} 生成图片...")
@@ -171,11 +171,11 @@ def generate_image_from_html(html_file_path: str, output_image_path: str):
                 element.screenshot(path=output_image_path)
                 print(f"图片成功保存至: {output_image_path}")
             else:
-                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图。")
+                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图.")
             browser.close()
     except Exception as e:
         print(f"生成图片时发生错误: {e}")
-        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install')。")
+        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install').")
 
 
 # === 工具函数 ===
@@ -186,12 +186,12 @@ def get_beijing_time():
 
 def format_date_folder():
     """格式化日期文件夹"""
-    return get_beijing_time()。strftime("%Y年%m月%d日")
+    return get_beijing_time().strftime("%Y年%m月%d日")
 
 
 def format_time_filename():
     """格式化时间文件名"""
-    return get_beijing_time()。strftime("%H时%M分")
+    return get_beijing_time().strftime("%H时%M分")
 
 
 def clean_title(title: str) -> str:
@@ -243,7 +243,7 @@ def check_version_update(
         # 比较版本
         def parse_version(version_str):
             try:
-                parts = version_str.strip()。split(".")
+                parts = version_str.strip().split(".")
                 if len(parts) != 3:
                     raise ValueError("版本号格式不正确")
                 return int(parts[0]), int(parts[1]), int(parts[2])
@@ -282,8 +282,8 @@ def html_escape(text: str) -> str:
         text.replace("&", "&amp;")
         .replace("<", "&lt;")
         .替换(">"， "&gt;")
-        。替换('"', "&quot;")
-        。替换("'"， "&#x27;")
+        .替换('"', "&quot;")
+        .替换("'"， "&#x27;")
     )
 
 
@@ -312,11 +312,11 @@ class PushRecordManager:
 
         for record_file in self.record_dir.glob("push_record_*.json"):
             try:
-                date_str = record_file.stem。替换("push_record_"， "")
+                date_str = record_file.stem.替换("push_record_"， "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
-                file_date = pytz.timezone("Asia/Shanghai")。localize(file_date)
+                file_date = pytz.timezone("Asia/Shanghai").localize(file_date)
 
-                if (current_time - file_date)。days > retention_days:
+                if (current_time - file_date).days > retention_days:
                     record_file.unlink()
                     print(f"清理过期推送记录: {record_file.name}")
             except Exception as e:
@@ -2203,7 +2203,7 @@ def render_feishu_content(
                 formatted_title = format_title_for_platform(
                     "feishu", title_data_copy, show_source=False
                 )
-                text_content += f"  {j}。 {formatted_title}\n"
+                text_content += f"  {j}. {formatted_title}\n"
 
             text_content += "\n"
 
@@ -3449,7 +3449,7 @@ def generate_api_data(
     analyzer: "NewsAnalyzer",
 ) -> Tuple[Dict, List, int, List, Dict]:
     """
-    获取并分析来自固定源的趋势数据，返回API所需的所有数据。
+    获取并分析来自固定源的趋势数据，返回API所需的所有数据.
     """
     print("为API生成数据：开始获取和分析...")
 
@@ -3524,7 +3524,7 @@ def generate_api_data(
 
 def generate_static_api_files(analyzer: "NewsAnalyzer"):
     """
-    获取趋势数据，生成HTML报告和图片，并将其保存为静态的 JSON 文件。
+    获取趋势数据，生成HTML报告和图片，并将其保存为静态的 JSON 文件.
     """
     (
         api_data,
@@ -3555,7 +3555,7 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         api_data["report_image_url"] = f"{base_url}/{image_path}"
     else:
         api_data["report_image_url"] = f"/{image_path}"
-        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径。")
+        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径.")
 
     # 确保API目录存在并将JSON文件保存到新路径
     output_path = "api/trends.json"
@@ -3576,8 +3576,8 @@ if FLASK_AVAILABLE:
     @app.route('/api/trends')
     def get_trends():
         """
-        API端点，实时生成并返回趋势数据。
-        注意：这是一个耗时操作，每次请求都会重新爬取、分析和渲染图片。
+        API端点，实时生成并返回趋势数据.
+        注意：这是一个耗时操作，每次请求都会重新爬取、分析和渲染图片.
         """
         try:
             analyzer = NewsAnalyzer()
@@ -3601,7 +3601,7 @@ if FLASK_AVAILABLE:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具。")
+    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具.")
     parser.add_argument(
         '--serve-api',
         action='store_true',
@@ -3617,8 +3617,8 @@ def main():
     try:
         if args.serve_api:
             if not FLASK_AVAILABLE:
-                print("错误：无法启动API服务器，因为 Flask 模块未安装。")
-                print("请运行 'pip install Flask' 来安装。")
+                print("错误：无法启动API服务器，因为 Flask 模块未安装.")
+                print("请运行 'pip install Flask' 来安装.")
                 return
             print("以API服务器模式启动...")
             app.run(host='0.0.0.0', port=5001, debug=False)
@@ -3627,7 +3627,7 @@ def main():
             print("仅生成静态API文件...")
             analyzer = NewsAnalyzer()
             generate_static_api_files(analyzer)
-            print("文件生成完毕。")
+            print("文件生成完毕.")
 
         else:
             print("以单次脚本模式运行...")
