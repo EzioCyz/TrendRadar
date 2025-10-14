@@ -149,10 +149,10 @@ print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
 # === 新增功能：网页截图 ===
 def generate_image_from_html(html_file_path: str, output_image_path: str):
     """
-    使用 Playwright 渲染 HTML 文件并截取指定元素的图片.
+    使用 Playwright 渲染 HTML 文件并截取指定元素的图片。
     """
     if not PLAYWRIGHT_AVAILABLE:
-        print("Playwright 模块未安装，无法生成图片.请运行 'pip install playwright'.")
+        print("Playwright 模块未安装，无法生成图片。请运行 'pip install playwright'。")
         return
 
     print(f"正在从 {html_file_path} 生成图片...")
@@ -171,11 +171,11 @@ def generate_image_from_html(html_file_path: str, output_image_path: str):
                 element.screenshot(path=output_image_path)
                 print(f"图片成功保存至: {output_image_path}")
             else:
-                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图.")
+                print("错误: 在HTML报告中未找到 '.container' 元素，无法截图。")
             browser.close()
     except Exception as e:
         print(f"生成图片时发生错误: {e}")
-        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install').")
+        print("请确保 Playwright 已正确安装 ('pip install playwright' 和 'playwright install')。")
 
 
 # === 工具函数 ===
@@ -198,8 +198,8 @@ def clean_title(title: str) -> str:
     """清理标题中的特殊字符"""
     if not isinstance(title, str):
         title = str(title)
-    cleaned_title = title.替换("\n"， " ").replace("\r", " ")
-    cleaned_title = re.sub(r"\s+"， " ", cleaned_title)
+    cleaned_title = title.replace("\n", " ").replace("\r", " ")
+    cleaned_title = re.sub(r"\s+", " ", cleaned_title)
     cleaned_title = cleaned_title.strip()
     return cleaned_title
 
@@ -218,7 +218,7 @@ def get_output_path(subfolder: str, filename: str) -> str:
 
 
 def check_version_update(
-        current_version: str, version_url: str, proxy_url: Optional[str] = 无
+        current_version: str, version_url: str, proxy_url: Optional[str] = None
 ) -> Tuple[bool, Optional[str]]:
     """检查版本更新"""
     try:
@@ -254,11 +254,11 @@ def check_version_update(
         remote_tuple = parse_version(remote_version)
 
         need_update = current_tuple < remote_tuple
-        return need_update, remote_version if need_update else 无
+        return need_update, remote_version if need_update else None
 
     except Exception as e:
         print(f"版本检查失败: {e}")
-        return False, 无
+        return False, None
 
 
 def is_first_crawl_today() -> bool:
@@ -279,11 +279,11 @@ def html_escape(text: str) -> str:
         text = str(text)
 
     return (
-        text.replace("&", "&amp;")
+        text.替换("&"， "&amp;")
         .replace("<", "&lt;")
-        .替换(">"， "&gt;")
-        .替换('"', "&quot;")
-        .替换("'"， "&#x27;")
+        。替换(">", "&gt;")
+        。替换('"', "&quot;")
+        。替换("'"， "&#x27;")
     )
 
 
@@ -310,9 +310,9 @@ class PushRecordManager:
         retention_days = CONFIG["SILENT_PUSH"]["RECORD_RETENTION_DAYS"]
         current_time = get_beijing_time()
 
-        for record_file in self.record_dir.glob("push_record_*.json"):
+        for record_file 在 self.record_dir.glob("push_record_*.json"):
             try:
-                date_str = record_file.stem.替换("push_record_"， "")
+                date_str = record_file.stem.replace("push_record_", "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
                 file_date = pytz.timezone("Asia/Shanghai").localize(file_date)
 
@@ -357,7 +357,7 @@ class PushRecordManager:
 
     def is_in_time_range(self, start_time: str, end_time: str) -> bool:
         """检查当前时间是否在指定时间范围内"""
-        现在 = get_beijing_time()
+        now = get_beijing_time()
         current_time = now.strftime("%H:%M")
         return start_time <= current_time <= end_time
 
@@ -371,10 +371,10 @@ class DataFetcher:
 
     def fetch_data(
             self,
-            id_info: Union[str, Tuple[str, str]]，
+            id_info: Union[str, Tuple[str, str]],
             max_retries: int = 2,
             min_retry_wait: int = 3,
-            max_retry_wait: int = 5，
+            max_retry_wait: int = 5,
     ) -> Tuple[Optional[str], str, str]:
         """获取指定ID数据，支持重试"""
         if isinstance(id_info, tuple):
@@ -385,7 +385,7 @@ class DataFetcher:
 
         url = f"https://newsnow.busiyi.world/api/s?id={id_value}&latest"
 
-        proxies = 无
+        proxies = None
         if self.proxy_url:
             proxies = {"http": self.proxy_url, "https": self.proxy_url}
 
@@ -1095,15 +1095,15 @@ def count_word_frequency(
                     # 原有的匹配逻辑
                     if required_words:
                         all_required_present = all(
-                            req_word.lower() in title_lower
-                            for req_word in required_words
+                            req_word.lower() 在 title_lower
+                            for req_word 在 required_words
                         )
                         if not all_required_present:
                             continue
 
                     if normal_words:
                         any_normal_present = any(
-                            normal_word.lower() in title_lower
+                            normal_word.lower() 在 title_lower
                             for normal_word in normal_words
                         )
                         if not any_normal_present:
@@ -1124,9 +1124,9 @@ def count_word_frequency(
                 # 对于 current 模式，从历史统计信息中获取完整数据
                 if (
                         mode == "current"
-                        and title_info
-                        and source_id in title_info
-                        and title in title_info[source_id]
+                        和 title_info
+                        和 source_id in title_info
+                        和 title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
                     first_time = info.get("first_time", "")
@@ -1138,7 +1138,7 @@ def count_word_frequency(
                     mobile_url = info.get("mobileUrl", source_mobile_url)
                 elif (
                         title_info
-                        and source_id in title_info
+                        和 source_id in title_info
                         and title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
@@ -2212,10 +2212,10 @@ def render_feishu_content(
             text_content += f"\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
 
         text_content += "⚠️ **数据获取失败的平台：**\n\n"
-        for i, id_value in enumerate(report_data["failed_ids"]， 1):
+        for i, id_value in enumerate(report_data["failed_ids"], 1):
             text_content += f"  • <font color='red'>{id_value}</font>\n"
 
-    现在 = get_beijing_time()
+    now = get_beijing_time()
     text_content += (
         f"\n\n<font color='grey'>更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}</font>"
     )
@@ -2225,14 +2225,13 @@ def render_feishu_content(
 
     return text_content
 
-
 # 修改后的代码 (Modified Code)
 def render_dingtalk_content(
-        report_data: Dict, update_info: Optional[Dict] = 无, mode: str = "daily"
+        report_data: Dict, update_info: Optional[Dict] = None, mode: str = "daily"
 ) -> str:
     """渲染钉钉内容"""
     text_content = ""
-    现在 = get_beijing_time()
+    now = get_beijing_time()
 
     # 1. 将所有分组的新闻标题收集到一个列表中
     all_titles = []
@@ -3438,10 +3437,10 @@ class NewsAnalyzer:
 
 # 沿用旧版的固定ID列表用于API生成
 API_IDS = [
-    ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
-    ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
+    ("toutiao"， "今日头条"), ("baidu"， "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
+    ("thepaper"， "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
     ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-    ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ("tieba"， "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
 ]
 
 
@@ -3449,12 +3448,12 @@ def generate_api_data(
     analyzer: "NewsAnalyzer",
 ) -> Tuple[Dict, List, int, List, Dict]:
     """
-    获取并分析来自固定源的趋势数据，返回API所需的所有数据.
+    获取并分析来自固定源的趋势数据，返回API所需的所有数据。
     """
     print("为API生成数据：开始获取和分析...")
 
     # 1. 爬取数据
-    results, id_to_name, failed_ids = analyzer.data_fetcher.crawl_websites(
+    results, id_to_name, failed_ids = analyzer.data_fetcher。crawl_websites(
         API_IDS, analyzer.request_interval
     )
 
@@ -3472,7 +3471,7 @@ def generate_api_data(
             "generated_at": get_beijing_time().isoformat(),
             "total_titles_processed": 0,
             "failed_sources": failed_ids,
-            "trends": [],
+            "trends": []，
         }
         return empty_response, [], 0, failed_ids, {}
 
@@ -3524,7 +3523,7 @@ def generate_api_data(
 
 def generate_static_api_files(analyzer: "NewsAnalyzer"):
     """
-    获取趋势数据，生成HTML报告和图片，并将其保存为静态的 JSON 文件.
+    获取趋势数据，生成HTML报告和图片，并将其保存为静态的 JSON 文件。
     """
     (
         api_data,
@@ -3555,7 +3554,7 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
         api_data["report_image_url"] = f"{base_url}/{image_path}"
     else:
         api_data["report_image_url"] = f"/{image_path}"
-        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径.")
+        print("警告: config.yaml中未设置 'base_url'，在API中使用相对图片路径。")
 
     # 确保API目录存在并将JSON文件保存到新路径
     output_path = "api/trends.json"
@@ -3576,8 +3575,8 @@ if FLASK_AVAILABLE:
     @app.route('/api/trends')
     def get_trends():
         """
-        API端点，实时生成并返回趋势数据.
-        注意：这是一个耗时操作，每次请求都会重新爬取、分析和渲染图片.
+        API端点，实时生成并返回趋势数据。
+        注意：这是一个耗时操作，每次请求都会重新爬取、分析和渲染图片。
         """
         try:
             analyzer = NewsAnalyzer()
@@ -3601,7 +3600,7 @@ if FLASK_AVAILABLE:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具.")
+    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具。")
     parser.add_argument(
         '--serve-api',
         action='store_true',
@@ -3609,7 +3608,7 @@ def main():
     )
     parser.add_argument(
         '--generate-json',
-        action='store_true',
+        action='store_true'，
         help='仅生成静态的 trends.json, news.jpg 和相关HTML文件并退出'
     )
     args = parser.parse_args()
@@ -3617,8 +3616,8 @@ def main():
     try:
         if args.serve_api:
             if not FLASK_AVAILABLE:
-                print("错误：无法启动API服务器，因为 Flask 模块未安装.")
-                print("请运行 'pip install Flask' 来安装.")
+                print("错误：无法启动API服务器，因为 Flask 模块未安装。")
+                print("请运行 'pip install Flask' 来安装。")
                 return
             print("以API服务器模式启动...")
             app.run(host='0.0.0.0', port=5001, debug=False)
@@ -3627,7 +3626,7 @@ def main():
             print("仅生成静态API文件...")
             analyzer = NewsAnalyzer()
             generate_static_api_files(analyzer)
-            print("文件生成完毕.")
+            print("文件生成完毕。")
 
         else:
             print("以单次脚本模式运行...")
