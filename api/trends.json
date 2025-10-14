@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T03:38:59.521982+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2025-10-15T04:17:42.266067+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 148,
+      "match_count": 169,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "敏感时刻，今晚鲍威尔又要登场了，这是他在美联储决议后首度发声",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "一图看懂 | 可控核聚变技术加速突破 A股公司积极入场",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "金价这么高 到底谁在买",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
@@ -85,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
@@ -97,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
@@ -110,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -121,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "订单大增催生百亿项目 A股风电公司“从产品出海到产能出海”|行业观察",
@@ -134,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -146,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "日本恐飞出黑天鹅！执政联盟破裂后 贸易局势进一步放大市场担忧",
@@ -167,11 +167,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "黄金白银飙涨原因",
@@ -181,11 +182,12 @@
             10,
             14,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "【焦点复盘】双创指数遭遇放量阴包阳，全市场超450股跌逾5%，银行等红利股逆势拉升",
@@ -196,8 +198,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 04时17分]"
         },
         {
           "title": "古驰蔻依罗意威被罚款1.57亿欧元",
@@ -211,8 +213,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "“新美联储通讯社”：鲍威尔为美联储的政策进行了辩护",
@@ -240,6 +242,22 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时46分]"
+        },
+        {
+          "title": "弟弟戴头巾掰玉米被姐姐误认成奶奶",
+          "url": "https://www.toutiao.com/trending/7560649673644949546/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            15,
+            30,
+            22,
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时17分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：下一步降息的可能性更大，而非加息。",
@@ -313,6 +331,31 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
+          "title": "上期所原油期货2511合约夜盘收跌1.73%，报444.00元人民币/桶。 沪金夜盘收涨0.97%，沪银收涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/2987669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 04时17分]"
+        },
+        {
+          "title": "现货白银短线下跌约0.4美元，最新报51.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015034434927800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
           "title": "WTI 11月原油期货收报58.70美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。 NYMEX 11月天然气期货收报3.0280美元/百万英热单位。 NYMEX 11月汽油期货收报1.8286美元/加仑，NYMEX 11月取暖油期货收报2.1976美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/2987670",
           "source": "华尔街见闻-快讯",
@@ -322,45 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
-        },
-        {
-          "title": "周二（10月14日）纽约尾盘，ICE美元指数下跌0.25%，报99.025点，日内交投区间为99.475-98.988点。 彭博美元指数跌0.11%，报1214.25点，日内交投区间为1219.18-1213.81点。",
-          "url": "https://wallstreetcn.com/livenews/2987685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "上期所原油期货2511合约夜盘收跌1.73%，报444.00元人民币/桶。 沪金夜盘收涨0.97%，沪银收涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/2987669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 03时38分]"
-        },
-        {
-          "title": "弟弟戴头巾掰玉米被姐姐误认成奶奶",
-          "url": "https://www.toutiao.com/trending/7560649673644949546/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            15,
-            30,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时38分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -419,15 +423,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "法国巴黎银行废弃做空阿根廷比索兑美元的主张。",
-          "url": "https://wallstreetcn.com/livenews/2987684",
+          "title": "美联储柯林斯：预计经济增长将加速，失业率小幅上升，通胀水平将走高。",
+          "url": "https://flash.jin10.com/detail/20251015034140493800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美联储Collins：通胀肯定是我重点留意的问题之一。",
+          "url": "https://wallstreetcn.com/livenews/2987702",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：政府通胀数据几乎没有好的替代品。",
@@ -441,26 +456,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美联储理事沃勒将于十分钟后在国际金融协会举办的关于支付的小组活动上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251015031500002800",
+          "title": "美联储柯林斯：就业市场下行风险已上升。",
+          "url": "https://flash.jin10.com/detail/20251015034124337800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "周二（10月14日）纽约尾盘，ICE原糖期货涨1.67%，ICE白糖期货涨1.42%。 ICE阿拉比卡咖啡期货涨3.79%，咖啡“C”期货涨3.79%。罗布斯塔咖啡期货跌0.92%。 纽约可可期货涨1.06%，报5884美元/吨。伦敦可可期货涨1.15%。 ICE棉花期货跌0.25%。",
-          "url": "https://wallstreetcn.com/livenews/2987683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：如果政府停摆持续，且10月数据推迟公布，美联储将开始错过数据，形势将变得更加严峻。",
@@ -474,15 +478,29 @@
           "time_info": "01时16分"
         },
         {
-          "title": "芝加哥小麦期货涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/2987682",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储柯林斯：即便放松货币政策，仍将保持“温和紧缩”立场。",
+          "url": "https://flash.jin10.com/detail/20251015034123848800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
+        },
+        {
+          "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2987668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 04时17分]"
         },
         {
           "title": "美联储主席鲍威尔：就业市场状况有可信的数据支持，不过私人数据更适合作为补充。",
@@ -496,15 +514,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "LG电子株式会社印度附属公司印度IPO首日收涨48.24%，报1689.90印度卢比，市值超越母公司。 Prime Database数据显示，这也是2008年Reliance Power上市以来最大规模的印度IPO——融资1160亿卢比（折合13亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/2987681",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储柯林斯：政策不存在预先设定的轨道，有使利率保持稳定的可能性。",
+          "url": "https://flash.jin10.com/detail/20251015034103795800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "欧洲央行管委Villeroy：下一次行动更有可能是降息，而不是加息。 欧洲央行处于不错的状态，但这并非一成不变。 通胀下行风险超过上行风险。 我们已经在自己的预测中重拾信心。（彭博电视）",
@@ -519,6 +537,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 01时40分]"
+        },
+        {
+          "title": "芝加哥大豆期货转涨。",
+          "url": "https://wallstreetcn.com/livenews/2987667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 04时17分]"
         },
         {
           "title": "鲍威尔：顽固的关税通胀肯定是一个风险。 通胀仍然保持上升状态。",
@@ -607,42 +639,55 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
-          "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2987668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 03时38分]"
-        },
-        {
-          "title": "芝加哥大豆期货转涨。",
-          "url": "https://wallstreetcn.com/livenews/2987667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 03时38分]"
-        },
-        {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
           "url": "https://wallstreetcn.com/livenews/2987675",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时17分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/2987673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时17分]"
+        },
+        {
+          "title": "周二（10月14日）纽约尾盘，ICE美元指数下跌0.25%，报99.025点，日内交投区间为99.475-98.988点。 彭博美元指数跌0.11%，报1214.25点，日内交投区间为1219.18-1213.81点。",
+          "url": "https://wallstreetcn.com/livenews/2987685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时38分]"
+          "time_info": "[03时38分 ~ 04时17分]"
+        },
+        {
+          "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时17分]"
         },
         {
           "title": "美国总统特朗普赞扬了当前的石油和汽油价格。",
@@ -655,6 +700,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时38分]"
+        },
+        {
+          "title": "法国巴黎银行废弃做空阿根廷比索兑美元的主张。",
+          "url": "https://wallstreetcn.com/livenews/2987684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
@@ -670,28 +727,40 @@
           "time_info": "[00时46分 ~ 01时40分]"
         },
         {
-          "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
-          "url": "https://wallstreetcn.com/livenews/2987673",
+          "title": "美联储理事沃勒将于十分钟后在国际金融协会举办的关于支付的小组活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251015031500002800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
+        },
+        {
+          "title": "周二（10月14日）纽约尾盘，ICE原糖期货涨1.67%，ICE白糖期货涨1.42%。 ICE阿拉比卡咖啡期货涨3.79%，咖啡“C”期货涨3.79%。罗布斯塔咖啡期货跌0.92%。 纽约可可期货涨1.06%，报5884美元/吨。伦敦可可期货涨1.15%。 ICE棉花期货跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/2987683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时38分]"
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
-          "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2987670",
+          "title": "芝加哥小麦期货涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/2987682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时38分]"
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
           "title": "美国白宫人工智能（AI）和加密货币顾问Sacks：Anthropic正在实施一项基于恐慌的战略，对各州监管狂潮负有责任。",
@@ -718,6 +787,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时38分]"
+        },
+        {
+          "title": "LG电子株式会社印度附属公司印度IPO首日收涨48.24%，报1689.90印度卢比，市值超越母公司。 Prime Database数据显示，这也是2008年Reliance Power上市以来最大规模的印度IPO——融资1160亿卢比（折合13亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/2987681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
           "title": "鲍威尔：美联储认为，政策传导机制仍然行之有效。",
@@ -884,6 +965,18 @@
           "time_info": "[03时14分 ~ 03时38分]"
         },
         {
+          "title": "分析师：美联储并未在意贸易局势升级 美股未来或迎来顺风",
+          "url": "https://flash.jin10.com/detail/20251015031003749800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
+        },
+        {
           "title": "美联储主席鲍威尔将于十分钟后发表讲话；英国央行行长贝利将于二十分钟后发表讲话。",
           "url": "https://flash.jin10.com/detail/20251015001000001800",
           "source": "金十数据",
@@ -906,6 +999,18 @@
           "time_info": "[01时39分 ~ 01时40分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1380元，较周一夜盘收盘跌59点。成交量483.98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2987678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
+        },
+        {
           "title": "LVMH集团三季度营收182.8亿欧元，分析师预期181.7亿欧元。 三季度有机营收增长1%，分析师预期下降0.72%。 三季度亚洲（剔除日本）有机营收增长2%，分析师和预期下滑3.63%。 三季度美国有机营收增长3%，分析师预期增长1.93%。 三季度时装和皮草有机销售下降2%，分析师预期减少3.48%。 三季度红酒和烈酒销售增长1%，分析师预期下降3.18%。 LVMH集团ADR短线走高，日内迄今涨2.4%。 雅诗兰黛涨2.3%。",
           "url": "https://wallstreetcn.com/livenews/2987622",
           "source": "华尔街见闻-快讯",
@@ -916,6 +1021,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时46分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.97%，报25763点。 恒生科技指数主连夜盘收涨1.03%，报6004点。",
+          "url": "https://wallstreetcn.com/livenews/2987677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
           "title": "欧洲央行管委马赫鲁夫：利率处于良好位置",
@@ -929,6 +1046,18 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
+          "title": "金十图示：2025年10月14日（周二）香港恒生指数期货技术面一览（日图）",
+          "url": "https://flash.jin10.com/detail/20251015030251729800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
+        },
+        {
           "title": "英国央行行长贝利：我们必须平衡高于目标的通胀。",
           "url": "https://flash.jin10.com/detail/20251015011002791800",
           "source": "金十数据",
@@ -938,6 +1067,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 01时40分]"
+        },
+        {
+          "title": "恒指期货夜盘收涨0.97%，报25763点，高水322点。",
+          "url": "https://flash.jin10.com/detail/20251015030114104800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时17分]"
         },
         {
           "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
@@ -1314,15 +1455,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "分析师：美联储并未在意贸易局势升级 美股未来或迎来顺风",
-          "url": "https://flash.jin10.com/detail/20251015031003749800",
+          "title": "美联储柯林斯：通胀风险已得到更多控制，但关税仍将推高物价。",
+          "url": "https://flash.jin10.com/detail/20251015034032693800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：研究指出，政策影响就业和通胀的滞后时间更长。",
@@ -1336,15 +1477,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1380元，较周一夜盘收盘跌59点。成交量483.98亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2987678",
+          "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
+          "url": "https://wallstreetcn.com/livenews/2987696",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：就业创造的“平衡水平”存在很大不确定性，可能已降至零以下。",
@@ -1358,6 +1499,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美联储柯林斯：随着关税影响减弱，通胀应开始缓解。",
+          "url": "https://flash.jin10.com/detail/20251015033954467800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
           "title": "美国总统特朗普：阿根廷总统米莱处于取得经济成功的边缘。 将（在阿根廷大选中）背书支持米莱。 美国与阿根廷的贸易协议将是负责任的。 将与阿根廷展开贸易往来。 我希望看到阿根廷成功，这是一个非常重要的国家。 我喜欢美元，希望美元非常强劲。",
           "url": "https://wallstreetcn.com/livenews/2987662",
           "source": "华尔街见闻-快讯",
@@ -1369,15 +1521,15 @@
           "time_info": "02时48分"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.97%，报25763点。 恒生科技指数主连夜盘收涨1.03%，报6004点。",
-          "url": "https://wallstreetcn.com/livenews/2987677",
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：就业增长的“保本增长率”(break-even rate)已大幅下降。",
@@ -1391,15 +1543,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "金十图示：2025年10月14日（周二）香港恒生指数期货技术面一览（日图）",
-          "url": "https://flash.jin10.com/detail/20251015030251729800",
+          "title": "美联储柯林斯：有利的金融状况将支持家庭。",
+          "url": "https://flash.jin10.com/detail/20251015033947895800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美联储理事沃勒：美国在支付系统的领导地位在于私营领域。",
+          "url": "https://wallstreetcn.com/livenews/2987692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：我们不会试图锁定就业的平衡水平；标准误差本身可能为5万。",
@@ -1413,15 +1576,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "恒指期货夜盘收涨0.97%，报25763点，高水322点。",
-          "url": "https://flash.jin10.com/detail/20251015030114104800",
+          "title": "美联储柯林斯：鉴于通胀风险降低及就业市场担忧，进一步降息似乎是“审慎的”。",
+          "url": "https://flash.jin10.com/detail/20251015033944492800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美国波士顿联储主席长Susan Collins：即便继续宽松，货币政策仍将具有限制性。 审慎地在2025年略微进一步实现利率正常化。 通胀风险在一定程度上低于之前想象。 预计失业率将相对温和地进一步上升。 劳动力市场所面临的上行风险已经加重。 随着不确定性消退，预计招聘活动将增加。",
+          "url": "https://wallstreetcn.com/livenews/2987690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：而行动过于缓慢或将导致劳动力市场承压。",
@@ -1435,6 +1609,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "受消息面影响，美股三大股指短线小幅下挫。",
+          "url": "https://flash.jin10.com/detail/20251015033901545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
+          "url": "https://wallstreetcn.com/livenews/2987689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
           "title": "美联储主席鲍威尔：7月会议以来的数据显示，劳动力市场已明显趋软。",
           "url": "https://flash.jin10.com/detail/20251015004015979800",
           "source": "金十数据",
@@ -1446,6 +1642,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "现货黄金短线下挫超10美元，最新报4135.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015033756099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "Evercore创始人Altman：美国通胀并非现阶段头等威胁因素。 经济的基本面仍然良好。 企业并购活动走强花了这么长的时间，这让人感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/2987687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
           "title": "美联储主席鲍威尔：如果美联储行动过于迅速，可能会使抗通胀任务半途而废。",
           "url": "https://flash.jin10.com/detail/20251015004007131800",
           "source": "金十数据",
@@ -1455,6 +1673,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "市场出现：法巴银行取消了做空阿根廷比索兑美元的呼吁。",
+          "url": "https://flash.jin10.com/detail/20251015032327583800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "两年期美债收益率跌2.7个基点，鲍威尔在10月货币政策会议前暗示还有一次降息机会",
+          "url": "https://wallstreetcn.com/livenews/2987686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "美联储主席鲍威尔：随着风险趋于平衡，政策需要转向更加中性。",
@@ -1488,6 +1728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "分析师：鲍威尔未改基调 让市场为降息做好准备",
+          "url": "https://flash.jin10.com/detail/20251015032054910800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：法国和欧元区的经济是有弹性的。",
@@ -1595,7 +1846,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
