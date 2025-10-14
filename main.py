@@ -186,20 +186,20 @@ def get_beijing_time():
 
 def format_date_folder():
     """格式化日期文件夹"""
-    return get_beijing_time().strftime("%Y年%m月%d日")
+    return get_beijing_time()。strftime("%Y年%m月%d日")
 
 
 def format_time_filename():
     """格式化时间文件名"""
-    return get_beijing_time().strftime("%H时%M分")
+    return get_beijing_time()。strftime("%H时%M分")
 
 
 def clean_title(title: str) -> str:
     """清理标题中的特殊字符"""
     if not isinstance(title, str):
         title = str(title)
-    cleaned_title = title.replace("\n", " ").replace("\r", " ")
-    cleaned_title = re.sub(r"\s+", " ", cleaned_title)
+    cleaned_title = title.替换("\n"， " ").replace("\r", " ")
+    cleaned_title = re.sub(r"\s+"， " ", cleaned_title)
     cleaned_title = cleaned_title.strip()
     return cleaned_title
 
@@ -218,7 +218,7 @@ def get_output_path(subfolder: str, filename: str) -> str:
 
 
 def check_version_update(
-        current_version: str, version_url: str, proxy_url: Optional[str] = None
+        current_version: str, version_url: str, proxy_url: Optional[str] = 无
 ) -> Tuple[bool, Optional[str]]:
     """检查版本更新"""
     try:
@@ -243,7 +243,7 @@ def check_version_update(
         # 比较版本
         def parse_version(version_str):
             try:
-                parts = version_str.strip().split(".")
+                parts = version_str.strip()。split(".")
                 if len(parts) != 3:
                     raise ValueError("版本号格式不正确")
                 return int(parts[0]), int(parts[1]), int(parts[2])
@@ -254,11 +254,11 @@ def check_version_update(
         remote_tuple = parse_version(remote_version)
 
         need_update = current_tuple < remote_tuple
-        return need_update, remote_version if need_update else None
+        return need_update, remote_version if need_update else 无
 
     except Exception as e:
         print(f"版本检查失败: {e}")
-        return False, None
+        return False, 无
 
 
 def is_first_crawl_today() -> bool:
@@ -281,9 +281,9 @@ def html_escape(text: str) -> str:
     return (
         text.replace("&", "&amp;")
         .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
-        .replace("'", "&#x27;")
+        .替换(">"， "&gt;")
+        。替换('"', "&quot;")
+        。替换("'"， "&#x27;")
     )
 
 
@@ -312,11 +312,11 @@ class PushRecordManager:
 
         for record_file in self.record_dir.glob("push_record_*.json"):
             try:
-                date_str = record_file.stem.replace("push_record_", "")
+                date_str = record_file.stem。替换("push_record_"， "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
-                file_date = pytz.timezone("Asia/Shanghai").localize(file_date)
+                file_date = pytz.timezone("Asia/Shanghai")。localize(file_date)
 
-                if (current_time - file_date).days > retention_days:
+                if (current_time - file_date)。days > retention_days:
                     record_file.unlink()
                     print(f"清理过期推送记录: {record_file.name}")
             except Exception as e:
@@ -332,7 +332,7 @@ class PushRecordManager:
         try:
             with open(record_file, "r", encoding="utf-8") as f:
                 record = json.load(f)
-            return record.get("pushed", False)
+            return record.get("pushed"， False)
         except Exception as e:
             print(f"读取推送记录失败: {e}")
             return False
@@ -340,7 +340,7 @@ class PushRecordManager:
     def record_push(self, report_type: str):
         """记录推送"""
         record_file = self.get_today_record_file()
-        now = get_beijing_time()
+        现在 = get_beijing_time()
 
         record = {
             "pushed": True,
@@ -357,7 +357,7 @@ class PushRecordManager:
 
     def is_in_time_range(self, start_time: str, end_time: str) -> bool:
         """检查当前时间是否在指定时间范围内"""
-        now = get_beijing_time()
+        现在 = get_beijing_time()
         current_time = now.strftime("%H:%M")
         return start_time <= current_time <= end_time
 
@@ -371,10 +371,10 @@ class DataFetcher:
 
     def fetch_data(
             self,
-            id_info: Union[str, Tuple[str, str]],
+            id_info: Union[str, Tuple[str, str]]，
             max_retries: int = 2,
             min_retry_wait: int = 3,
-            max_retry_wait: int = 5,
+            max_retry_wait: int = 5，
     ) -> Tuple[Optional[str], str, str]:
         """获取指定ID数据，支持重试"""
         if isinstance(id_info, tuple):
@@ -385,7 +385,7 @@ class DataFetcher:
 
         url = f"https://newsnow.busiyi.world/api/s?id={id_value}&latest"
 
-        proxies = None
+        proxies = 无
         if self.proxy_url:
             proxies = {"http": self.proxy_url, "https": self.proxy_url}
 
@@ -2212,7 +2212,7 @@ def render_feishu_content(
             text_content += f"\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
 
         text_content += "⚠️ **数据获取失败的平台：**\n\n"
-        for i, id_value 在 enumerate(report_data["failed_ids"]， 1):
+        for i, id_value in enumerate(report_data["failed_ids"]， 1):
             text_content += f"  • <font color='red'>{id_value}</font>\n"
 
     现在 = get_beijing_time()
@@ -2237,7 +2237,7 @@ def render_dingtalk_content(
     # 1. 将所有分组的新闻标题收集到一个列表中
     all_titles = []
     if report_data["stats"]:
-        for stat 在 report_data["stats"]:
+        for stat in report_data["stats"]:
             all_titles.extend(stat["titles"])
 
     # 2. 构建消息头部 (只包含总数和时间)
@@ -2255,7 +2255,7 @@ def render_dingtalk_content(
         text_content += f"📭 {mode_text}\n"
     else:
         # 4. 遍历新闻列表并格式化输出
-        for j, title_data 在 enumerate(all_titles, 1):
+        for j, title_data in enumerate(all_titles, 1):
             formatted_title = format_title_for_platform(
                 "dingtalk", title_data, show_source=True
             )
