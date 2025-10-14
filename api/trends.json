@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T15:25:55.306617+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2025-10-14T15:36:09.094991+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 297,
+      "match_count": 298,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时52分 ~ 15时36分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -30,6 +30,17 @@
           "time_info": "[09时52分 ~ 15时07分]"
         },
         {
+          "title": "中国经济总量接连突破新关口",
+          "url": "https://www.toutiao.com/trending/7560158336806371354/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 15时36分]"
+        },
+        {
           "title": "A股低开高走，沪指较日低回升近100点，稀土爆发，恒指跌1.5%，金山软件大涨超13%，国债涨，商品跌",
           "url": "https://wallstreetcn.com/articles/3757054",
           "source": "华尔街见闻",
@@ -38,19 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 15时25分]"
-        },
-        {
-          "title": "中国经济总量接连突破新关口",
-          "url": "https://www.toutiao.com/trending/7560158336806371354/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 15时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 15时36分]"
         },
         {
           "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
@@ -64,6 +64,19 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "黄金暴涨只是序幕？“货币贬值”大辩论席卷全球市场",
+          "url": "https://www.cls.cn/detail/2168461",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 15时36分]"
+        },
+        {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
           "url": "https://wallstreetcn.com/articles/3757125",
           "source": "华尔街见闻",
@@ -73,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时07分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 15时36分]"
         },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -98,19 +111,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 11时07分]"
-        },
-        {
-          "title": "黄金暴涨只是序幕？“货币贬值”大辩论席卷全球市场",
-          "url": "https://www.cls.cn/detail/2168461",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 15时25分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
@@ -137,8 +137,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时36分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -151,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时52分 ~ 15时36分]"
         },
         {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
@@ -196,6 +196,19 @@
           "time_info": "[00时33分 ~ 11时07分]"
         },
         {
+          "title": "历史级逼空，历史级价格！白银飙涨，重回“亨特兄弟逼仓”价格",
+          "url": "https://wallstreetcn.com/articles/3757123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 15时36分]"
+        },
+        {
           "title": "中国9月大豆、铁矿石进口创历史同期新高、稀土出口环比降31%、铜金属进口触及年内新高",
           "url": "https://wallstreetcn.com/articles/3757071",
           "source": "华尔街见闻",
@@ -217,21 +230,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时07分 ~ 15时25分]"
-        },
-        {
-          "title": "历史级逼空，历史级价格！白银飙涨，重回“亨特兄弟逼仓”价格",
-          "url": "https://wallstreetcn.com/articles/3757123",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时07分 ~ 15时36分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -262,6 +262,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26lcate%3D5001%26cate%3D5001%26flag%3D1%26realpos%3D2%26pos%3D1%26display_time%3D1760425430%26pre_seqid%3D17604254305740372983756",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 15时36分]"
         },
         {
           "title": "【数据看盘】一线游资、机构激烈博弈多只稀土永磁股 IM期指多头大幅加仓",
@@ -299,17 +310,6 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26lcate%3D5001%26cate%3D5001%26flag%3D1%26realpos%3D2%26pos%3D1%26display_time%3D1760425430%26pre_seqid%3D17604254305740372983756",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 15时25分]"
-        },
-        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -343,11 +343,91 @@
           "ranks": [
             2,
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 15时36分]"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251014151622645800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "吃一堑长一智！币圈“史上最大爆仓惨案”后 投资者纷纷加码对冲",
+          "url": "https://www.cls.cn/detail/2168551",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 15时36分]"
+        },
+        {
+          "title": "数据显示，印度信实工业集团9月俄罗斯原油进口量环比增长7.5%。",
+          "url": "https://flash.jin10.com/detail/20251014151501188800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "美国或失1600万吨大豆订单",
+          "url": "https://news.ifeng.com/c/8nRRcrOfEEs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 15时36分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251014151443164800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-10-14）",
+          "url": "https://flash.jin10.com/detail/20251014151434578800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "机构：欧元兑美元预计将持续走强",
+          "url": "https://flash.jin10.com/detail/20251014151433491800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
@@ -394,17 +474,6 @@
           "time_info": "15时07分"
         },
         {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251014151622645800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "WTI 11月原油期货收涨0.59美元，涨幅1.00%，报59.49美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报65.19美元/桶。 NYMEX 11月天然气期货收报3.1180美元/百万英热单位。 NYMEX 11月汽油期货收报1.8438美元/加仑，NYMEX 11月取暖油期货收报2.2497美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/2986939",
           "source": "华尔街见闻-快讯",
@@ -438,17 +507,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "港股内银股部分上涨，招商银行涨超5％，重庆银行、中信银行涨超3％，建设银行、工商银行跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2987337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "国内黄金饰品克价突破1200元",
           "url": "https://www.toutiao.com/trending/7560907020056923658/",
           "source": "今日头条",
@@ -462,6 +520,20 @@
           "time_info": "[13时31分 ~ 15时07分]"
         },
         {
+          "title": "A股",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DA%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D17%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26pos%3D17%26flag%3D1%26q%3DA%25E8%2582%25A1%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1760423878%26pre_seqid%3D176042387812703714458132",
+          "source": "微博",
+          "ranks": [
+            17,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 15时36分]"
+        },
+        {
           "title": "富宝资讯：碳酸锂期货略走强后震荡，富宝电池级碳酸锂报72700元/吨",
           "url": "https://flash.jin10.com/detail/20251014130549018800",
           "source": "金十数据",
@@ -471,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "数据显示，印度信实工业集团9月俄罗斯原油进口量环比增长7.5%。",
-          "url": "https://flash.jin10.com/detail/20251014151501188800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "中国国债期现货走低，30年期国债期货主力合约盘中一度跌超0.5%；30年期国债现券收益率上行1.6个基点至2.13%。",
@@ -506,17 +567,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "美国或失1600万吨大豆订单",
-          "url": "https://news.ifeng.com/c/8nRRcrOfEEs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 15时25分]"
-        },
-        {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20251014104032115800",
           "source": "金十数据",
@@ -539,17 +589,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "金十图示：2025年10月14日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20251014151443164800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "三星韩国股市盘前涨4%，此前发布的第三季度业绩报告超预期。",
           "url": "https://wallstreetcn.com/livenews/2987008",
           "source": "华尔街见闻-快讯",
@@ -570,17 +609,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.34%，10年期主力合约涨0.11%，5年期主力合约涨0.10%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/2987333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "现货钯金延续涨势，最新上涨逾7%，报每盎司1,505.7美元。",
@@ -616,17 +644,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "金十数据整理：A股每日市场要闻回顾（2025-10-14）",
-          "url": "https://flash.jin10.com/detail/20251014151434578800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "爱立信第三季度销售净额562.4亿瑞典克朗。 第三季度经调整毛利率48.1％。 第三季度网络业务调整后营业利润率20.2％，市场预估18.6％。 第三季度调整后EBIT 154.5亿瑞典克朗。",
           "url": "https://wallstreetcn.com/livenews/2987230",
           "source": "华尔街见闻-快讯",
@@ -638,15 +655,28 @@
           "time_info": "13时32分"
         },
         {
-          "title": "纽约期铜日内一度跌近4%，现报4.969美元/磅。美油、布油均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2987332",
+          "title": "英镑兑美元下跌0.6%，至1.3258，创下自8月4日以来新低。",
+          "url": "https://wallstreetcn.com/livenews/2987341",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "15时36分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）各大货币对表现",
+          "url": "https://flash.jin10.com/detail/20251014060027577800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 15时36分]"
         },
         {
           "title": "纽约银日内涨幅达7.0%，报50.56美元/盎司。 现货白银日内涨幅扩大至3%，报51.76美元/盎司，继续刷历史新高。",
@@ -710,17 +740,6 @@
           "time_info": "15时07分"
         },
         {
-          "title": "机构：欧元兑美元预计将持续走强",
-          "url": "https://flash.jin10.com/detail/20251014151433491800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "道指反弹将近600点，标普对上周五的失地收复大约一半",
           "url": "https://wallstreetcn.com/livenews/2986957",
           "source": "华尔街见闻-快讯",
@@ -746,6 +765,33 @@
           "time_info": "[00时34分 ~ 03时20分]"
         },
         {
+          "title": "现货黄金跌破4100美元/盎司，日内跌幅达0.3%，现货白银失守51美元/盎司，日内跌约2.8%。",
+          "url": "https://wallstreetcn.com/livenews/2987302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 15时36分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超2%，芯片、算力硬件股大面积调整，大金融方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2168624",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 15时36分]"
+        },
+        {
           "title": "美联储保尔森支持今年再降息两次，主张“忽略关税影响”",
           "url": "https://www.cls.cn/detail/2168255",
           "source": "财联社热门",
@@ -756,19 +802,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时07分 ~ 13时32分]"
-        },
-        {
-          "title": "吃一堑长一智！币圈“史上最大爆仓惨案”后 投资者纷纷加码对冲",
-          "url": "https://www.cls.cn/detail/2168551",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 15时25分]"
         },
         {
           "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
@@ -798,19 +831,6 @@
           "time_info": "[02时35分 ~ 07时21分]"
         },
         {
-          "title": "A股",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DA%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D17%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26pos%3D17%26flag%3D1%26q%3DA%25E8%2582%25A1%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1760423878%26pre_seqid%3D176042387812703714458132",
-          "source": "微博",
-          "ranks": [
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 15时25分]"
-        },
-        {
           "title": "加密货币强劲反弹 超18万人爆仓",
           "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%BC%BA%E5%8A%B2%E5%8F%8D%E5%BC%B9+%E8%B6%8518%E4%B8%87%E4%BA%BA%E7%88%86%E4%BB%93",
           "source": "百度热搜",
@@ -823,6 +843,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时35分 ~ 07时21分]"
+        },
+        {
+          "title": "港股内银股部分上涨，招商银行涨超5％，重庆银行、中信银行涨超3％，建设银行、工商银行跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2987337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "创业板指高开低走跌近4%，半导体芯片股集体调整",
+          "url": "https://wallstreetcn.com/livenews/2987327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 15时36分]"
         },
         {
           "title": "上期所原油期货2511合约夜盘收涨0.27%，报452.70元人民币/桶。 沪金夜盘收涨2.45%，沪银收涨4.22%。",
@@ -850,18 +895,6 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
-          "title": "创业板指高开低走跌近4%，半导体芯片股集体调整",
-          "url": "https://wallstreetcn.com/livenews/2987327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时25分]"
-        },
-        {
           "title": "恒指期货夜盘收跌0.06%，报25794点，低水95点。",
           "url": "https://flash.jin10.com/detail/20251014030148249800",
           "source": "金十数据",
@@ -886,6 +919,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时25分]"
+        },
+        {
+          "title": "商品期货收盘，集运欧线主力合约涨超7%，沪金、沪银、多晶硅涨超2%。油菜籽跌超5%，玻璃跌超3%，甲醇、原木、苯乙烯、工业硅、菜籽粕、铁矿石跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2987326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 15时36分]"
         },
         {
           "title": "棒约翰（PZZA）股价短线迅速拉升，日内整体涨超20%。",
@@ -1013,31 +1059,6 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
-          "title": "商品期货收盘，集运欧线主力合约涨超7%，沪金、沪银、多晶硅涨超2%。油菜籽跌超5%，玻璃跌超3%，甲醇、原木、苯乙烯、工业硅、菜籽粕、铁矿石跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2987326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时25分]"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）各大货币对表现",
-          "url": "https://flash.jin10.com/detail/20251014060027577800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 15时25分]"
-        },
-        {
           "title": "意大利将从银行业寻求大约28亿欧元预算贡献。（安莎通讯社ANSA）",
           "url": "https://wallstreetcn.com/livenews/2986941",
           "source": "华尔街见闻-快讯",
@@ -1087,17 +1108,28 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "现货黄金跌破4100美元/盎司，日内跌幅达0.3%，现货白银失守51美元/盎司，日内跌约2.8%。",
-          "url": "https://wallstreetcn.com/livenews/2987302",
+          "title": "国债期货收盘，30年期主力合约涨0.34%，10年期主力合约涨0.11%，5年期主力合约涨0.10%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/2987333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            15,
-            22
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "金价疯狂涨势还能持续多久",
+          "url": "https://www.toutiao.com/trending/7560952972620860947/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 15时36分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）香港恒生指数期货技术面一览（日图）",
@@ -1244,6 +1276,18 @@
           "time_info": "[12时32分 ~ 13时32分]"
         },
         {
+          "title": "纽约期铜日内一度跌近4%，现报4.969美元/磅。美油、布油均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2987332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "国际油价13日上涨",
           "url": "https://flash.jin10.com/detail/20251014035423337800",
           "source": "金十数据",
@@ -1304,18 +1348,6 @@
           "time_info": "[11时07分 ~ 12时32分]"
         },
         {
-          "title": "金价疯狂涨势还能持续多久",
-          "url": "https://www.toutiao.com/trending/7560952972620860947/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 15时25分]"
-        },
-        {
           "title": "谷歌公司宣布：到2027年将在美国南卡莱罗纳州投资90亿美元。",
           "url": "https://wallstreetcn.com/livenews/2986933",
           "source": "华尔街见闻-快讯",
@@ -1340,6 +1372,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时22分]"
+        },
+        {
+          "title": "韩国对美出口额暴跌超40%",
+          "url": "https://wallstreetcn.com/livenews/2987317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 15时36分]"
         },
         {
           "title": "市场消息：法国总理勒科尔努的预算案目标是通过新增收入筹集140亿欧元。",
@@ -1368,6 +1413,19 @@
           "time_info": "[00时34分 ~ 02时35分]"
         },
         {
+          "title": "以太坊跌破4000美元/枚，日内跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/2987311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 15时36分]"
+        },
+        {
           "title": "美国油服贝克休斯CEO Lorenzo Simonelli：预计（美国总统特朗普挑起的）关税将在2025年对公司造成超过1亿美元的冲击。",
           "url": "https://wallstreetcn.com/livenews/2986931",
           "source": "华尔街见闻-快讯",
@@ -1392,19 +1450,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时39分 ~ 15时25分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超2%，芯片、算力硬件股大面积调整，大金融方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2168624",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 15时25分]"
         },
         {
           "title": "市场消息：法国总理勒科尔努的预算案将削减170亿欧元的支出，目标是在2026年底前将赤字降至4.7%。",
@@ -1457,6 +1502,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时39分 ~ 15时25分]"
+        },
+        {
+          "title": "交易员加大对英国央行降息的押注，预计到2026年底降息幅度将达46个基点。",
+          "url": "https://wallstreetcn.com/livenews/2987312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 15时36分]"
         },
         {
           "title": "南亚股市收盘播报｜周一（10月13日），巴基斯坦卡拉奇证交所KSE 100指数收跌2.56%，报15.9万点，10月3日创收盘历史新高、逼近17.0万点以来，连续六个交易日回撤——期间累计下跌6.00%。 卡拉奇全部股价指数收跌2.66%，报96712.73点，10月2日创收盘历史新、10.3万点高以来，七天累跌5.77%。",
@@ -1523,6 +1581,17 @@
           "time_info": "[01时23分 ~ 07时21分]"
         },
         {
+          "title": "金十图示：2025年10月14日（周二）上海金午盘价为936.14元/克，较国际金价(942.9元/克)低6.76元/克",
+          "url": "https://flash.jin10.com/detail/20251014151253070800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "力拓三季度铜产量20.4万吨。 三季度皮尔巴拉铁矿石产量8410万吨。 三季度皮尔巴拉铁矿石发货量8430万吨，分析师预期8520万吨。 2025年处于实现产量指引的正轨之上。 维持2025年皮尔巴拉铁矿石发货量指引不变。 维持2025年皮尔巴拉部门成本预期在每吨23.00-24.50美元不变。 维持2025年铜C1部门成本预期在每磅1.10-1.30美元不变。",
           "url": "https://wallstreetcn.com/livenews/2986977",
           "source": "华尔街见闻-快讯",
@@ -1535,16 +1604,16 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "韩国对美出口额暴跌超40%",
-          "url": "https://wallstreetcn.com/livenews/2987317",
+          "title": "WTI原油日内跌幅达1.0%，报58.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987329",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时25分]"
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "纽约期金涨超3%，纽约中午曾逼近4140美元，纽约期银涨约7%突破50美元整数位心理关口",
@@ -1571,16 +1640,28 @@
           "time_info": "[11时07分 ~ 12时32分]"
         },
         {
-          "title": "以太坊跌破4000美元/枚，日内跌近7%。",
-          "url": "https://wallstreetcn.com/livenews/2987311",
+          "title": "农发行发行2年期债券，规模30亿元，发行利率1.6303%，预期1.6700%，投标倍数3.69倍，边际倍数1.14倍； 农发行发行2年期债券，规模30亿元，发行利率1.6793%，预期1.7000%，投标倍数3.53倍，边际倍数1.82倍； 农发行发行7年期债券，规模20亿元，发行利率1.8544%，预期1.8400%，投标倍数4.32倍，边际倍数11.67倍。",
+          "url": "https://wallstreetcn.com/livenews/2987328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时25分]"
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "男子盗窃珠宝店900多克黄金被抓",
+          "url": "https://www.toutiao.com/trending/7560667293266001959/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月13日（周一）晚盘收盘上涨1.8%报933.67元/克；<br/>上海黄金交易所白银T+D 10月13日（周一）晚盘收盘上涨2.55%报11669.0元/千克。",
@@ -1715,18 +1796,6 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
-          "title": "交易员加大对英国央行降息的押注，预计到2026年底降息幅度将达46个基点。",
-          "url": "https://wallstreetcn.com/livenews/2987312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时25分]"
-        },
-        {
           "title": "市场消息：谷歌(GOOG.O)宣布至2027年将在南卡罗来纳州投资90亿美元。",
           "url": "https://flash.jin10.com/detail/20251014020340523800",
           "source": "金十数据",
@@ -1751,6 +1820,17 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
+          "title": "机构：英国就业数据若持续疲软 或促使英央行降息",
+          "url": "https://flash.jin10.com/detail/20251014151108230800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "现货黄金站上4160美元/盎司，再创新高。",
           "url": "https://wallstreetcn.com/livenews/2987205",
           "source": "华尔街见闻-快讯",
@@ -1773,6 +1853,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 15时07分]"
+        },
+        {
+          "title": "纽约期铜日内跌超4.00%，现报4.9380美元/磅。",
+          "url": "https://flash.jin10.com/detail/20251014150914971800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "周一（10月13日），韩元兑美元最终涨0.10%，报1425.09韩元。",
@@ -1835,6 +1926,17 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出1060.66亿元，占比4.12%；大单资金净流出389.76亿元，占比1.51%；小单资金净流入797.16亿元，占比3.09%。",
+          "url": "https://flash.jin10.com/detail/20251014150742496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "周一（10月13日）纽约尾盘，彭博谷物分类指数跌0.21%，报28.3002点。 CBOT玉米期货跌0.61%，报1.1025美元/蒲式耳。 CBOT小麦期货跌0.35%，报4.9675美元/蒲式耳。 CBOT大豆期货涨0.15%，报10.0825美元/蒲式耳，豆粕期货跌0.18%，豆油期货涨1.12%。",
           "url": "https://wallstreetcn.com/livenews/2986947",
           "source": "华尔街见闻-快讯",
@@ -1893,6 +1995,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 15时07分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）富时中国A50指数期货技术面一览（5小时图）",
+          "url": "https://flash.jin10.com/detail/20251014150738461800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "德国股指收涨0.6%，英国富时250指数涨1.2%，荷兰股指反弹1.2%",
@@ -1955,6 +2068,17 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
+          "title": "莱茵金属赢得价值超过3亿欧元的德国武装部队订单，将提供装甲医疗设施以部署至前线附近。",
+          "url": "https://flash.jin10.com/detail/20251014150710897800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.35%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/2987197",
           "source": "华尔街见闻-快讯",
@@ -1965,6 +2089,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时32分]"
+        },
+        {
+          "title": "印尼财长：印尼1月至9月预算赤字占GDP的比重为1.56%。",
+          "url": "https://flash.jin10.com/detail/20251014150627401800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "A股半导体芯片股持续调整，芯源微跌超10%，波长光电、华虹公司、中芯国际、通富微电、长川科技等多股均跌超5%。",
@@ -1991,6 +2126,17 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
+          "title": "英国30年期国债收益率跌至8月14日以来最低水平，日内跌约5个基点，至5.412%。",
+          "url": "https://flash.jin10.com/detail/20251014150528652800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "英国就业数据公布后，英镑兑美元回吐涨幅，现报1.3335。",
           "url": "https://wallstreetcn.com/livenews/2987281",
           "source": "华尔街见闻-快讯",
@@ -2001,6 +2147,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 15时07分]"
+        },
+        {
+          "title": "现货黄金突破4170美元",
+          "url": "https://www.toutiao.com/trending/7560957366821195303/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "LSEG数据显示，美元兑俄罗斯卢布跌至80，为自9月1日以来首次。",
+          "url": "https://flash.jin10.com/detail/20251014150515965800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "内盘期货夜市多数收跌，玻璃跌超2.5%",
@@ -2122,6 +2291,17 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "布伦特原油日内跌幅达1%，现报62.50美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251014150337626800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "AXA Investment Management Institute主席兼AXA IM Core首席投资官Chris Iggo：地缘政治风险和政治风险加剧，且只会愈演愈烈。 未来十年，政治风险将持续居高不下。",
           "url": "https://wallstreetcn.com/livenews/2986890",
           "source": "华尔街见闻-快讯",
@@ -2134,6 +2314,39 @@
           "time_info": "[00时34分 ~ 01时23分]"
         },
         {
+          "title": "WTI原油日内走低1.00%，现报58.56美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251014150243794800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "英国2年期国债收益率在英国就业和薪资数据公布后下跌约5个基点，至3.905%。",
+          "url": "https://flash.jin10.com/detail/20251014150159483800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251014150159389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
           "title": "币圈大爆仓后币安币创历史新高",
           "url": "https://www.toutiao.com/trending/7560917859442888218/",
           "source": "今日头条",
@@ -2143,6 +2356,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。玻璃跌超3%，甲醇、原木、苯乙烯、菜粕、工业硅、铁矿石跌超2%。涨幅方面，集运指数（欧线）涨超7%，沪银、沪金、多晶硅、生猪涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251014150120776800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "韩国对美出口额暴跌超40%",
+          "url": "https://flash.jin10.com/detail/20251014145628622800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时36分]"
         },
         {
           "title": "金价离10000美元不远了吗",
@@ -2233,17 +2468,6 @@
           "time_info": "05时22分"
         },
         {
-          "title": "WTI原油日内跌幅达1.0%，报58.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2987329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "美联储保尔森：预计关税将推高通胀，但不会导致持续性上涨。",
           "url": "https://flash.jin10.com/detail/20251014005826232800",
           "source": "金十数据",
@@ -2277,17 +2501,6 @@
           "time_info": "11时07分"
         },
         {
-          "title": "金十图示：2025年10月14日（周二）上海金午盘价为936.14元/克，较国际金价(942.9元/克)低6.76元/克",
-          "url": "https://flash.jin10.com/detail/20251014151253070800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "看多又做多，外资增配中国资产已成共识",
           "url": "https://wallstreetcn.com/livenews/2987003",
           "source": "华尔街见闻-快讯",
@@ -2297,17 +2510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "农发行发行2年期债券，规模30亿元，发行利率1.6303%，预期1.6700%，投标倍数3.69倍，边际倍数1.14倍； 农发行发行2年期债券，规模30亿元，发行利率1.6793%，预期1.7000%，投标倍数3.53倍，边际倍数1.82倍； 农发行发行7年期债券，规模20亿元，发行利率1.8544%，预期1.8400%，投标倍数4.32倍，边际倍数11.67倍。",
-          "url": "https://wallstreetcn.com/livenews/2987328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "美联储保尔森：就业市场目前接近充分就业，但趋势正朝着错误的方向发展。",
@@ -2475,17 +2677,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "机构：英国就业数据若持续疲软 或促使英央行降息",
-          "url": "https://flash.jin10.com/detail/20251014151108230800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "上证指数开盘报3910.78点，涨0.55%。 深证成指开盘报13369.56点，涨1.04%。 创业板指开盘报3121.00点，涨1.37%。 沪深300开盘报4634.05点，涨0.87%。 科创50开盘报1488.05点，涨1.02%。 中证500开盘报7434.11点，涨0.78%。 中证1000开盘报7580.39点，涨0.81%。",
           "url": "https://wallstreetcn.com/livenews/2987098",
           "source": "华尔街见闻-快讯",
@@ -2550,17 +2741,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "纽约期铜日内跌超4.00%，现报4.9380美元/磅。",
-          "url": "https://flash.jin10.com/detail/20251014150914971800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.31%，报565.93点。 欧元区STOXX 50指数初步收涨0.50%，报5559.48点。 富时泛欧绩优300指数初步收涨0.31%，报2250.78点。",
@@ -2651,17 +2831,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出1060.66亿元，占比4.12%；大单资金净流出389.76亿元，占比1.51%；小单资金净流入797.16亿元，占比3.09%。",
-          "url": "https://flash.jin10.com/detail/20251014150742496800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "日元跌超0.7%，重新跌穿152",
           "url": "https://wallstreetcn.com/livenews/2986968",
           "source": "华尔街见闻-快讯",
@@ -2717,17 +2886,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "金十图示：2025年10月14日（周二）富时中国A50指数期货技术面一览（5小时图）",
-          "url": "https://flash.jin10.com/detail/20251014150738461800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "中国央行公开市场开展910亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日无逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/2987093",
           "source": "华尔街见闻-快讯",
@@ -2781,17 +2939,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "莱茵金属赢得价值超过3亿欧元的德国武装部队订单，将提供装甲医疗设施以部署至前线附近。",
-          "url": "https://flash.jin10.com/detail/20251014150710897800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.44%，报566.63点。 欧元区STOXX 50指数收涨0.67%，报6568.19点。 富时泛欧绩优300指数收涨0.40%，报2252.76点。",
@@ -2871,17 +3018,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "印尼财长：印尼1月至9月预算赤字占GDP的比重为1.56%。",
-          "url": "https://flash.jin10.com/detail/20251014150627401800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "制度创新与市场需求共振，2025年A股询价转让“井喷”",
           "url": "https://wallstreetcn.com/livenews/2986992",
           "source": "华尔街见闻-快讯",
@@ -2904,17 +3040,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "男子盗窃珠宝店900多克黄金被抓",
-          "url": "https://www.toutiao.com/trending/7560667293266001959/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加310.5吨，增持量为7月21日以来最大，当前持仓量为15754.26吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20251014062427653800",
           "source": "金十数据",
@@ -2935,17 +3060,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "英国30年期国债收益率跌至8月14日以来最低水平，日内跌约5个基点，至5.412%。",
-          "url": "https://flash.jin10.com/detail/20251014150528652800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "Arm控股美股盘后上涨超8.7%。据The Information报道，OpenAI正为了博通人工智能（AI）芯片研发而与日本软银集团旗下Arm控股合作。",
@@ -2990,17 +3104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "LSEG数据显示，美元兑俄罗斯卢布跌至80，为自9月1日以来首次。",
-          "url": "https://flash.jin10.com/detail/20251014150515965800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "罕见逼空行情上演，现货白银价格“涨疯”",
@@ -3146,17 +3249,6 @@
           "time_info": "14时39分"
         },
         {
-          "title": "布伦特原油日内跌幅达1%，现报62.50美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251014150337626800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "德国9月CPI同比终值 2.4%，预期 2.4%，初值 2.4%。",
           "url": "https://wallstreetcn.com/livenews/2987274",
           "source": "华尔街见闻-快讯",
@@ -3278,17 +3370,6 @@
           "time_info": "11时07分"
         },
         {
-          "title": "WTI原油日内走低1.00%，现报58.56美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251014150243794800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.17%。",
           "url": "https://wallstreetcn.com/livenews/2987078",
           "source": "华尔街见闻-快讯",
@@ -3355,17 +3436,6 @@
           "time_info": "11时07分"
         },
         {
-          "title": "英国2年期国债收益率在英国就业和薪资数据公布后下跌约5个基点，至3.905%。",
-          "url": "https://flash.jin10.com/detail/20251014150159483800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
           "url": "https://flash.jin10.com/detail/20251014000030649800",
           "source": "金十数据",
@@ -3388,28 +3458,6 @@
           "time_info": "14时39分"
         },
         {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251014150159389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌互现。玻璃跌超3%，甲醇、原木、苯乙烯、菜粕、工业硅、铁矿石跌超2%。涨幅方面，集运指数（欧线）涨超7%，沪银、沪金、多晶硅、生猪涨超2%。",
-          "url": "https://flash.jin10.com/detail/20251014150120776800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "BSE：暂停成长型白银ETF的认购。",
           "url": "https://wallstreetcn.com/livenews/2986885",
           "source": "华尔街见闻-快讯",
@@ -3430,28 +3478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "现货黄金突破4170美元",
-          "url": "https://www.toutiao.com/trending/7560957366821195303/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "韩国对美出口额暴跌超40%",
-          "url": "https://flash.jin10.com/detail/20251014145628622800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "米其林调整2025财年展望，预计全年业务部门利润将达26亿至30亿欧元，此前预计高于34亿欧元；预计全年调整后自由现金流将达到15亿至18亿欧元，此前预计高于17亿欧元。",
