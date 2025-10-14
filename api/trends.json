@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T18:43:32.315466+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-10-14T19:09:40.932169+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 382,
+      "match_count": 395,
       "titles": [
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时52分 ~ 18时43分]"
+          "appearance_count": 21,
+          "time_info": "[09时52分 ~ 19时09分]"
         },
         {
           "title": "中国经济总量接连突破新关口",
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时07分 ~ 18时43分]"
+          "appearance_count": 20,
+          "time_info": "[11时07分 ~ 19时09分]"
         },
         {
           "title": "黄金暴涨只是序幕？“货币贬值”大辩论席卷全球市场",
@@ -104,6 +104,19 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
+          "title": "金银也没顶住，全球股市、数字货币重挫，“所有资产都在跌”",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 19时09分]"
+        },
+        {
           "title": "超预期！中国9月以美元计价出口同比增长8.3%，进口同比增7.4% 工业机器人和风电出口增长强劲",
           "url": "https://wallstreetcn.com/articles/3757056",
           "source": "华尔街见闻",
@@ -114,19 +127,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 11时07分]"
-        },
-        {
-          "title": "金银也没顶住，全球股市、数字货币重挫，“所有资产都在跌”",
-          "url": "https://wallstreetcn.com/articles/3757142",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时12分 ~ 18时43分]"
         },
         {
           "title": "美国或失去中国1600万吨大豆订单",
@@ -142,6 +142,20 @@
           "time_info": "[11时07分 ~ 18时43分]"
         },
         {
+          "title": "日本恐飞出黑天鹅！执政联盟破裂后 贸易局势进一步放大市场担忧",
+          "url": "https://www.cls.cn/detail/2168781",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 19时09分]"
+        },
+        {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
           "url": "https://www.cls.cn/detail/2168249",
           "source": "财联社热门",
@@ -153,6 +167,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时21分 ~ 13时32分]"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26lcate%3D5001%26cate%3D5001%26flag%3D1%26realpos%3D2%26pos%3D1%26display_time%3D1760425430%26pre_seqid%3D17604254305740372983756",
+          "source": "微博",
+          "ranks": [
+            2,
+            13,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时06分 ~ 19时09分]"
         },
         {
           "title": "中国为何突然停购澳大利亚铁矿石",
@@ -170,20 +198,6 @@
           "time_info": "[00时33分 ~ 15时36分]"
         },
         {
-          "title": "日本恐飞出黑天鹅！执政联盟破裂后 贸易局势进一步放大市场担忧",
-          "url": "https://www.cls.cn/detail/2168781",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时12分 ~ 18时43分]"
-        },
-        {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
           "url": "https://wallstreetcn.com/articles/3757113",
           "source": "华尔街见闻",
@@ -194,8 +208,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时52分 ~ 18时43分]"
+          "appearance_count": 21,
+          "time_info": "[09时52分 ~ 19时09分]"
         },
         {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
@@ -212,6 +226,17 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
+          "url": "https://wallstreetcn.com/articles/3757135",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
           "title": "自主可控！商务部公告首用wps格式 A股软件公司国产替代进度几何？",
           "url": "https://www.cls.cn/detail/2168152",
           "source": "财联社热门",
@@ -226,20 +251,6 @@
           "time_info": "[00时33分 ~ 11时07分]"
         },
         {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26lcate%3D5001%26cate%3D5001%26flag%3D1%26realpos%3D2%26pos%3D1%26display_time%3D1760425430%26pre_seqid%3D17604254305740372983756",
-          "source": "微博",
-          "ranks": [
-            2,
-            13,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时06分 ~ 18时43分]"
-        },
-        {
           "title": "历史级逼空，历史级价格！白银飙涨，重回“亨特兄弟逼仓”价格",
           "url": "https://wallstreetcn.com/articles/3757123",
           "source": "华尔街见闻",
@@ -249,8 +260,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时31分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[12时31分 ~ 19时09分]"
         },
         {
           "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
@@ -289,8 +300,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时06分 ~ 18时43分]"
+          "appearance_count": 13,
+          "time_info": "[15时06分 ~ 19时09分]"
         },
         {
           "title": "吃一堑长一智！币圈“史上最大爆仓惨案”后 投资者纷纷加码对冲",
@@ -304,8 +315,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时38分 ~ 18时43分]"
+          "appearance_count": 15,
+          "time_info": "[14时38分 ~ 19时09分]"
         },
         {
           "title": "美国或失1600万吨大豆订单",
@@ -321,15 +332,20 @@
           "time_info": "[14时38分 ~ 17时41分]"
         },
         {
-          "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
-          "url": "https://wallstreetcn.com/articles/3757135",
-          "source": "华尔街见闻",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251014093741376800",
+          "source": "金十数据",
           "ranks": [
-            5
+            5,
+            1,
+            2,
+            17,
+            18,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 19时09分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -412,21 +428,6 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251014093741376800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            1,
-            2,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 16时13分]"
-        },
-        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -486,6 +487,17 @@
           "time_info": "[15时25分 ~ 15时36分]"
         },
         {
+          "title": "一图看懂 | 可控核聚变技术加速突破 A股公司积极入场",
+          "url": "https://www.cls.cn/detail/2169123",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-10-14）",
           "url": "https://flash.jin10.com/detail/20251014151434578800",
           "source": "金十数据",
@@ -495,6 +507,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "玉渊谭天：美国或失1600万吨大豆订单",
+          "url": "https://www.cls.cn/detail/2168704",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 19时09分]"
         },
         {
           "title": "机构：欧元兑美元预计将持续走强",
@@ -552,17 +577,6 @@
           "time_info": "15时07分"
         },
         {
-          "title": "摩根大通第三季股票销售和交易收入33.3亿美元，预估30.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20251014183632679800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "WTI 11月原油期货收涨0.59美元，涨幅1.00%，报59.49美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报65.19美元/桶。 NYMEX 11月天然气期货收报3.1180美元/百万英热单位。 NYMEX 11月汽油期货收报1.8438美元/加仑，NYMEX 11月取暖油期货收报2.2497美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/2986939",
           "source": "华尔街见闻-快讯",
@@ -607,17 +621,6 @@
           "time_info": "16时13分"
         },
         {
-          "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/2987475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "国内黄金饰品克价突破1200元",
           "url": "https://www.toutiao.com/trending/7560907020056923658/",
           "source": "今日头条",
@@ -654,17 +657,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "通用汽车因调整电动车计划计提16亿美元费用",
-          "url": "https://flash.jin10.com/detail/20251014183604515800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "中国国债期现货走低，30年期国债期货主力合约盘中一度跌超0.5%；30年期国债现券收益率上行1.6个基点至2.13%。",
@@ -711,17 +703,6 @@
           "time_info": "18时12分"
         },
         {
-          "title": "瑞芯微：预计前三季度净利润7.6亿元到8亿元，同比增长116%到127%；由于DDR4存储芯片从供应短缺到价格暴涨，促使部分客户中高端AIoT产品向DDR5转型，方案调整时间影响短期需求，导致三季度业绩增长略缓，随后会继续快速增长。",
-          "url": "https://wallstreetcn.com/livenews/2987472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20251014104032115800",
           "source": "金十数据",
@@ -755,6 +736,17 @@
           "time_info": "16时13分"
         },
         {
+          "title": "南非兰特兑美元下跌1%。",
+          "url": "https://flash.jin10.com/detail/20251014184926723800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "三星韩国股市盘前涨4%，此前发布的第三季度业绩报告超预期。",
           "url": "https://wallstreetcn.com/livenews/2987008",
           "source": "华尔街见闻-快讯",
@@ -775,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "一图看懂 | 可控核聚变技术加速突破 A股公司积极入场",
-          "url": "https://www.cls.cn/detail/2169123",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "现货钯金延续涨势，最新上涨逾7%，报每盎司1,505.7美元。",
@@ -843,15 +824,15 @@
           "time_info": "16时13分"
         },
         {
-          "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2987467",
+          "title": "WTI原油日内跌3%，现报57.32美元/桶；布伦特原油跌2.8%，报61.52美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987489",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）各大货币对表现",
@@ -879,19 +860,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 03时20分]"
-        },
-        {
-          "title": "玉渊谭天：美国或失1600万吨大豆订单",
-          "url": "https://www.cls.cn/detail/2168704",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 18时43分]"
         },
         {
           "title": "创业板指高开低走跌近4%，半导体芯片股集体调整",
@@ -969,15 +937,15 @@
           "time_info": "15时07分"
         },
         {
-          "title": "摩根大通：复杂地缘政治局势、关税、贸易不确定性、资产价格高企以及通胀可能持续上升，加剧了不确定性。",
-          "url": "https://flash.jin10.com/detail/20251014183238159800",
+          "title": "花旗集团(C.N)：将黑石集团(BX.N)目标价从185美元下调至170美元。",
+          "url": "https://flash.jin10.com/detail/20251014184807012800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
         },
         {
           "title": "道指反弹将近600点，标普对上周五的失地收复大约一半",
@@ -997,9 +965,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "轻松健康集团港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/2987487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超7%，沪金、沪银、多晶硅涨超2%。油菜籽跌超5%，玻璃跌超3%，甲醇、原木、苯乙烯、工业硅、菜籽粕、铁矿石跌超2%。",
@@ -1014,6 +993,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时07分 ~ 16时13分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
+          "url": "https://www.cls.cn/detail/2168991",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 19时09分]"
         },
         {
           "title": "摩根大通策略师说，上周五杠杆型交易所交易基金（ETFs）的投资者纷纷退出，加剧了4月份以来最大的单日股市抛售。",
@@ -1275,6 +1267,18 @@
           "time_info": "[17时26分 ~ 17时41分]"
         },
         {
+          "title": "摩根大通第三季股票销售和交易收入33.3亿美元，预估30.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251014183632679800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "白银价格涨穿52.50美元/盎司，创历史新高，亚太盘初涨幅超过0.4%。",
           "url": "https://wallstreetcn.com/livenews/2986982",
           "source": "华尔街见闻-快讯",
@@ -1297,6 +1301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时32分]"
+        },
+        {
+          "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "以太坊日内跌幅达5.00%，现报4029美元/枚。",
@@ -1374,6 +1390,18 @@
           "time_info": "[18时12分 ~ 18时43分]"
         },
         {
+          "title": "通用汽车因调整电动车计划计提16亿美元费用",
+          "url": "https://flash.jin10.com/detail/20251014183604515800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "英国央行官员：英国退欧和关税是英镑长期下跌的部分原因",
           "url": "https://wallstreetcn.com/livenews/2986972",
           "source": "华尔街见闻-快讯",
@@ -1396,6 +1424,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时21分]"
+        },
+        {
+          "title": "瑞芯微：预计前三季度净利润7.6亿元到8亿元，同比增长116%到127%；由于DDR4存储芯片从供应短缺到价格暴涨，促使部分客户中高端AIoT产品向DDR5转型，方案调整时间影响短期需求，导致三季度业绩增长略缓，随后会继续快速增长。",
+          "url": "https://wallstreetcn.com/livenews/2987472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "英国10年期国债收益率下行6个基点至4.60%，为8月14日以来最低水平。",
@@ -1579,17 +1619,16 @@
           "time_info": "[15时36分 ~ 16时13分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
-          "url": "https://www.cls.cn/detail/2168991",
-          "source": "财联社热门",
+          "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987467",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9,
-            8
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 18时43分]"
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "国际油价13日上涨",
@@ -1638,6 +1677,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时12分 ~ 18时43分]"
+        },
+        {
+          "title": "摩根大通：复杂地缘政治局势、关税、贸易不确定性、资产价格高企以及通胀可能持续上升，加剧了不确定性。",
+          "url": "https://flash.jin10.com/detail/20251014183238159800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "周一（10月13日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌0.75%，逼近11.6万美元；现货比特币涨0.59%，也逼近11.6万美元。 CME以太币期货DCR主力合约涨6.81%，报4280.50美元，北京时间19:29下挫至4059.50美元刷新日低，随后持续走高。",
@@ -2034,6 +2085,18 @@
           "time_info": "[18时12分 ~ 18时43分]"
         },
         {
+          "title": "摩根大通：尽管已出现一些趋软迹象，尤其是在就业增长方面，但美国经济总体上仍保持韧性。",
+          "url": "https://flash.jin10.com/detail/20251014183225450800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "力拓三季度铜产量20.4万吨。 三季度皮尔巴拉铁矿石产量8410万吨。 三季度皮尔巴拉铁矿石发货量8430万吨，分析师预期8520万吨。 2025年处于实现产量指引的正轨之上。 维持2025年皮尔巴拉铁矿石发货量指引不变。 维持2025年皮尔巴拉部门成本预期在每吨23.00-24.50美元不变。 维持2025年铜C1部门成本预期在每磅1.10-1.30美元不变。",
           "url": "https://wallstreetcn.com/livenews/2986977",
           "source": "华尔街见闻-快讯",
@@ -2068,6 +2131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时12分 ~ 18时43分]"
+        },
+        {
+          "title": "摩根大通第三季度资产管理规模达4.6万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251014183204088800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "纽约期金涨超3%，纽约中午曾逼近4140美元，纽约期银涨约7%突破50美元整数位心理关口",
@@ -2154,6 +2229,18 @@
           "time_info": "[17时26分 ~ 17时41分]"
         },
         {
+          "title": "富国银行：美国经济一直表现坚韧，客户的财务状况依然稳健。",
+          "url": "https://flash.jin10.com/detail/20251014183016830800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "半导体ETF收涨超4.4%，领跑美股行业ETF，标普科技板块涨约2.5%",
           "url": "https://wallstreetcn.com/livenews/2986966",
           "source": "华尔街见闻-快讯",
@@ -2225,6 +2312,18 @@
           "time_info": "[18时12分 ~ 18时43分]"
         },
         {
+          "title": "通用汽车(GM.N)盘前跌3%，公司预计因调整电动汽车生产布局将面临16亿美元的支出。",
+          "url": "https://flash.jin10.com/detail/20251014182829550800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "日本财务大臣加藤胜信：汇率出现了一些突然的走势。 汇率稳定波动、反映基本面很重要。 将密切关注汇率是否有过度波动。 将与日本央行密切关注国内外经济形势。",
           "url": "https://wallstreetcn.com/livenews/2987169",
           "source": "华尔街见闻-快讯",
@@ -2235,6 +2334,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时32分]"
+        },
+        {
+          "title": "达美乐披萨第三季度营收11.5亿美元，市场预期11.4亿美元",
+          "url": "https://wallstreetcn.com/livenews/2987460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
+          "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
+          "url": "https://www.cls.cn/detail/2169104",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "市场消息：法国总理勒科尔努的政府将提交旨在削减310亿欧元成本的预算案。",
@@ -2259,6 +2382,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 15时07分]"
+        },
+        {
+          "title": "贝莱德三季度吸金2050亿美元 资产管理规模创纪录达13.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20251014182633352800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
@@ -2355,6 +2490,18 @@
           "time_info": "[15时25分 ~ 15时36分]"
         },
         {
+          "title": "强生(JNJ.N)预计财年销售额为935亿至939亿美元，此前预期为932亿至936亿美元。",
+          "url": "https://flash.jin10.com/detail/20251014182026527800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "周一（10月13日），韩元兑美元最终涨0.10%，报1425.09韩元。",
           "url": "https://wallstreetcn.com/livenews/2986927",
           "source": "华尔街见闻-快讯",
@@ -2403,6 +2550,30 @@
           "time_info": "[14时39分 ~ 15时07分]"
         },
         {
+          "title": "美国银行：将通用汽车(GM.N)目标股价从62美元下调至61美元。",
+          "url": "https://flash.jin10.com/detail/20251014182012030800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
+          "title": "贝莱德第三季度资产管理规模为13.46万亿美元，市场预期为13.37万亿美元。 第三季度调整后EPS11.55美元，去年同期为11.46美元，市场预期为11.47美元。 第三季度营收65.1亿美元，同比增长25%，市场预期为63.4亿美元。 第三季度调整后营业利润率44.6%，去年同期为45.8%，市场预期为44%。 贝莱德美股盘前微涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2987454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "泰国央行：低通胀有助于缓解生活成本。",
           "url": "https://flash.jin10.com/detail/20251014141901189800",
           "source": "金十数据",
@@ -2424,6 +2595,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "荷兰国际：若鲍威尔延续谨慎基调，美元可能进一步走强",
+          "url": "https://flash.jin10.com/detail/20251014182002103800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "周一（10月13日）纽约尾盘，彭博谷物分类指数跌0.21%，报28.3002点。 CBOT玉米期货跌0.61%，报1.1025美元/蒲式耳。 CBOT小麦期货跌0.35%，报4.9675美元/蒲式耳。 CBOT大豆期货涨0.15%，报10.0825美元/蒲式耳，豆粕期货跌0.18%，豆油期货涨1.12%。",
@@ -2509,6 +2692,18 @@
           "time_info": "[15时25分 ~ 15时36分]"
         },
         {
+          "title": "通用汽车(GM.N)：预计电动汽车的普及速度将放缓。预计因调整电动汽车生产布局将面临16亿美元的支出。",
+          "url": "https://flash.jin10.com/detail/20251014181727683800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "德国股指收涨0.6%，英国富时250指数涨1.2%，荷兰股指反弹1.2%",
           "url": "https://wallstreetcn.com/livenews/2986905",
           "source": "华尔街见闻-快讯",
@@ -2580,6 +2775,18 @@
           "time_info": "[15时25分 ~ 15时36分]"
         },
         {
+          "title": "意大利政府据称拟向银行业征收约50亿欧元 以支持新财政预算",
+          "url": "https://flash.jin10.com/detail/20251014181654906800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.35%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/2987197",
           "source": "华尔街见闻-快讯",
@@ -2601,6 +2808,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时36分]"
+        },
+        {
+          "title": "美国10年期国债收益率下跌4个基点，自9月17日以来首次触及4%。",
+          "url": "https://flash.jin10.com/detail/20251014181210891800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时09分]"
         },
         {
           "title": "A股半导体芯片股持续调整，芯源微跌超10%，波长光电、华虹公司、中芯国际、通富微电、长川科技等多股均跌超5%。",
@@ -2959,15 +3178,15 @@
           "time_info": "15时07分"
         },
         {
-          "title": "摩根大通：尽管已出现一些趋软迹象，尤其是在就业增长方面，但美国经济总体上仍保持韧性。",
-          "url": "https://flash.jin10.com/detail/20251014183225450800",
+          "title": "WTI原油期货日内大跌3.00%，现报57.70美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251014184752116800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，世纪互联初步收涨超10%，小马智行涨9.9%，大全新能源和台积电涨8%，万国数据涨7.4%，晶科能源涨6.5%，阿特斯太阳能涨6%，美团ADR和阿里涨超4%。 ETF中，YINN初步收涨约8.8%，CQQQ涨4.3%，KWEB涨3.8%。",
@@ -3003,6 +3222,17 @@
           "time_info": "16时13分"
         },
         {
+          "title": "华尔街警示美股逢低买家：诱惑背后 或暗藏更多波澜",
+          "url": "https://wallstreetcn.com/livenews/2987486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "美联储保尔森：预计关税将推高通胀，但不会导致持续性上涨。",
           "url": "https://flash.jin10.com/detail/20251014005826232800",
           "source": "金十数据",
@@ -3034,17 +3264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "摩根大通第三季度资产管理规模达4.6万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251014183204088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "看多又做多，外资增配中国资产已成共识",
@@ -3080,15 +3299,15 @@
           "time_info": "12时32分"
         },
         {
-          "title": "富国银行：美国经济一直表现坚韧，客户的财务状况依然稳健。",
-          "url": "https://flash.jin10.com/detail/20251014183016830800",
+          "title": "WTI原油日内跌3.00%，现报57.38美元/桶。布伦特原油跌2.7%，报61.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251014184355800800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.28%，10年期主力合约跌0.07%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。",
@@ -3146,17 +3365,6 @@
           "time_info": "17时41分"
         },
         {
-          "title": "通用汽车(GM.N)盘前跌3%，公司预计因调整电动汽车生产布局将面临16亿美元的支出。",
-          "url": "https://flash.jin10.com/detail/20251014182829550800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "A股黄金股继续大涨，中国瑞林2连板，华钰矿业竞价涨停，白银有色、西部黄金、盛达资源、湖南黄金等涨超6%。",
           "url": "https://wallstreetcn.com/livenews/2987102",
           "source": "华尔街见闻-快讯",
@@ -3168,15 +3376,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "达美乐披萨第三季度营收11.5亿美元，市场预期11.4亿美元",
-          "url": "https://wallstreetcn.com/livenews/2987460",
+          "title": "摩根大通CEO戴蒙：美国经济总体保持韧性。 不确定性的程度仍在上升。 出现了一些疲软的迹象，尤其是在就业增长方面。",
+          "url": "https://wallstreetcn.com/livenews/2987480",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
         },
         {
           "title": "美联储保尔森：关税通胀影响迄今小于预期。",
@@ -3223,15 +3431,26 @@
           "time_info": "18时12分"
         },
         {
-          "title": "贝莱德三季度吸金2050亿美元 资产管理规模创纪录达13.5万亿美元",
-          "url": "https://flash.jin10.com/detail/20251014182633352800",
+          "title": "比特币日内大跌5000美元，现报110166美元/枚，跌幅4.34%。",
+          "url": "https://flash.jin10.com/detail/20251014184158901800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "摩根大通三季度经调整后营收471.2亿美元，预估454.8亿美元。 三季度每股收益5.07美元。 第三季股票销售和交易收入33.3亿美元，预估30.4亿美元。 第三季FICC销售与交易收入56.1亿美元，预估为53.3亿美元。 摩根大通预计全年净利息收入约为958亿美元，此前预计955亿美元。 摩根大通美股盘前涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美联储保尔森：2026年有望接近潜在增长，通胀最终将趋于降温。",
@@ -3298,6 +3517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "摩根大通预计全年净利息收入约为958亿美元，此前预计约为955亿美元。",
+          "url": "https://flash.jin10.com/detail/20251014183919249800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "上证指数开盘报3910.78点，涨0.55%。 深证成指开盘报13369.56点，涨1.04%。 创业板指开盘报3121.00点，涨1.37%。 沪深300开盘报4634.05点，涨0.87%。 科创50开盘报1488.05点，涨1.02%。 中证500开盘报7434.11点，涨0.78%。 中证1000开盘报7580.39点，涨0.81%。",
@@ -3388,17 +3618,6 @@
           "time_info": "18时12分"
         },
         {
-          "title": "强生(JNJ.N)预计财年销售额为935亿至939亿美元，此前预期为932亿至936亿美元。",
-          "url": "https://flash.jin10.com/detail/20251014182026527800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "欧洲STOXX 600指数初步收涨0.31%，报565.93点。 欧元区STOXX 50指数初步收涨0.50%，报5559.48点。 富时泛欧绩优300指数初步收涨0.31%，报2250.78点。",
           "url": "https://wallstreetcn.com/livenews/2986904",
           "source": "华尔街见闻-快讯",
@@ -3419,17 +3638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
-        },
-        {
-          "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
-          "url": "https://www.cls.cn/detail/2169104",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "美联储保尔森：倾向于今年内逐步下调利率，直至明年。",
@@ -3476,17 +3684,6 @@
           "time_info": "18时12分"
         },
         {
-          "title": "美国银行：将通用汽车(GM.N)目标股价从62美元下调至61美元。",
-          "url": "https://flash.jin10.com/detail/20251014182012030800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "创业板指跌1%，科创50指数跌超1%。",
           "url": "https://wallstreetcn.com/livenews/2987156",
           "source": "华尔街见闻-快讯",
@@ -3496,17 +3693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "贝莱德第三季度资产管理规模为13.46万亿美元，市场预期为13.37万亿美元。 第三季度调整后EPS11.55美元，去年同期为11.46美元，市场预期为11.47美元。 第三季度营收65.1亿美元，同比增长25%，市场预期为63.4亿美元。 第三季度调整后营业利润率44.6%，去年同期为45.8%，市场预期为44%。 贝莱德美股盘前微涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2987454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "现货黄金站上4110美元/盎司，日内暴涨约100美元，涨幅达2.48%。",
@@ -3540,17 +3726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "荷兰国际：若鲍威尔延续谨慎基调，美元可能进一步走强",
-          "url": "https://flash.jin10.com/detail/20251014182002103800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "日元跌超0.7%，重新跌穿152",
@@ -3608,17 +3783,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "通用汽车(GM.N)：预计电动汽车的普及速度将放缓。预计因调整电动汽车生产布局将面临16亿美元的支出。",
-          "url": "https://flash.jin10.com/detail/20251014181727683800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "中国央行公开市场开展910亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日无逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/2987093",
           "source": "华尔街见闻-快讯",
@@ -3628,6 +3792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计提16亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2987465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "乌克兰总统泽连斯基：希望从欧盟、挪威和中东获得天然气。",
@@ -3694,17 +3869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
-        },
-        {
-          "title": "意大利政府据称拟向银行业征收约50亿欧元 以支持新财政预算",
-          "url": "https://flash.jin10.com/detail/20251014181654906800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.44%，报566.63点。 欧元区STOXX 50指数收涨0.67%，报6568.19点。 富时泛欧绩优300指数收涨0.40%，报2252.76点。",
@@ -3793,17 +3957,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
-        },
-        {
-          "title": "美国10年期国债收益率下跌4个基点，自9月17日以来首次触及4%。",
-          "url": "https://flash.jin10.com/detail/20251014181210891800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "制度创新与市场需求共振，2025年A股询价转让“井喷”",
@@ -4398,6 +4551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "BSE：暂停成长型白银ETF的认购。",
