@@ -2215,7 +2215,7 @@ def render_feishu_content(
         for i, id_value 在 enumerate(report_data["failed_ids"]， 1):
             text_content += f"  • <font color='red'>{id_value}</font>\n"
 
-    now = get_beijing_time()
+    现在 = get_beijing_time()
     text_content += (
         f"\n\n<font color='grey'>更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}</font>"
     )
@@ -2228,7 +2228,7 @@ def render_feishu_content(
 
 # 修改后的代码 (Modified Code)
 def render_dingtalk_content(
-        report_data: Dict, update_info: Optional[Dict] = None, mode: str = "daily"
+        report_data: Dict, update_info: Optional[Dict] = 无, mode: str = "daily"
 ) -> str:
     """渲染钉钉内容"""
     text_content = ""
