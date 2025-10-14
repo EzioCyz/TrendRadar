@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T07:16:18.833689+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2025-10-15T07:37:13.667473+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 237,
+      "match_count": 247,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -19,17 +19,6 @@
           "time_info": "[00时20分 ~ 06时41分]"
         },
         {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
           "title": "敏感时刻，今晚鲍威尔又要登场了，这是他在美联储决议后首度发声",
           "url": "https://wallstreetcn.com/articles/3757154",
           "source": "华尔街见闻",
@@ -38,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -51,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "一图看懂 | 可控核聚变技术加速突破 A股公司积极入场",
@@ -63,8 +52,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
+        },
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -75,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "【数据看盘】IM期指多头连续两日大幅加仓 机构、量化甩卖多只芯片股",
@@ -88,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
@@ -104,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹",
@@ -117,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，半导体、有色等热门赛道全线退潮",
@@ -148,11 +149,12 @@
             6,
             7,
             18,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 07时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 07时37分]"
         },
         {
           "title": "订单大增催生百亿项目 A股风电公司“从产品出海到产能出海”|行业观察",
@@ -166,8 +168,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -190,11 +192,12 @@
             13,
             15,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -205,8 +208,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "【焦点复盘】双创指数遭遇放量阴包阳，全市场超450股跌逾5%，银行等红利股逆势拉升",
@@ -231,22 +234,12 @@
             19,
             20,
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "日本恐飞出黑天鹅！执政联盟破裂后 贸易局势进一步放大市场担忧",
-          "url": "https://www.cls.cn/detail/2168781",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 01时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 07时37分]"
         },
         {
           "title": "金价",
@@ -261,8 +254,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时37分]"
+        },
+        {
+          "title": "日本恐飞出黑天鹅！执政联盟破裂后 贸易局势进一步放大市场担忧",
+          "url": "https://www.cls.cn/detail/2168781",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 01时40分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 07时37分]"
         },
         {
           "title": "“新美联储通讯社”：鲍威尔为美联储的政策进行了辩护",
@@ -295,6 +310,17 @@
           "time_info": "[02时48分 ~ 04时40分]"
         },
         {
+          "title": "贸易忧虑再起，科技股拖累大盘，道指逆市收高，黄金连创新高后回落，原油下挫",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：我们不能在俄罗斯资产问题上违反国际法。",
           "url": "https://flash.jin10.com/detail/20251015001513953800",
           "source": "金十数据",
@@ -304,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时46分]"
+        },
+        {
+          "title": "新西兰联储首席经济学家康威：人工智能投资与气候变化可能对中性利率构成上行压力。",
+          "url": "https://flash.jin10.com/detail/20251015072036706800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "周二（10月14日）纽约尾盘，ICE美元指数下跌0.25%，报99.025点，日内交投区间为99.475-98.988点。 彭博美元指数跌0.11%，报1214.25点，日内交投区间为1219.18-1213.81点。",
@@ -321,6 +358,18 @@
           "time_info": "[03时38分 ~ 06时16分]"
         },
         {
+          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
+          "url": "https://www.cls.cn/detail/2169304",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时42分 ~ 07时37分]"
+        },
+        {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
@@ -336,6 +385,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时41分]"
+        },
+        {
+          "title": "年轻人热衷买黄金贴纸最低仅几十元",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            29,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 07时37分]"
         },
         {
           "title": "法国巴黎银行废弃做空阿根廷比索兑美元的主张。",
@@ -368,6 +431,21 @@
           "time_info": "[05时16分 ~ 07时16分]"
         },
         {
+          "title": "小盘股指ETF收涨超1.4%，和黄金ETF在美股大类资产类ETF中表现突出",
+          "url": "https://wallstreetcn.com/livenews/2987720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            10,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 07时37分]"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：下一步降息的可能性更大，而非加息。",
           "url": "https://flash.jin10.com/detail/20251015001457588800",
           "source": "金十数据",
@@ -388,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 01时40分]"
+        },
+        {
+          "title": "新西兰联储首席经济学家康威：利率处于中性区间的下限2.5%，但我们仍在摸索中。",
+          "url": "https://flash.jin10.com/detail/20251015072025176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "美联储Collins：通胀肯定是我重点留意的问题之一。",
@@ -428,6 +517,43 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：很明显美联储主席鲍威尔会降息。",
+          "url": "https://flash.jin10.com/detail/20251015071836893800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "现货黄金短线拉升10逾美元，触及4160美元/盎司，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20251015061527382800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少21.17吨，当前持仓量为15733.09吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20251015061349676800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：通胀的下行风险大于上行风险。",
           "url": "https://flash.jin10.com/detail/20251015001412403800",
           "source": "金十数据",
@@ -439,18 +565,28 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
-          "title": "小盘股指ETF收涨超1.4%，和黄金ETF在美股大类资产类ETF中表现突出",
-          "url": "https://wallstreetcn.com/livenews/2987720",
-          "source": "华尔街见闻-快讯",
+          "title": "新西兰联储首席经济学家康威：中性利率始终在波动。",
+          "url": "https://flash.jin10.com/detail/20251015071627190800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            4,
-            10,
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：正在与乌克兰总统办公室主任叶尔马克和副总理斯维里登科一起为乌克兰总统访问华盛顿做准备。",
+          "url": "https://flash.jin10.com/detail/20251015060950572800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 07时37分]"
         },
         {
           "title": "高盛集团发行100亿美元投资级债券，为该公司2022年1月份（120亿美元，六种久期）以来最大的单日（高评级）债务融资规模，共五种到期时间。（彭博）",
@@ -549,24 +685,28 @@
           "time_info": "[05时16分 ~ 07时16分]"
         },
         {
+          "title": "航空业ETF收涨将近3.2%，和银行ETF领跑美股行业ETF，半导体ETF则跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/2987718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 07时37分]"
+        },
+        {
           "title": "贸易忧虑再起，科技股拖累大盘，道指逆市收高，黄金维持涨势，白银原油下挫",
           "url": "https://wallstreetcn.com/articles/3757142",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "新西兰联储首席经济学家康威：我们必须避免那些威胁货币政策操作独立性或忽视中期通胀压力的选择。",
-          "url": "https://flash.jin10.com/detail/20251015064958644800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -625,20 +765,6 @@
           "time_info": "[04时17分 ~ 06时41分]"
         },
         {
-          "title": "年轻人热衷买黄金贴纸最低仅几十元",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            29,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时16分]"
-        },
-        {
           "title": "周二（10月14日），美联储隔夜逆回购协议（RRP）使用规模为35.16亿美元，创2021年4月份以来最低，上个交易日报41.24亿美元。",
           "url": "https://wallstreetcn.com/livenews/2987653",
           "source": "华尔街见闻-快讯",
@@ -691,17 +817,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "东北地区首个煤制天然气项目一期全线贯通",
-          "url": "https://flash.jin10.com/detail/20251015064901347800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "新西兰联储：每年将举办七次利率政策会议。",
           "url": "https://wallstreetcn.com/livenews/2987712",
           "source": "华尔街见闻-快讯",
@@ -711,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "A股权益类ETF两日吸金超560亿元",
+          "url": "https://wallstreetcn.com/livenews/2987755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "现货白银短线下跌约0.4美元，最新报51.41美元/盎司。",
@@ -856,8 +982,8 @@
           "time_info": "[03时14分 ~ 04时40分]"
         },
         {
-          "title": "现货黄金短线拉升10逾美元，触及4160美元/盎司，日内涨0.41%。",
-          "url": "https://flash.jin10.com/detail/20251015061527382800",
+          "title": "新西兰联储首席经济学家康威：我们必须避免那些威胁货币政策操作独立性或忽视中期通胀压力的选择。",
+          "url": "https://flash.jin10.com/detail/20251015064958644800",
           "source": "金十数据",
           "ranks": [
             1,
@@ -865,18 +991,7 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "[07时16分 ~ 07时37分]"
         },
         {
           "title": "美联储主席鲍威尔：如果政府停摆持续，且10月数据推迟公布，美联储将开始错过数据，形势将变得更加严峻。",
@@ -890,15 +1005,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "新西兰联储首席经济学家康威：近期不要指望再次使用额外的货币政策工具。",
-          "url": "https://flash.jin10.com/detail/20251015064829696800",
-          "source": "金十数据",
+          "title": "新西兰联储首席经济学家Conway：2.5%的官方利率接近中性区间低端。 对经济的产出缺口将缩小非常有信心。",
+          "url": "https://wallstreetcn.com/livenews/2987751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "07时37分"
         },
         {
           "title": "美联储柯林斯：经济中继续普遍存在通胀担忧。",
@@ -940,18 +1055,6 @@
           "time_info": "[03时14分 ~ 04时40分]"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少21.17吨，当前持仓量为15733.09吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20251015061349676800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时16分]"
-        },
-        {
           "title": "美联储柯林斯：通胀仍是首要关注问题。",
           "url": "https://flash.jin10.com/detail/20251015040732707800",
           "source": "金十数据",
@@ -991,18 +1094,30 @@
           "time_info": "[05时42分 ~ 06时41分]"
         },
         {
-          "title": "航空业ETF收涨将近3.2%，和银行ETF领跑美股行业ETF，半导体ETF则跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/2987718",
+          "title": "东北地区首个煤制天然气项目一期全线贯通",
+          "url": "https://flash.jin10.com/detail/20251015064901347800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 07时37分]"
+        },
+        {
+          "title": "周三（10月15日）亚太盘初，美国三大股指期货和罗素2000股指期货至多涨0.22%。",
+          "url": "https://wallstreetcn.com/livenews/2987723",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6,
-            12,
-            21
+            8,
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时16分]"
+          "time_info": "[06时16分 ~ 07时37分]"
         },
         {
           "title": "美联储主席鲍威尔：就业市场状况有可信的数据支持，不过私人数据更适合作为补充。",
@@ -1030,8 +1145,8 @@
           "time_info": "[00时20分 ~ 01时40分]"
         },
         {
-          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：正在与乌克兰总统办公室主任叶尔马克和副总理斯维里登科一起为乌克兰总统访问华盛顿做准备。",
-          "url": "https://flash.jin10.com/detail/20251015060950572800",
+          "title": "新西兰联储首席经济学家康威：近期不要指望再次使用额外的货币政策工具。",
+          "url": "https://flash.jin10.com/detail/20251015064829696800",
           "source": "金十数据",
           "ranks": [
             4,
@@ -1039,7 +1154,7 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时16分]"
+          "time_info": "[07时16分 ~ 07时37分]"
         },
         {
           "title": "鲍威尔：顽固的关税通胀肯定是一个风险。 通胀仍然保持上升状态。",
@@ -1054,6 +1169,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 02时24分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
+          "url": "https://wallstreetcn.com/livenews/2987722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 07时37分]"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：法国和欧元区经济都具有韧性。 法国必须大幅削减预算赤字。 财政解决方案最大的一部分在于开支一侧。 法国央行乃至欧洲央行的独立性都没有风险。",
@@ -1140,6 +1269,20 @@
           "time_info": "[05时16分 ~ 07时16分]"
         },
         {
+          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2987719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 07时37分]"
+        },
+        {
           "title": "LME期铜收跌242美元，报10578美元/吨。 LME期铝收跌26美元，报2738美元/吨。 LME期锌收跌80美元，报2942美元/吨。 LME期铅收跌7美元，报1982美元/吨。 LME期镍收跌71美元，报15135美元/吨。 LME期锡收跌537美元，报35189美元/吨。 LME期钴收平，报42725美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2987643",
           "source": "华尔街见闻-快讯",
@@ -1181,18 +1324,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时17分 ~ 06时16分]"
-        },
-        {
-          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
-          "url": "https://www.cls.cn/detail/2169304",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时42分 ~ 07时16分]"
         },
         {
           "title": "纳斯达克100指数转涨。成分股爱彼迎涨4.4%，AMD、Arm控股至少涨超3.5%，英伟达目前跌超2.3%，英特尔跌3.6%。",
@@ -1238,30 +1369,17 @@
           "time_info": "[04时17分 ~ 06时16分]"
         },
         {
-          "title": "周三（10月15日）亚太盘初，美国三大股指期货和罗素2000股指期货至多涨0.22%。",
-          "url": "https://wallstreetcn.com/livenews/2987723",
+          "title": "据知情人士透露，智利国家铜业公司（Codelco）寻求对那些关键的欧洲客户实施铜涨价39%，寻求收取每吨325美元的溢价。 如果被接受，这将比智利生产商在过去几年谈判达成的234美元的溢价大幅增加，略高于欧洲生产商Aurubis计划在2026年收取的溢价。 谈判本周在伦敦举行，作为一个重要行业会议的一部分，并将继续进行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2987731",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
-          "url": "https://wallstreetcn.com/livenews/2987722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
+            11,
             18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
+          "time_info": "[06时41分 ~ 07时37分]"
         },
         {
           "title": "斯泰兰蒂斯集团将在美国投资130亿美元，从而拓展业务。 美国产能将扩大50%。",
@@ -1277,6 +1395,32 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "港股IPO定价新规后仅1家破发，新股涨幅猛散户中签难",
+          "url": "https://wallstreetcn.com/livenews/2987730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时37分]"
+        },
+        {
+          "title": "今年以来南向资金净流入金额逼近1.2万亿港元，机构人士：港股中长期上行趋势不改",
+          "url": "https://wallstreetcn.com/livenews/2987729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时37分]"
+        },
+        {
           "title": "美国总统特朗普赞扬了当前的石油和汽油价格。",
           "url": "https://flash.jin10.com/detail/20251015024858744800",
           "source": "金十数据",
@@ -1287,18 +1431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 03时38分]"
-        },
-        {
-          "title": "据知情人士透露，智利国家铜业公司（Codelco）寻求对那些关键的欧洲客户实施铜涨价39%，寻求收取每吨325美元的溢价。 如果被接受，这将比智利生产商在过去几年谈判达成的234美元的溢价大幅增加，略高于欧洲生产商Aurubis计划在2026年收取的溢价。 谈判本周在伦敦举行，作为一个重要行业会议的一部分，并将继续进行。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2987731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时16分]"
         },
         {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
@@ -1314,19 +1446,6 @@
           "time_info": "[00时46分 ~ 01时40分]"
         },
         {
-          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2987719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
           "title": "美联储理事沃勒将于十分钟后在国际金融协会举办的关于支付的小组活动上发表讲话。",
           "url": "https://flash.jin10.com/detail/20251015031500002800",
           "source": "金十数据",
@@ -1339,18 +1458,6 @@
           "time_info": "[03时38分 ~ 04时17分]"
         },
         {
-          "title": "港股IPO定价新规后仅1家破发，新股涨幅猛散户中签难",
-          "url": "https://wallstreetcn.com/livenews/2987730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时16分]"
-        },
-        {
           "title": "美联储柯林斯：即便放松货币政策，仍将保持“温和紧缩”立场。",
           "url": "https://flash.jin10.com/detail/20251015034123848800",
           "source": "金十数据",
@@ -1361,18 +1468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时40分]"
-        },
-        {
-          "title": "今年以来南向资金净流入金额逼近1.2万亿港元，机构人士：港股中长期上行趋势不改",
-          "url": "https://wallstreetcn.com/livenews/2987729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时16分]"
         },
         {
           "title": "美联储柯林斯：就业市场风险表明需要进一步放松政策。",
@@ -1612,6 +1707,18 @@
           "time_info": "[01时16分 ~ 02时48分]"
         },
         {
+          "title": "鲍威尔敞开降息大门：9月会议以来前景没多大变化，就业下行风险显著，或接近停止缩表（附讲稿）",
+          "url": "https://wallstreetcn.com/articles/3757187",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 07时37分]"
+        },
+        {
           "title": "国际货币基金组织：经批准后，巴基斯坦将可获得约10亿美元。",
           "url": "https://flash.jin10.com/detail/20251015060851511800",
           "source": "金十数据",
@@ -1645,6 +1752,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 06时41分]"
+        },
+        {
+          "title": "道明证券预计美联储在10月会议宣布结束，此前鲍威尔暗示缩表接近尾声",
+          "url": "https://wallstreetcn.com/livenews/2987726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时37分]"
         },
         {
           "title": "法国10年期国债收益率下跌7个基点，报3.4%，创8月15日以来新低。",
@@ -1965,16 +2085,16 @@
           "time_info": "[04时17分 ~ 04时40分]"
         },
         {
-          "title": "道明证券预计美联储在10月会议宣布结束，此前鲍威尔暗示缩表接近尾声",
-          "url": "https://wallstreetcn.com/livenews/2987726",
+          "title": "贝莱德三季度iShares ETFs净资金流入创历史新高，得益于比特币和以太坊投资需求激增",
+          "url": "https://wallstreetcn.com/livenews/2987737",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时16分]"
+          "time_info": "[07时16分 ~ 07时37分]"
         },
         {
           "title": "美联储主席鲍威尔将于十分钟后发表讲话；英国央行行长贝利将于二十分钟后发表讲话。",
@@ -2116,6 +2236,17 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
+          "title": "鲍威尔：美联储未来几个月可能将结束缩表",
+          "url": "https://www.cls.cn/detail/2169495",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
           "title": "市场消息：法国预计2026年总体融资需求为3057亿欧元。",
           "url": "https://flash.jin10.com/detail/20251015000238875800",
           "source": "金十数据",
@@ -2173,6 +2304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时46分]"
+        },
+        {
+          "title": "新西兰联储首席经济学家康威：我们将继续提高我们对额外货币政策工具（AMP）如何影响经济的理解。",
+          "url": "https://flash.jin10.com/detail/20251015065213019800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.845%，投标倍数2.91。 拍卖三个月期国债，得标利率3.685%，投标倍数2.95。",
@@ -2502,17 +2644,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "贝莱德三季度iShares ETFs净资金流入创历史新高，得益于比特币和以太坊投资需求激增",
-          "url": "https://wallstreetcn.com/livenews/2987737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "美联储主席鲍威尔：研究指出，政策影响就业和通胀的滞后时间更长。",
           "url": "https://flash.jin10.com/detail/20251015004356454800",
           "source": "金十数据",
@@ -2524,15 +2655,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "鲍威尔敞开降息大门：9月会议以来前景没多大变化，就业下行风险显著，或接近停止缩表（附讲稿）",
-          "url": "https://wallstreetcn.com/articles/3757187",
-          "source": "华尔街见闻",
+          "title": "美国白宫经济委员会主任Hassett：很明确鲍威尔将降息。",
+          "url": "https://wallstreetcn.com/livenews/2987746",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "07时37分"
         },
         {
           "title": "美联储主席鲍威尔：就业创造的“平衡水平”存在很大不确定性，可能已降至零以下。",
