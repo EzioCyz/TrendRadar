@@ -893,7 +893,7 @@ def matches_word_groups(
 
         # 必须词检查
         if required_words:
-            all_required_present = 全部(
+            all_required_present = all(
                 req_word.lower() in title_lower for req_word in required_words
             )
             if not all_required_present:
@@ -995,7 +995,7 @@ def count_word_frequency(
     elif mode == "current":
         # current 模式：只处理当前时间批次的新闻，但统计信息来自全部历史
         if title_info:
-            latest_time = 无
+            latest_time = None
             for source_titles in title_info.values():
                 for title_data in source_titles.values():
                     last_time = title_data.get("last_time", "")
@@ -1094,7 +1094,7 @@ def count_word_frequency(
                 else:
                     # 原有的匹配逻辑
                     if required_words:
-                        all_required_present = 全部(
+                        all_required_present = all(
                             req_word.lower() in title_lower
                             for req_word in required_words
                         )
@@ -1124,9 +1124,9 @@ def count_word_frequency(
                 # 对于 current 模式，从历史统计信息中获取完整数据
                 if (
                         mode == "current"
-                        和 title_info
+                        and title_info
                         and source_id in title_info
-                        和 title in title_info[source_id]
+                        and title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
                     first_time = info.get("first_time", "")
@@ -1138,8 +1138,8 @@ def count_word_frequency(
                     mobile_url = info.get("mobileUrl", source_mobile_url)
                 elif (
                         title_info
-                        和 source_id in title_info
-                        和 title in title_info[source_id]
+                        and source_id in title_info
+                        and title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
                     first_time = info.get("first_time", "")
@@ -1207,7 +1207,7 @@ def count_word_frequency(
                 filter_status = (
                     "全部显示"
                     if len(word_groups) == 1
-                       和 word_groups[0]["group_key"] == "全部新闻"
+                       and word_groups[0]["group_key"] == "全部新闻"
                     else "匹配频率词"
                 )
                 print(
@@ -1240,9 +1240,9 @@ def count_word_frequency(
             )
 
     stats = []
-    for group_key, data 在 word_stats.items():
+    for group_key, data in word_stats.items():
         all_titles = []
-        for source_id, title_list 在 data["titles"]。items():
+        for source_id, title_list in data["titles"].items():
             all_titles.extend(title_list)
 
         # 按权重排序
@@ -1264,7 +1264,7 @@ def count_word_frequency(
                     round(data["count"] / total_titles * 100, 2)
                     if total_titles > 0
                     else 0
-                )，
+                ),
             }
         )
 
@@ -1995,7 +1995,7 @@ def render_html_content(
 
             # 处理每个词组下的新闻标题，给每条新闻标上序号
             for j, title_data in enumerate(stat["titles"], 1):
-                is_new = title_data.get("is_new"， False)
+                is_new = title_data.get("is_new", False)
                 new_class = "new" if is_new else ""
 
                 html += f"""
@@ -2010,7 +2010,7 @@ def render_html_content(
                 if ranks:
                     min_rank = min(ranks)
                     max_rank = max(ranks)
-                    rank_threshold = title_data.get("rank_threshold"， 10)
+                    rank_threshold = title_data.get("rank_threshold", 10)
 
                     # 确定排名等级
                     if min_rank <= 3:
@@ -2028,13 +2028,13 @@ def render_html_content(
                     html += f'<span class="rank-num {rank_class}">{rank_text}</span>'
 
                 # 处理时间显示
-                time_display = title_data.get("time_display"， "")
+                time_display = title_data.get("time_display", "")
                 if time_display:
                     # 简化时间显示格式，将波浪线替换为~
                     simplified_time = (
-                        time_display.替换(" ~ "， "~")
+                        time_display.replace(" ~ ", "~")
                         .replace("[", "")
-                        。替换("]"， "")
+                        .replace("]", "")
                     )
                     html += (
                         f'<span class="time-info">{html_escape(simplified_time)}</span>'
@@ -2051,7 +2051,7 @@ def render_html_content(
 
                 # 处理标题和链接
                 escaped_title = html_escape(title_data["title"])
-                link_url = title_data.get("mobile_url") 或 title_data.get("url", "")
+                link_url = title_data.get("mobile_url") or title_data.get("url", "")
 
                 if link_url:
                     escaped_url = html_escape(link_url)
@@ -3081,7 +3081,7 @@ class NewsAnalyzer:
         for source_id, titles_data in results.items():
             title_info[source_id] = {}
             for title, title_data in titles_data.items():
-                ranks = title_data.get("ranks"， [])
+                ranks = title_data.get("ranks", [])
                 url = title_data.get("url", "")
                 mobile_url = title_data.get("mobileUrl", "")
 
@@ -3148,16 +3148,16 @@ class NewsAnalyzer:
 
         if (
                 CONFIG["ENABLE_NOTIFICATION"]
-                和 has_webhook
-                和 self._has_valid_content(stats, new_titles)
+                and has_webhook
+                and self._has_valid_content(stats, new_titles)
         ):
             send_to_webhooks(
                 stats,
-                failed_ids 或 [],
+                failed_ids or [],
                 report_type,
                 new_titles,
                 id_to_name,
-                self.update_info，
+                self.update_info,
                 self.proxy_url,
                 mode=mode,
             )
