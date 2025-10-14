@@ -279,11 +279,11 @@ def html_escape(text: str) -> str:
         text = str(text)
 
     return (
-        text.替换("&"， "&amp;")
+        text.replace("&", "&amp;")
         .replace("<", "&lt;")
-        。替换(">", "&gt;")
-        。替换('"', "&quot;")
-        。替换("'"， "&#x27;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+        .replace("'", "&#x27;")
     )
 
 
@@ -310,7 +310,7 @@ class PushRecordManager:
         retention_days = CONFIG["SILENT_PUSH"]["RECORD_RETENTION_DAYS"]
         current_time = get_beijing_time()
 
-        for record_file 在 self.record_dir.glob("push_record_*.json"):
+        for record_file in self.record_dir.glob("push_record_*.json"):
             try:
                 date_str = record_file.stem.replace("push_record_", "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
@@ -332,7 +332,7 @@ class PushRecordManager:
         try:
             with open(record_file, "r", encoding="utf-8") as f:
                 record = json.load(f)
-            return record.get("pushed"， False)
+            return record.get("pushed", False)
         except Exception as e:
             print(f"读取推送记录失败: {e}")
             return False
@@ -340,7 +340,7 @@ class PushRecordManager:
     def record_push(self, report_type: str):
         """记录推送"""
         record_file = self.get_today_record_file()
-        现在 = get_beijing_time()
+        now = get_beijing_time()
 
         record = {
             "pushed": True,
@@ -893,7 +893,7 @@ def matches_word_groups(
 
         # 必须词检查
         if required_words:
-            all_required_present = all(
+            all_required_present = 全部(
                 req_word.lower() in title_lower for req_word in required_words
             )
             if not all_required_present:
@@ -995,7 +995,7 @@ def count_word_frequency(
     elif mode == "current":
         # current 模式：只处理当前时间批次的新闻，但统计信息来自全部历史
         if title_info:
-            latest_time = None
+            latest_time = 无
             for source_titles in title_info.values():
                 for title_data in source_titles.values():
                     last_time = title_data.get("last_time", "")
@@ -1094,16 +1094,16 @@ def count_word_frequency(
                 else:
                     # 原有的匹配逻辑
                     if required_words:
-                        all_required_present = all(
-                            req_word.lower() 在 title_lower
-                            for req_word 在 required_words
+                        all_required_present = 全部(
+                            req_word.lower() in title_lower
+                            for req_word in required_words
                         )
                         if not all_required_present:
                             continue
 
                     if normal_words:
                         any_normal_present = any(
-                            normal_word.lower() 在 title_lower
+                            normal_word.lower() in title_lower
                             for normal_word in normal_words
                         )
                         if not any_normal_present:
@@ -1125,7 +1125,7 @@ def count_word_frequency(
                 if (
                         mode == "current"
                         和 title_info
-                        和 source_id in title_info
+                        and source_id in title_info
                         和 title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
@@ -1139,7 +1139,7 @@ def count_word_frequency(
                 elif (
                         title_info
                         和 source_id in title_info
-                        and title in title_info[source_id]
+                        和 title in title_info[source_id]
                 ):
                     info = title_info[source_id][title]
                     first_time = info.get("first_time", "")
@@ -1207,7 +1207,7 @@ def count_word_frequency(
                 filter_status = (
                     "全部显示"
                     if len(word_groups) == 1
-                       and word_groups[0]["group_key"] == "全部新闻"
+                       和 word_groups[0]["group_key"] == "全部新闻"
                     else "匹配频率词"
                 )
                 print(
@@ -1240,9 +1240,9 @@ def count_word_frequency(
             )
 
     stats = []
-    for group_key, data in word_stats.items():
+    for group_key, data 在 word_stats.items():
         all_titles = []
-        for source_id, title_list in data["titles"].items():
+        for source_id, title_list 在 data["titles"]。items():
             all_titles.extend(title_list)
 
         # 按权重排序
@@ -1264,7 +1264,7 @@ def count_word_frequency(
                     round(data["count"] / total_titles * 100, 2)
                     if total_titles > 0
                     else 0
-                ),
+                )，
             }
         )
 
@@ -1995,7 +1995,7 @@ def render_html_content(
 
             # 处理每个词组下的新闻标题，给每条新闻标上序号
             for j, title_data in enumerate(stat["titles"], 1):
-                is_new = title_data.get("is_new", False)
+                is_new = title_data.get("is_new"， False)
                 new_class = "new" if is_new else ""
 
                 html += f"""
@@ -2010,7 +2010,7 @@ def render_html_content(
                 if ranks:
                     min_rank = min(ranks)
                     max_rank = max(ranks)
-                    rank_threshold = title_data.get("rank_threshold", 10)
+                    rank_threshold = title_data.get("rank_threshold"， 10)
 
                     # 确定排名等级
                     if min_rank <= 3:
@@ -2028,13 +2028,13 @@ def render_html_content(
                     html += f'<span class="rank-num {rank_class}">{rank_text}</span>'
 
                 # 处理时间显示
-                time_display = title_data.get("time_display", "")
+                time_display = title_data.get("time_display"， "")
                 if time_display:
                     # 简化时间显示格式，将波浪线替换为~
                     simplified_time = (
-                        time_display.replace(" ~ ", "~")
+                        time_display.替换(" ~ "， "~")
                         .replace("[", "")
-                        .replace("]", "")
+                        。替换("]"， "")
                     )
                     html += (
                         f'<span class="time-info">{html_escape(simplified_time)}</span>'
@@ -2051,7 +2051,7 @@ def render_html_content(
 
                 # 处理标题和链接
                 escaped_title = html_escape(title_data["title"])
-                link_url = title_data.get("mobile_url") or title_data.get("url", "")
+                link_url = title_data.get("mobile_url") 或 title_data.get("url", "")
 
                 if link_url:
                     escaped_url = html_escape(link_url)
@@ -3081,7 +3081,7 @@ class NewsAnalyzer:
         for source_id, titles_data in results.items():
             title_info[source_id] = {}
             for title, title_data in titles_data.items():
-                ranks = title_data.get("ranks", [])
+                ranks = title_data.get("ranks"， [])
                 url = title_data.get("url", "")
                 mobile_url = title_data.get("mobileUrl", "")
 
@@ -3148,16 +3148,16 @@ class NewsAnalyzer:
 
         if (
                 CONFIG["ENABLE_NOTIFICATION"]
-                and has_webhook
-                and self._has_valid_content(stats, new_titles)
+                和 has_webhook
+                和 self._has_valid_content(stats, new_titles)
         ):
             send_to_webhooks(
                 stats,
-                failed_ids or [],
+                failed_ids 或 [],
                 report_type,
                 new_titles,
                 id_to_name,
-                self.update_info,
+                self.update_info，
                 self.proxy_url,
                 mode=mode,
             )
@@ -3437,10 +3437,10 @@ class NewsAnalyzer:
 
 # 沿用旧版的固定ID列表用于API生成
 API_IDS = [
-    ("toutiao"， "今日头条"), ("baidu"， "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
-    ("thepaper"， "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
+    ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
+    ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
     ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-    ("tieba"， "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
 ]
 
 
@@ -3453,7 +3453,7 @@ def generate_api_data(
     print("为API生成数据：开始获取和分析...")
 
     # 1. 爬取数据
-    results, id_to_name, failed_ids = analyzer.data_fetcher。crawl_websites(
+    results, id_to_name, failed_ids = analyzer.data_fetcher.crawl_websites(
         API_IDS, analyzer.request_interval
     )
 
@@ -3471,7 +3471,7 @@ def generate_api_data(
             "generated_at": get_beijing_time().isoformat(),
             "total_titles_processed": 0,
             "failed_sources": failed_ids,
-            "trends": []，
+            "trends": [],
         }
         return empty_response, [], 0, failed_ids, {}
 
@@ -3608,7 +3608,7 @@ def main():
     )
     parser.add_argument(
         '--generate-json',
-        action='store_true'，
+        action='store_true',
         help='仅生成静态的 trends.json, news.jpg 和相关HTML文件并退出'
     )
     args = parser.parse_args()
