@@ -69,7 +69,7 @@ platforms:
     name: "华尔街见闻"
   - id: "cls-hot"
     name: "财联社"
-  - id: "jin10-hot"
+  - id: "jin10"
     name: "金十数据"
     
 #     
