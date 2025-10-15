@@ -2219,9 +2219,9 @@ def render_feishu_content(
         for i, id_value in enumerate(report_data["failed_ids"], 1):
             text_content += f"  • <font color='red'>{id_value}</font>\n"
 
-    now = get_beijing_time()
+    现在 = get_beijing_time()
     text_content += (
-        f"\n\n<font color='grey'>更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}</font>"
+        f"\n\n<font color='grey'>更新时间：{现在.strftime('%Y-%m-%d %H:%M:%S')}</font>"
     )
 
     if update_info:
@@ -2235,18 +2235,18 @@ def render_dingtalk_content(
 ) -> str:
     """渲染钉钉内容"""
     text_content = ""
-    now = get_beijing_time()
+    现在 = get_beijing_time()
 
     # 1. 将所有分组的新闻标题收集到一个列表中
     all_titles = []
     if report_data["stats"]:
-        for stat in report_data["stats"]:
+        for stat 在 report_data["stats"]:
             all_titles.extend(stat["titles"])
 
     # 2. 构建消息头部 (包含总数、时间和固定提示文本)
     text_content += f"**总新闻数：** {len(all_titles)}\n\n"
-    text_content += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
-    text_content += "提示:要加入交流群请查阅群公告\n\n"
+    text_content += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"  # 使用 now 而不是 现在
+    text_content += "**提示:要加入交流群请查阅群公告**\n\n"
 
     # 3. 检查是否有新闻内容
     if not all_titles:
@@ -2259,7 +2259,7 @@ def render_dingtalk_content(
         text_content += f"📭 {mode_text}\n"
     else:
         # 4. 遍历新闻列表并格式化输出（去掉时间和次数显示）
-        for j, title_data in enumerate(all_titles, 1):
+        for j, title_data 在 enumerate(all_titles, 1):
             # 创建标题数据的副本，用于修改显示格式
             title_data_copy = title_data.copy()
             # 清空时间显示和次数，确保不显示
@@ -2270,7 +2270,7 @@ def render_dingtalk_content(
                 "dingtalk", title_data_copy, show_source=True
             )
             # 移除行间多余的换行，让列表更紧凑
-            text_content += f"{j}. {formatted_title}\n"
+            text_content += f"{j}。 {formatted_title}\n"
 
     # 5. (可选功能保留) 如果有获取失败的平台，仍然进行提示
     if report_data["failed_ids"]:
@@ -3599,7 +3599,7 @@ if FLASK_AVAILABLE:
                     return jsonify(json.load(f))
             else:
                 return jsonify({"error": "API文件生成失败"}), 500
-        except Exception as e:
+        except Excepti于 as e:
             print(f"API请求处理失败: {e}")
             return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
 
@@ -3649,7 +3649,7 @@ def main():
         print("  • config/config.yaml")
         print("  • config/frequency_words.txt")
         print("\n参考项目文档进行正确配置")
-    except Exception as e:
+    except Excepti于 as e:
         print(f"❌ 程序运行错误: {e}")
         raise
 
