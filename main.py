@@ -161,9 +161,9 @@ def generate_image_from_html(html_file_path: str, output_image_path: str):
         output_dir.mkdir(parents=True, exist_ok=True)
 
         with sync_playwright() as p:
-            browser = p.chromium。launch()
+            browser = p.chromium.launch()
             page = browser.new_page(viewport={"width": 650, "height": 1080})
-            uri = Path(html_file_path)。resolve().as_uri()
+            uri = Path(html_file_path).resolve().as_uri()
             page.goto(uri)
             # 截取包含热点新闻分析的 .container 元素
             element = page.query_selector('.container')
@@ -186,19 +186,19 @@ def get_beijing_time():
 
 def format_date_folder():
     """格式化日期文件夹"""
-    return get_beijing_time()。strftime("%Y年%m月%d日")
+    return get_beijing_time().strftime("%Y年%m月%d日")
 
 
 def format_time_filename():
     """格式化时间文件名"""
-    return get_beijing_time()。strftime("%H时%M分")
+    return get_beijing_time().strftime("%H时%M分")
 
 
 def clean_title(title: str) -> str:
     """清理标题中的特殊字符"""
     if not isinstance(title, str):
         title = str(title)
-    cleaned_title = title.替换("\n"， " ").替换("\r", " ")
+    cleaned_title = title.replace("\n", " ").replace("\r", " ")
     cleaned_title = re.sub(r"\s+", " ", cleaned_title)
     cleaned_title = cleaned_title.strip()
     return cleaned_title
@@ -302,7 +302,7 @@ class PushRecordManager:
 
     def get_today_record_file(self) -> Path:
         """获取今天的记录文件路径"""
-        today = get_beijing_time()。strftime("%Y%m%d")
+        today = get_beijing_time().strftime("%Y%m%d")
         return self.record_dir / f"push_record_{today}.json"
 
     def cleanup_old_records(self):
@@ -312,7 +312,7 @@ class PushRecordManager:
 
         for record_file in self.record_dir.glob("push_record_*.json"):
             try:
-                date_str = record_file.stem。replace("push_record_", "")
+                date_str = record_file.stem.replace("push_record_", "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
                 file_date = pytz.timezone("Asia/Shanghai").localize(file_date)
 
@@ -340,11 +340,11 @@ class PushRecordManager:
     def record_push(self, report_type: str):
         """记录推送"""
         record_file = self.get_today_record_file()
-        现在 = get_beijing_time()
+        now = get_beijing_time()
 
         record = {
             "pushed": True,
-            "push_time": now.strftime("%Y-%m-%d %H:%M:%S")，
+            "push_time": now.strftime("%Y-%m-%d %H:%M:%S"),
             "report_type": report_type,
         }
 
@@ -357,7 +357,7 @@ class PushRecordManager:
 
     def is_in_time_range(self, start_time: str, end_time: str) -> bool:
         """检查当前时间是否在指定时间范围内"""
-        现在 = get_beijing_time()
+        now = get_beijing_time()
         current_time = now.strftime("%H:%M")
         return start_time <= current_time <= end_time
 
@@ -529,7 +529,7 @@ def save_titles_to_file(results: Dict, id_to_name: Dict, failed_ids: List) -> st
 
         if failed_ids:
             f.write("==== 以下ID请求失败 ====\n")
-            for id_value 在 failed_ids:
+            for id_value in failed_ids:
                 f.write(f"{id_value}\n")
 
     return file_path
@@ -540,7 +540,7 @@ def load_frequency_words(
 ) -> Tuple[List[Dict], List[str]]:
     """加载频率词配置"""
     if frequency_file is None:
-        frequency_file = os.environ。get(
+        frequency_file = os.environ.get(
             "FREQUENCY_WORDS_PATH", "config/frequency_words.txt"
         )
 
@@ -556,14 +556,14 @@ def load_frequency_words(
     processed_groups = []
     filter_words = []
 
-    for group 在 word_groups:
+    for group in word_groups:
         words = [word.strip() for word in group.split("\n") if word.strip()]
 
         group_required_words = []
         group_normal_words = []
         group_filter_words = []
 
-        for word 在 words:
+        for word in words:
             if word.startswith("!"):
                 filter_words.append(word[1:])
                 group_filter_words.append(word[1:])
@@ -572,7 +572,7 @@ def load_frequency_words(
             else:
                 group_normal_words.append(word)
 
-        if group_required_words 或 group_normal_words:
+        if group_required_words or group_normal_words:
             if group_normal_words:
                 group_key = " ".join(group_normal_words)
             else:
@@ -709,7 +709,7 @@ def process_source_data(
         time_info: str,
         all_results: Dict,
         title_info: Dict,
-) -> 无:
+) -> None:
     """处理来源数据，合并重复标题"""
     if source_id not in all_results:
         all_results[source_id] = title_data
@@ -719,8 +719,8 @@ def process_source_data(
 
         for title, data in title_data.items():
             ranks = data.get("ranks", [])
-            url = data.get("url"， "")
-            mobile_url = data.get("mobileUrl"， "")
+            url = data.get("url", "")
+            mobile_url = data.get("mobileUrl", "")
 
             title_info[source_id][title] = {
                 "first_time": time_info,
@@ -887,13 +887,13 @@ def matches_word_groups(
         return False
 
     # 词组匹配检查
-    for group 在 word_groups:
+    for group in word_groups:
         required_words = group["required"]
         normal_words = group["normal"]
 
         # 必须词检查
         if required_words:
-            all_required_present = 全部(
+            all_required_present = all(
                 req_word.lower() in title_lower for req_word in required_words
             )
             if not all_required_present:
@@ -902,7 +902,7 @@ def matches_word_groups(
         # 普通词检查
         if normal_words:
             any_normal_present = any(
-                normal_word.lower() 在 title_lower for normal_word 在 normal_words
+                normal_word.lower() in title_lower for normal_word in normal_words
             )
             if not any_normal_present:
                 continue
@@ -1476,10 +1476,10 @@ def format_title_for_platform(
 
     elif platform == "html":
         rank_display = format_rank_display(
-            title_data["ranks"], title_data["rank_threshold"]， "html"
+            title_data["ranks"], title_data["rank_threshold"], "html"
         )
 
-        link_url = title_data["mobile_url"] 或 title_data["url"]
+        link_url = title_data["mobile_url"] or title_data["url"]
 
         escaped_title = html_escape(cleaned_title)
         escaped_source_name = html_escape(title_data["source_name"])
@@ -1512,11 +1512,11 @@ def format_title_for_platform(
 def generate_html_report(
         stats: List[Dict],
         total_titles: int,
-        failed_ids: Optional[List] = 无，
+        failed_ids: Optional[List] = None,
         new_titles: Optional[Dict] = None,
-        id_to_name: Optional[Dict] = 无，
-        mode: str = "daily"，
-        is_daily_summary: bool = False，
+        id_to_name: Optional[Dict] = None,
+        mode: str = "daily",
+        is_daily_summary: bool = False,
 ) -> str:
     """生成HTML报告"""
     if is_daily_summary:
@@ -2219,9 +2219,9 @@ def render_feishu_content(
         for i, id_value in enumerate(report_data["failed_ids"], 1):
             text_content += f"  • <font color='red'>{id_value}</font>\n"
 
-    现在 = get_beijing_time()
+    now = get_beijing_time()
     text_content += (
-        f"\n\n<font color='grey'>更新时间：{现在.strftime('%Y-%m-%d %H:%M:%S')}</font>"
+        f"\n\n<font color='grey'>更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}</font>"
     )
 
     if update_info:
@@ -2235,7 +2235,7 @@ def render_dingtalk_content(
 ) -> str:
     """渲染钉钉内容"""
     text_content = ""
-    现在 = get_beijing_time()
+    now = get_beijing_time()
 
     # 1. 将所有分组的新闻标题收集到一个列表中
     all_titles = []
@@ -2259,7 +2259,7 @@ def render_dingtalk_content(
         text_content += f"📭 {mode_text}\n"
     else:
         # 4. 遍历新闻列表并格式化输出（去掉时间和次数显示）
-        for j, title_data 在 enumerate(all_titles, 1):
+        for j, title_data in enumerate(all_titles, 1):
             # 创建标题数据的副本，用于修改显示格式
             title_data_copy = title_data.copy()
             # 清空时间显示和次数，确保不显示
@@ -2270,7 +2270,7 @@ def render_dingtalk_content(
                 "dingtalk", title_data_copy, show_source=True
             )
             # 移除行间多余的换行，让列表更紧凑
-            text_content += f"{j}。 {formatted_title}\n"
+            text_content += f"{j}. {formatted_title}\n"
 
     # 5. (可选功能保留) 如果有获取失败的平台，仍然进行提示
     if report_data["failed_ids"]:
@@ -2289,8 +2289,8 @@ def split_content_into_batches(
         report_data: Dict,
         format_type: str,
         update_info: Optional[Dict] = None,
-        max_bytes: int = CONFIG["MESSAGE_BATCH_SIZE"]，
-        mode: str = "daily"，
+        max_bytes: int = CONFIG["MESSAGE_BATCH_SIZE"],
+        mode: str = "daily",
 ) -> List[str]:
     """分批处理消息内容，确保词组标题+至少第一条新闻的完整性"""
     batches = []
@@ -2328,8 +2328,8 @@ def split_content_into_batches(
 
     if (
             not report_data["stats"]
-            和 not report_data["new_titles"]
-            和 not report_data["failed_ids"]
+            and not report_data["new_titles"]
+            and not report_data["failed_ids"]
     ):
         if mode == "incremental":
             mode_text = "增量模式下暂无新增匹配的热点词汇"
@@ -3599,7 +3599,7 @@ if FLASK_AVAILABLE:
                     return jsonify(json.load(f))
             else:
                 return jsonify({"error": "API文件生成失败"}), 500
-        except Excepti于 as e:
+        except Exception as e:
             print(f"API请求处理失败: {e}")
             return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
 
@@ -3649,7 +3649,7 @@ def main():
         print("  • config/config.yaml")
         print("  • config/frequency_words.txt")
         print("\n参考项目文档进行正确配置")
-    except Excepti于 as e:
+    except Exception as e:
         print(f"❌ 程序运行错误: {e}")
         raise
 
