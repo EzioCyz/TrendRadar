@@ -227,7 +227,7 @@ def check_version_update(
             proxies = {"http": proxy_url, "https": proxy_url}
 
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"，
             "Accept": "text/plain, */*"，
             "Cache-Control": "no-cache",
         }
