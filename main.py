@@ -243,7 +243,7 @@ def check_version_update(
         # 比较版本
         def parse_version(version_str):
             try:
-                parts = version_str.strip().split(".")
+                parts = version_str.strip()。split(".")
                 if len(parts) != 3:
                     raise ValueError("版本号格式不正确")
                 return int(parts[0]), int(parts[1]), int(parts[2])
@@ -254,11 +254,11 @@ def check_version_update(
         remote_tuple = parse_version(remote_version)
 
         need_update = current_tuple < remote_tuple
-        return need_update, remote_version if need_update else None
+        return need_update, remote_version if need_update else 无
 
     except Exception as e:
         print(f"版本检查失败: {e}")
-        return False, None
+        return False, 无
 
 
 def is_first_crawl_today() -> bool:
@@ -281,9 +281,9 @@ def html_escape(text: str) -> str:
     return (
         text.replace("&", "&amp;")
         .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
-        .replace("'", "&#x27;")
+        .替换(">"， "&gt;")
+        。替换('"', "&quot;")
+        。替换("'"， "&#x27;")
     )
 
 
@@ -310,13 +310,13 @@ class PushRecordManager:
         retention_days = CONFIG["SILENT_PUSH"]["RECORD_RETENTION_DAYS"]
         current_time = get_beijing_time()
 
-        for record_file in self.record_dir.glob("push_record_*.json"):
+        for record_file 在 self.record_dir.glob("push_record_*.json"):
             try:
                 date_str = record_file.stem.replace("push_record_", "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
                 file_date = pytz.timezone("Asia/Shanghai").localize(file_date)
 
-                if (current_time - file_date).days > retention_days:
+                if (current_time - file_date)。days > retention_days:
                     record_file.unlink()
                     print(f"清理过期推送记录: {record_file.name}")
             except Exception as e:
@@ -1417,14 +1417,18 @@ def format_title_for_platform(
         else:
             result = f"{title_prefix}{formatted_title}"
 
+        # 钉钉平台：去掉时间显示和次数显示
+        # 只保留排名显示
         if rank_display:
             result += f" {rank_display}"
-        if title_data["time_display"]:
-            result += f" - {title_data['time_display']}"
-        if title_data["count"] > 1:
-            result += f" ({title_data['count']}次)"
+        # 注释掉时间和次数的显示
+        # if title_data["time_display"]:
+        #     result += f" - {title_data['time_display']}"
+        # if title_data["count"] > 1:
+        #     result += f" ({title_data['count']}次)"
 
         return result
+
 
     elif platform == "wework":
         if link_url:
@@ -2006,11 +2010,11 @@ def render_html_content(
                                 <span class="source-name">{html_escape(title_data["source_name"])}</span>"""
 
                 # 处理排名显示
-                ranks = title_data.get("ranks", [])
+                ranks = title_data.get("ranks"， [])
                 if ranks:
                     min_rank = min(ranks)
                     max_rank = max(ranks)
-                    rank_threshold = title_data.get("rank_threshold", 10)
+                    rank_threshold = title_data.get("rank_threshold"， 10)
 
                     # 确定排名等级
                     if min_rank <= 3:
@@ -2032,16 +2036,16 @@ def render_html_content(
                 if time_display:
                     # 简化时间显示格式，将波浪线替换为~
                     simplified_time = (
-                        time_display.replace(" ~ ", "~")
-                        .replace("[", "")
-                        .replace("]", "")
+                        time_display.替换(" ~ "， "~")
+                        。替换("["， "")
+                        。替换("]"， "")
                     )
                     html += (
                         f'<span class="time-info">{html_escape(simplified_time)}</span>'
                     )
 
                 # 处理出现次数
-                count_info = title_data.get("count", 1)
+                count_info = title_data.get("count"， 1)
                 if count_info > 1:
                     html += f'<span class="count-info">{count_info}次</span>'
 
@@ -2239,9 +2243,10 @@ def render_dingtalk_content(
         for stat in report_data["stats"]:
             all_titles.extend(stat["titles"])
 
-    # 2. 构建消息头部 (只包含总数和时间)
+    # 2. 构建消息头部 (包含总数、时间和固定提示文本)
     text_content += f"**总新闻数：** {len(all_titles)}\n\n"
     text_content += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    text_content += "提示:要加入交流群请查阅群公告\n\n"
 
     # 3. 检查是否有新闻内容
     if not all_titles:
@@ -2253,10 +2258,16 @@ def render_dingtalk_content(
             mode_text = "暂无匹配的热点词汇"
         text_content += f"📭 {mode_text}\n"
     else:
-        # 4. 遍历新闻列表并格式化输出
+        # 4. 遍历新闻列表并格式化输出（去掉时间和次数显示）
         for j, title_data in enumerate(all_titles, 1):
+            # 创建标题数据的副本，用于修改显示格式
+            title_data_copy = title_data.copy()
+            # 清空时间显示和次数，确保不显示
+            title_data_copy["time_display"] = ""
+            title_data_copy["count"] = 1  # 设置为1，这样不会显示次数
+            
             formatted_title = format_title_for_platform(
-                "dingtalk", title_data, show_source=True
+                "dingtalk", title_data_copy, show_source=True
             )
             # 移除行间多余的换行，让列表更紧凑
             text_content += f"{j}. {formatted_title}\n"
@@ -2273,7 +2284,6 @@ def render_dingtalk_content(
         text_content += f"\n> TrendRadar 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
 
     return text_content
-
 
 def split_content_into_batches(
         report_data: Dict,
@@ -2625,7 +2635,7 @@ def send_to_webhooks(
         time_range_end = CONFIG["SILENT_PUSH"]["TIME_RANGE"]["END"]
 
         if not push_manager.is_in_time_range(time_range_start, time_range_end):
-            now = get_beijing_time()
+            现在 = get_beijing_time()
             print(
                 f"静默模式：当前时间 {now.strftime('%H:%M')} 不在推送时间范围 {time_range_start}-{time_range_end} 内，跳过推送")
             return results
