@@ -227,8 +227,8 @@ def check_version_update(
             proxies = {"http": proxy_url, "https": proxy_url}
 
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"，
-            "Accept": "text/plain, */*"，
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "text/plain, */*",
             "Cache-Control": "no-cache",
         }
 
@@ -237,7 +237,7 @@ def check_version_update(
         )
         response.raise_for_status()
 
-        remote_version = response.text。strip()
+        remote_version = response.text.strip()
         print(f"当前版本: {current_version}, 远程版本: {remote_version}")
 
         # 比较版本
@@ -246,7 +246,7 @@ def check_version_update(
                 parts = version_str.strip().split(".")
                 if len(parts) != 3:
                     raise ValueError("版本号格式不正确")
-                return int(parts[0])， int(parts[1])， int(parts[2])
+                return int(parts[0]), int(parts[1]), int(parts[2])
             except:
                 return 0, 0, 0
 
@@ -254,7 +254,7 @@ def check_version_update(
         remote_tuple = parse_version(remote_version)
 
         need_update = current_tuple < remote_tuple
-        return need_update, remote_version if need_update else 无
+        return need_update, remote_version if need_update else None
 
     except Exception as e:
         print(f"版本检查失败: {e}")
@@ -279,11 +279,11 @@ def html_escape(text: str) -> str:
         text = str(text)
 
     return (
-        text.替换("&"， "&amp;")
-        。替换("<"， "&lt;")
-        。替换(">"， "&gt;")
-        。替换('"', "&quot;")
-        。替换("'"， "&#x27;")
+        text.replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+        .replace("'", "&#x27;")
     )
 
 
@@ -302,7 +302,7 @@ class PushRecordManager:
 
     def get_today_record_file(self) -> Path:
         """获取今天的记录文件路径"""
-        today = get_beijing_time()。strftime("%Y%m%d")
+        today = get_beijing_time().strftime("%Y%m%d")
         return self.record_dir / f"push_record_{today}.json"
 
     def cleanup_old_records(self):
@@ -310,7 +310,7 @@ class PushRecordManager:
         retention_days = CONFIG["SILENT_PUSH"]["RECORD_RETENTION_DAYS"]
         current_time = get_beijing_time()
 
-        for record_file 在 self.record_dir.glob("push_record_*.json"):
+        for record_file in self.record_dir.glob("push_record_*.json"):
             try:
                 date_str = record_file.stem.replace("push_record_", "")
                 file_date = datetime.strptime(date_str, "%Y%m%d")
@@ -372,7 +372,7 @@ class DataFetcher:
     def fetch_data(
             self,
             id_info: Union[str, Tuple[str, str]],
-            max_retries: int = 2，
+            max_retries: int = 2,
             min_retry_wait: int = 3,
             max_retry_wait: int = 5,
     ) -> Tuple[Optional[str], str, str]:
@@ -408,8 +408,8 @@ class DataFetcher:
                 data_text = response.text
                 data_json = json.loads(data_text)
 
-                status = data_json.get("status"， "未知")
-                if status not 在 ["success", "cache"]:
+                status = data_json.get("status", "未知")
+                if status not in ["success", "cache"]:
                     raise ValueError(f"响应状态异常: {status}")
 
                 status_info = "最新数据" if status == "success" else "缓存数据"
@@ -619,11 +619,11 @@ def parse_file_titles(file_path: Path) -> Tuple[Dict, Dict]:
 
             titles_by_id[source_id] = {}
 
-            for line 在 lines[1:]:
+            for line in lines[1:]:
                 if line.strip():
                     try:
                         title_part = line.strip()
-                        rank = 无
+                        rank = None
 
                         # 提取排名
                         if ". " in title_part and title_part.split(". ")[0].isdigit():
@@ -2714,18 +2714,18 @@ def send_to_feishu(
         len(stat["titles"]) for stat in report_data["stats"] if stat["count"] > 0
     )
 
-    现在 = get_beijing_time()
+    now = get_beijing_time()
     payload = {
         "msg_type": "text",
         "content": {
             "total_titles": total_titles,
-            "timestamp": now.strftime("%Y-%m-%d %H:%M:%S")，
+            "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
             "report_type": report_type,
             "text": text_content,
         },
     }
 
-    proxies = 无
+    proxies = None
     if proxy_url:
         proxies = {"http": proxy_url, "https": proxy_url}
 
@@ -2749,8 +2749,8 @@ def send_to_dingtalk(
         report_data: Dict,
         report_type: str,
         update_info: Optional[Dict] = None,
-        proxy_url: Optional[str] = 无,
-        mode: str = "daily"，
+        proxy_url: Optional[str] = None,
+        mode: str = "daily",
 ) -> bool:
     """发送到钉钉"""
     headers = {"Content-Type": "application/json"}
@@ -2760,12 +2760,12 @@ def send_to_dingtalk(
     payload = {
         "msgtype": "markdown",
         "markdown": {
-            "title": f"TrendRadar 热点分析报告 - {report_type}"，
+            "title": f"TrendRadar 热点分析报告 - {report_type}",
             "text": text_content,
-        }，
+        },
     }
 
-    proxies = 无
+    proxies = None
     if proxy_url:
         proxies = {"http": proxy_url, "https": proxy_url}
 
@@ -3339,7 +3339,7 @@ class NewsAnalyzer:
 
                 stats, html_file = self._run_analysis_pipeline(
                     all_results,
-                    self.report_mode，
+                    self.report_mode,
                     historical_title_info,
                     historical_new_titles,
                     word_groups,
@@ -3353,7 +3353,7 @@ class NewsAnalyzer:
                 print(f"HTML报告已生成: {html_file}")
 
                 # 发送实时通知（使用完整历史数据的统计结果）
-                summary_html = 无
+                summary_html = None
                 if mode_strategy["should_send_realtime"]:
                     self._send_notification_if_needed(
                         stats,
@@ -3381,7 +3381,7 @@ class NewsAnalyzer:
             print(f"HTML报告已生成: {html_file}")
 
             # 发送实时通知（如果需要）
-            summary_html = 无
+            summary_html = None
             if mode_strategy["should_send_realtime"]:
                 self._send_notification_if_needed(
                     stats,
@@ -3393,7 +3393,7 @@ class NewsAnalyzer:
                 )
 
         # 生成汇总报告（如果需要）
-        summary_html = 无
+        summary_html = None
         if mode_strategy["should_generate_summary"]:
             if mode_strategy["should_send_realtime"]:
                 # 如果已经发送了实时通知，汇总只生成HTML不发送通知
@@ -3478,12 +3478,12 @@ def generate_api_data(
 
     if not all_results:
         empty_response = {
-            "generated_at": get_beijing_time()。isoformat(),
+            "generated_at": get_beijing_time().isoformat(),
             "total_titles_processed": 0,
             "failed_sources": failed_ids,
             "trends": [],
         }
-        return empty_response, []， 0, failed_ids, {}
+        return empty_response, [], 0, failed_ids, {}
 
     new_titles = detect_latest_new_titles(api_id_list)
     word_groups, filter_words = load_frequency_words()
@@ -3598,7 +3598,7 @@ if FLASK_AVAILABLE:
                 with open(api_file, "r", encoding="utf-8") as f:
                     return jsonify(json.load(f))
             else:
-                return jsonify({"error": "API文件生成失败"})， 500
+                return jsonify({"error": "API文件生成失败"}), 500
         except Exception as e:
             print(f"API请求处理失败: {e}")
             return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
@@ -3612,12 +3612,12 @@ if FLASK_AVAILABLE:
 def main():
     parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具。")
     parser.add_argument(
-        '--serve-api'，
-        action='store_true'，
+        '--serve-api',
+        action='store_true',
         help='以API服务器模式运行，监听在 http://0.0.0.0:5001'
     )
     parser.add_argument(
-        '--generate-json'，
+        '--generate-json',
         action='store_true',
         help='仅生成静态的 trends.json, news.jpg 和相关HTML文件并退出'
     )
