@@ -1,451 +1,275 @@
 {
-  "generated_at": "2025-10-17T10:12:11.525149+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-10-18T10:01:40.924736+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 40,
+      "match_count": 24,
       "titles": [
         {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
-          "url": "https://www.cls.cn/detail/2172128",
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "消息人士：印度炼油商已从埃克森美孚石油(XOM.N)购入首批12月至1月交付的圭亚那原油。",
-          "url": "https://flash.jin10.com/detail/20251017100419642800",
+          "title": "西部证券：黄金的“黄金时代” 黄金有望开启长期牛市",
+          "url": "https://flash.jin10.com/detail/20251018091814387800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
+          "title": "中信证券：对股市依旧可以保持乐观，配置方向上可以更加谨慎",
+          "url": "https://wallstreetcn.com/livenews/2989982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "90亿美元买中国战机，印尼的“潜台词”是什么？",
+          "url": "https://news.ifeng.com/c/8nXsN0x1802",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
+          "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美国10年期国债收益率下跌2.1个基点，至3.955%，创4月7日以来新低。",
-          "url": "https://flash.jin10.com/detail/20251017100404038800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
-          "url": "https://wallstreetcn.com/articles/3757321",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "中证1000股指期货（IM）主力合约跌破7100点，日内跌1.33%。",
-          "url": "https://flash.jin10.com/detail/20251017095717245800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "A股福建自贸区概念盘中逆势拉升，海峡创新、平潭发展、海通发展涨停，厦门港务、福建金森一度触及涨停，漳州发展、福建水泥、国航远洋、三木集团等冲高。",
-          "url": "https://wallstreetcn.com/livenews/2989363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "十组关键数字见证中国经济跨度",
-          "url": "https://www.toutiao.com/trending/7561024194113617959/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.69%，深成指跌1.64%，电网设备、半导体芯片、光伏风电、超硬材料等方向跌幅居前，沪深京三市下跌个股近3800只。",
-          "url": "https://wallstreetcn.com/livenews/2989359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "杭州有人600元时囤150万黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26q%3D%2523%25E6%259D%25AD%25E5%25B7%259E%25E6%259C%2589%25E4%25BA%25BA600%25E5%2585%2583%25E6%2597%25B6%25E5%259B%25A4150%25E4%25B8%2587%25E9%25BB%2584%25E9%2587%2591%2523%26dgr%3D0%26cate%3D5001%26band_rank%3D4%26realpos%3D4%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26pos%3D4%26filter_type%3Drealtimehot%26display_time%3D1760667084%26pre_seqid%3D176066708416200586143",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美国没收柬电诈头目150亿美元比特币",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%94%B6%E6%9F%AC%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251017095527339800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "银行间主要利率债收益率降幅扩大，10年期国开债“25国开15”收益率下行1.4bp报1.9160%，30年期国债“25超长特别国债02”收益率下行1.4bp报2.0810%，“25超长特别国债06”收益率下行2.4bp报2.2160%。",
-          "url": "https://flash.jin10.com/detail/20251017095259032800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "美联储降息步伐现分歧：沃勒主张谨慎降息，米兰呼吁50基点更大力度降息",
-          "url": "https://wallstreetcn.com/articles/3757316",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "币圈又出大洋相：价值300万亿美元的PayPal稳定币被错误铸造",
-          "url": "https://www.cls.cn/detail/2171816",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251017095018033800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美联储理事米兰：希望10月份降息50个基点，但同僚们支持降息25个基点",
-          "url": "https://www.cls.cn/detail/2172078",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757293",
+          "title": "产量释放与金价红利共振，紫金矿业Q3归母净利润飙升57.14%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757394",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "国债期货涨幅扩大，30年期主力合约涨0.41%，10年期主力合约涨0.06%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
-          "url": "https://flash.jin10.com/detail/20251017094627048800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加74.79吨，当前持仓量为15497.4吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20251018081505315800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2171914",
+          "title": "【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓",
+          "url": "https://www.cls.cn/detail/2172942",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
-          "title": "中证500股指期货（IC）主力合约回落至7000点下方，日内跌0.67%。",
-          "url": "https://flash.jin10.com/detail/20251017094541801800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "现货黄金短线跳水近60美元",
-          "url": "https://flash.jin10.com/detail/20251017094451745800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加12.59吨，当前持仓量为1047.21吨。",
+          "url": "https://flash.jin10.com/detail/20251018080811476800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.18%，电网设备、培育钻石、充电桩、液冷服务器等方向领跌，沪深京三市下跌个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/2989344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时01分"
         },
         {
-          "title": "A股银行股继续走强，农业银行11连阳，股价再创历史新高，银行板块指数7连阳。",
-          "url": "https://wallstreetcn.com/livenews/2989342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "人民币中间价年内大涨近 900 点，收复 7.1 关口，背后主要原因是什么？年底能否破 7 ？",
-          "url": "https://www.zhihu.com/question/1962123205557876707",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "A股黄金概念股延续强势，宝鼎科技、萃华珠宝双双涨停，西部黄金、晓程科技涨超5%，四川黄金、中金黄金、山东黄金跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2989335",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储未来的降息路径突生变数",
+          "url": "https://www.douyin.com/hot/2272923",
+          "source": "抖音",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美国商会起诉特朗普政府将H-1B签证费用升至10万美元",
-          "url": "https://wallstreetcn.com/livenews/2989330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "今年金价已经创45次新高",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%87%91%E4%BB%B7%E5%B7%B2%E7%BB%8F%E5%88%9B45%E6%AC%A1%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美股三大股指齐收跌 金龙指数跌近1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%BD%90%E6%94%B6%E8%B7%8C+%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E8%B7%8C%E8%BF%911%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.17%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/2989325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26cate%3D5001%26band_rank%3D21%26realpos%3D21%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D2%26pos%3D22%26filter_type%3Drealtimehot%26display_time%3D1760667084%26pre_seqid%3D176066708416200586143",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "上证指数开盘报3912.04点，跌0.11%。 深证成指开盘报13060.24点，跌0.20%。 创业板指开盘报3026.40点，跌0.36%。 沪深300开盘报4610.70点，跌0.17%。 科创50开盘报1411.74点，跌0.34%。 中证500开盘报7226.42点，跌0.07%。 中证1000开盘报7395.87点，跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/2989320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "4300美元！现货黄金再破整百关口",
-          "url": "https://www.baidu.com/s?wd=4300%E7%BE%8E%E5%85%83%EF%BC%81%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E7%A0%B4%E6%95%B4%E7%99%BE%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "淄博公布73处玉米烘干点被质疑作秀",
-          "url": "https://www.toutiao.com/trending/7561704985730367498/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "顾客卖出500克黄金1天赚近5万",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%911%E5%A4%A9%E8%B5%9A%E8%BF%915%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "人民币兑美元中间价上调19点报7.0949",
-          "url": "https://wallstreetcn.com/livenews/2989312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时01分"
         },
         {
           "title": "黄金暴涨背后有何原因",
           "url": "https://www.douyin.com/hot/2272448",
           "source": "抖音",
           "ranks": [
-            27
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时01分"
         },
         {
-          "title": "商品期货开盘，沪金主力合约涨超3%，沪银、焦炭、焦煤、碳酸锂涨超2%。LU燃油、燃料油、原油跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2989302",
-          "source": "华尔街见闻-快讯",
+          "title": "邓莎老公路行持股市值不足5000万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E8%B7%AF%E8%A1%8C%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8D%E8%B6%B35000%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26pos%3D18%26q%3D%2523%25E9%2582%2593%25E8%258E%258E%25E8%2580%2581%25E5%2585%25AC%25E8%25B7%25AF%25E8%25A1%258C%25E6%258C%2581%25E8%2582%25A1%25E5%25B8%2582%25E5%2580%25BC%25E4%25B8%258D%25E8%25B6%25B35000%25E4%25B8%2587%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D17%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1760752604%26pre_seqid%3D176075260463302732877134",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "黄子韬给徐艺洋戴黄金皇冠",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%BB%99%E5%BE%90%E8%89%BA%E6%B4%8B%E6%88%B4%E9%BB%84%E9%87%91%E7%9A%87%E5%86%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D18%26pos%3D19%26q%3D%2523%25E9%25BB%2584%25E5%25AD%2590%25E9%259F%25AC%25E7%25BB%2599%25E5%25BE%2590%25E8%2589%25BA%25E6%25B4%258B%25E6%2588%25B4%25E9%25BB%2584%25E9%2587%2591%25E7%259A%2587%25E5%2586%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D18%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1760752604%26pre_seqid%3D176075260463302732877134",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "黄金大跳水原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26pos%3D22%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D21%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1760752604%26pre_seqid%3D176075260463302732877134",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "金价银价大跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D23%26pos%3D24%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D23%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1760752604%26pre_seqid%3D176075260463302732877134",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "黄金白银大跳水",
+          "url": "https://www.toutiao.com/trending/7561551906565259273/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "稳定币对普通人有什么用",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%B3%E5%AE%9A%E5%B8%81%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "黄金还能涨成什么样",
+          "url": "https://www.douyin.com/hot/2273212",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美元指数17日上涨",
+          "url": "https://flash.jin10.com/detail/20251018041455494800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "人民币的设计有多牛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%A4%9A%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "标普：预计法国2028年一般政府债务将达到GDP的121%。",
+          "url": "https://flash.jin10.com/detail/20251018041422535800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7562026461385834537/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时01分"
         }
       ]
     }
