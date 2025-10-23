@@ -1,605 +1,649 @@
 {
-  "generated_at": "2025-10-22T10:18:06.680028+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-10-23T10:13:14.861762+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2176371",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
-        },
-        {
-          "title": "泰国央行会议纪要：货币政策应继续保持宽松，以支持经济持续复苏。",
-          "url": "https://flash.jin10.com/detail/20251022100457599800",
+          "title": "巴克莱：印尼央行可能会放慢降息步伐",
+          "url": "https://flash.jin10.com/detail/20251023100232706800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，“所有目光聚焦沪金开盘”",
-          "url": "https://wallstreetcn.com/articles/3757589",
+          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
+          "url": "https://wallstreetcn.com/articles/3757632",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
-          "url": "https://www.cls.cn/detail/2176345",
+          "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
+          "url": "https://www.cls.cn/detail/2177416",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
-          "url": "https://www.cls.cn/detail/2176453",
+          "title": "日本央行执行董事前田荣二：日本央行可能在12月或明年1月加息。",
+          "url": "https://flash.jin10.com/detail/20251023100220109800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "特朗普或向司法部索赔2.3亿美元 资金可能用于翻修白宫",
-          "url": "https://flash.jin10.com/detail/20251022100040568800",
+          "title": "诺奖得主：美国经济“比看上去更糟”",
+          "url": "https://flash.jin10.com/detail/20251023095243694800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
-          "url": "https://wallstreetcn.com/articles/3757540",
+          "title": "付鹏：黄金暴跌！白银逼仓！贵金属剧烈波动下策略如何应对？【付鹏说9】",
+          "url": "https://wallstreetcn.com/premium/articles/3757629?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "日本央行观察人士推迟加息时间预测",
+          "url": "https://flash.jin10.com/detail/20251023095234250800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "业内：黄金暴跌是重大“求救信号”",
-          "url": "https://www.toutiao.com/trending/7563846663039618586/",
+          "title": "人造肉妖股本周已涨超10倍 黄金连续第二日调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2177456",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
           "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "教授每年强制自己定投100克黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E6%8E%88%E6%AF%8F%E5%B9%B4%E5%BC%BA%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AE%9A%E6%8A%95100%E5%85%8B%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "高台跳水！现货黄金一度跌超3.8%、现货白银大跌逾6%，什么原因？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31820176",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "乌克兰、英国、德国、法国、意大利等发表联合声明",
-          "url": "https://news.ifeng.com/c/8neAUPhzsu6",
+          "title": "欧盟批准对俄罗斯第19轮制裁：禁止进口俄液化天然气",
+          "url": "https://news.ifeng.com/c/8nfmpvdKIPM",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "国际金价突然大跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
-          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "山东烟台一烤肉店用玉米做燃料，店家回应称是帮农民打开销路，这一行为属于浪费吗？玉米做燃料环保吗？",
-          "url": "https://www.zhihu.com/question/1963900499452494848",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "从前三季度成绩单看中国经济发力点",
-          "url": "https://www.toutiao.com/trending/7563156834006958116/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "黄金创12年来最大单日跌幅",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "泽连斯基：乌克兰已准备好结束俄乌冲突",
-          "url": "https://news.ifeng.com/c/8ndvYNQjW8V",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "软银集团寻求通过发行债券筹集约20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2991571",
+          "title": "深成指、创业板指均跌超1%，沪指跌0.45%，工程机械、可控核聚变、油气、贵金属等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/2992222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "卢浮宫失窃物品价值约8800万欧元",
-          "url": "https://www.toutiao.com/trending/7563824699814481446/",
-          "source": "今日头条",
+          "title": "三个关键字解读中国经济三季报",
+          "url": "https://www.douyin.com/hot/2279278",
+          "source": "抖音",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "当地规劝烤肉店停止玉米做燃料",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26flag%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%25BD%2593%25E5%259C%25B0%25E8%25A7%2584%25E5%258A%259D%25E7%2583%25A4%25E8%2582%2589%25E5%25BA%2597%25E5%2581%259C%25E6%25AD%25A2%25E7%258E%2589%25E7%25B1%25B3%25E5%2581%259A%25E7%2587%2583%25E6%2596%2599%2523%26dgr%3D0%26band_rank%3D5%26lcate%3D5001%26realpos%3D5%26display_time%3D1761099376%26pre_seqid%3D176109937655302308000114",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251022095057259800",
-          "source": "金十数据",
+          "title": "无惧黄金“大跳水”？分析师们坚定看涨：长期牛市尚未结束！",
+          "url": "https://www.cls.cn/detail/2177730",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
-          "url": "https://wallstreetcn.com/articles/3757538",
+          "title": "泽连斯基：乌克兰将从瑞典接收至少100架“鹰狮”战机",
+          "url": "https://www.cls.cn/detail/2177628",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251023095024956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "黄金9周连涨后历史复盘：未来一年通常回调20%-40%，仅1970年例外",
+          "url": "https://wallstreetcn.com/articles/3757651",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬",
-          "url": "https://www.cls.cn/detail/2176255",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
-        },
-        {
-          "title": "10月22日投资避雷针：国际金银大幅收跌 黄金盘中一度创十年来最大跌幅",
-          "url": "https://www.cls.cn/detail/2176429",
-          "source": "财联社热门",
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2176123",
-          "source": "财联社热门",
+          "title": "韩国央行维持利率不变，以避免刺激房地产反弹",
+          "url": "https://flash.jin10.com/detail/20251023094611085800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251022093813678800",
-          "source": "金十数据",
+          "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2177682",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "高盛的基本预测仍是日本央行在2026年1月加息",
-          "url": "https://flash.jin10.com/detail/20251022093140068800",
+          "title": "散户再掀模因股狂潮！Beyond Meat本周暴涨超10倍",
+          "url": "https://www.cls.cn/detail/2177540",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251023094019180800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "韩国央行：美元兑韩元汇率因美国贸易谈判及贸易紧张局势的不确定性而大幅上涨。",
+          "url": "https://flash.jin10.com/detail/20251023093304311800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "韩国央行：有必要评估近期宣布的房地产市场措施的影响。通胀将维持在2%左右。",
+          "url": "https://flash.jin10.com/detail/20251023093242272800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "韩国央行：韩元兑美元持续走弱。居民贷款持续保持高速增长。",
+          "url": "https://flash.jin10.com/detail/20251023093234992800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251022093111434800",
+          "title": "韩国央行：出口有望在一段时间内呈现良好态势。需对外汇汇率波动保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20251023093220927800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251022093107502800",
+          "title": "韩国央行：韩国经济将保持温和复苏。将评估对通胀和金融稳定的影响。密切关注国内外政策环境的变化。将调整进一步下调基准利率的时机和步伐。",
+          "url": "https://flash.jin10.com/detail/20251023093202145800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "分析师：有色金属可能受益于贵金属价格的回落",
-          "url": "https://flash.jin10.com/detail/20251022092235247800",
+          "title": "韩国央行：将维持降息立场，以缓解经济增长面临的下行风险。",
+          "url": "https://flash.jin10.com/detail/20251023093135655800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时17分 ~ 10时18分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "烤肉店用玉米粒当燃料 玉米专家发声",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A4%E8%82%89%E5%BA%97%E7%94%A8%E7%8E%89%E7%B1%B3%E7%B2%92%E5%BD%93%E7%87%83%E6%96%99+%E7%8E%89%E7%B1%B3%E4%B8%93%E5%AE%B6%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251023093113676800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251023093108955800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY上涨0.3%，至152.42。",
+          "url": "https://flash.jin10.com/detail/20251023092939030800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "财政部1个月期国库现金定存中标利率1.76%，上次为1.78%。",
+          "url": "https://wallstreetcn.com/livenews/2992217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "欧洲央行原行长特里谢：不排除AI重演“索洛悖论”",
+          "url": "https://wallstreetcn.com/livenews/2992214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "法国检察官：卢浮宫失窃物品价值约8800万欧元",
-          "url": "https://news.ifeng.com/c/8ndxhbi8B7o",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.52%，黄金、存储芯片、稀土永磁、有色等方向跌幅居前，沪深京三市下跌个股近3200只。",
-          "url": "https://wallstreetcn.com/livenews/2991562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "湖北前三季度GDP同比增长6％",
-          "url": "https://wallstreetcn.com/livenews/2991557",
-          "source": "华尔街见闻-快讯",
+          "title": "从这些数据读懂中国经济信心和底气",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BF%A1%E5%BF%83%E5%92%8C%E5%BA%95%E6%B0%94",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "中国停购美国大豆背后",
-          "url": "https://www.toutiao.com/trending/7563545010948279850/",
-          "source": "今日头条",
+          "title": "内存价格暴涨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "A股深地经济概念继续活跃，神开股份、石化机械3连板，中裕科技涨超10%创新高，德石股份、石化油服、山东墨龙、秉扬科技、山河智能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2991554",
+          "title": "特朗普向美国政府索赔 2.3 亿美元，且将由其本人进行审批，还将自费增建白宫宴会厅，如何看待系列事件？",
+          "url": "https://www.zhihu.com/question/1964457445486237360",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "韩国央行：维持降息立场。 将调整进一步降息的时间和幅度。 需要监测房地产市场措施的影响。 需要监控外汇波动、家庭债务。 国内经济不确定性增加。 在需求疲弱和油价企稳的情况下，通胀率将保持在2%附近。 2025年和2026年GDP预测与8月份的预测一致。",
+          "url": "https://wallstreetcn.com/livenews/2992210",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "上千网站受影响！亚马逊云服务四年来最严重宕机：时长15小时，潜在损失或超百亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818009",
+          "title": "国债期货开盘，30年期主力合约跌0.03%，10年期主力合约跌0.01%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/2992206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股深圳本地股开盘大涨，建科院、广田集团、深赛格、深物业A、深纺织A等多股竞价涨停，消息上，深圳市发布《深圳市推动并购重组高质量发展行动方案（2025—2027年）》，其中提到，力争到2027年底，辖区上市公司质量全面提升，境内外上市公司总市值突破20万亿元，培育形成千亿级市值企业20家。",
+          "url": "https://wallstreetcn.com/livenews/2992205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "中国央行公开市场开展2125亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日2360亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/2992199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "黄金大跌背后的原因",
+          "url": "https://www.douyin.com/hot/2278565",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0918，上调36点；上一交易日中间价7.0954，上一交易日官方收盘价7.1245，上日夜盘报收7.1240。",
+          "url": "https://wallstreetcn.com/livenews/2992197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "澎湃漫评｜烤肉店用玉米当燃料，该紧张吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823258",
           "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "现货黄金短线反弹，重返4100美元关口上方，日内跌幅收窄至0.5%，此前一度下行逼近4000美元关口。",
-          "url": "https://wallstreetcn.com/livenews/2991552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "日本警方从女子内衣中搜出黄金8公斤",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E4%BB%8E%E5%A5%B3%E5%AD%90%E5%86%85%E8%A1%A3%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%918%E5%85%AC%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.19%，10年期主力合约涨0.05%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/2991549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "上证指数开盘报3896.07点，跌0.52%。 深证成指开盘报12985.96点，跌0.70%。 创业板指开盘报3061.27点，跌0.73%。 沪深300开盘报4576.03点，跌0.69%。 科创50开盘报1392.59点，跌0.98%。 中证500开盘报7135.21点，跌0.70%。 中证1000开盘报7304.96点，跌0.53%。",
-          "url": "https://wallstreetcn.com/livenews/2991544",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "中国央行公开市场开展1382亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日435亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/2991538",
+          "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31824400",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "俄自杀式无人机突袭乌克兰画面曝光",
+          "url": "https://www.toutiao.com/trending/7563173115183644691/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "烤肉店回应“使用玉米当燃料”质疑，市监局：正研究相关问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822727",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "商品期货开盘，原油主力合约涨超3%，LU燃油、沥青、燃料油涨超2%。沪金、棕榈油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.28%，上一个交易日夜盘收跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/2992192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "中国9月Swift人民币在全球支付中占比 3.17%，前值 2.93%。",
+          "url": "https://wallstreetcn.com/livenews/2992191",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "国际金价一度暴跌6%",
-          "url": "https://www.toutiao.com/trending/7563812032793808394/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "现货黄金创4年来最大跌幅",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "上海前三季度GDP同比增长5.5%",
-          "url": "https://wallstreetcn.com/livenews/2991537",
+          "title": "韩国央行将基准利率维持在2.50%不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/2992190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "金价银价急跌",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26flag%3D2%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26dgr%3D0%26band_rank%3D21%26lcate%3D5001%26realpos%3D21%26display_time%3D1761099376%26pre_seqid%3D176109937655302308000114",
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D22%26flag%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26display_time%3D1761185467%26pre_seqid%3D1761185467848032349706",
           "source": "微博",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "黄金一度创12年来最大单日跌幅",
-          "url": "https://www.douyin.com/hot/2278263",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0954，下调24点；上一交易日中间价7.0930，上一交易日官方收盘价7.1171，上日夜盘报收7.1250。",
-          "url": "https://wallstreetcn.com/livenews/2991536",
+          "title": "韩国央行7天回购利率 2.5%，预期 2.5%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2992189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "黄金创5年来最大跌幅",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E5%88%9B5%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D25%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E5%2588%259B5%25E5%25B9%25B4%25E6%259D%25A5%25E6%259C%2580%25E5%25A4%25A7%25E8%25B7%258C%25E5%25B9%2585%2523%26dgr%3D0%26band_rank%3D25%26lcate%3D5001%26realpos%3D25%26display_time%3D1761099376%26pre_seqid%3D176109937655302308000114",
-          "source": "微博",
+          "title": "俄乌大变数,黄金深夜跳水崩盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346052&amp;topic_name=%E4%BF%84%E4%B9%8C%E5%A4%A7%E5%8F%98%E6%95%B0%2C%E9%BB%84%E9%87%91%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4%E5%B4%A9%E7%9B%98",
+          "source": "贴吧",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "金价银价急跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26band_rank%3D26%26lcate%3D5001%26realpos%3D26%26display_time%3D1761099376%26pre_seqid%3D176109937655302308000114",
-          "source": "微博",
+          "title": "国际油价22日上涨",
+          "url": "https://www.toutiao.com/trending/7563443957125021732/",
+          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "商品期货开盘，沪金、沪银主力合约跌超5%，豆二、豆粕跌超1%。鸡蛋涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2991530",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金创12年来最大单日跌幅 金饰热卖",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85+%E9%87%91%E9%A5%B0%E7%83%AD%E5%8D%96",
+          "source": "百度热搜",
           "ranks": [
-            27
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         },
         {
-          "title": "马光远：黄金白银暴跌投资需谨慎",
-          "url": "https://www.toutiao.com/trending/7563847335726288425/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初跌0.32%，上一个交易日夜盘收跌0.25%。",
-          "url": "https://wallstreetcn.com/livenews/2991527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "高盛：中国股市慢牛正在形成 预计关键指数到2027年底有约30%上涨空间",
-          "url": "https://wallstreetcn.com/livenews/2991526",
+          "title": "A股三季度分红预案陆续公布，红利板块关注度升温",
+          "url": "https://wallstreetcn.com/livenews/2992176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "10时13分"
         }
       ]
     }
