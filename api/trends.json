@@ -1,418 +1,484 @@
 {
-  "generated_at": "2025-10-28T10:31:01.195514+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-10-29T10:23:16.993304+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
+          "title": "【早报】“十五五”时期，将重点发展这些新产业；大涨近5%，英伟达总市值逼近5万亿美元",
+          "url": "https://www.cls.cn/detail/2184114",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "据韩联社：现代汽车集团董事长郑义宣昨日与沙特王储穆罕默德·本·萨勒曼会面，讨论了现代汽车在当地的发展战略，并探索未来商机。",
-          "url": "https://flash.jin10.com/detail/20251028100358678800",
+          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "金十整理：美联储今年票委近期利率观点“三分化”",
+          "url": "https://flash.jin10.com/detail/20251029095954769800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "盘中最高3999.07点！沪指距4000点一步之遥，存储芯片、CPO轮番爆发，恒科指涨近2%，国债全线反弹",
-          "url": "https://wallstreetcn.com/articles/3757943",
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "金十图示：2025年10月28日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251028095302343800",
-          "source": "金十数据",
+          "title": "丰田发言人称，丰田尚未宣布100亿美元对美投资计划，丰田计划继续支持美国就业和制造业。",
+          "url": "https://wallstreetcn.com/livenews/2995522",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "盘中站上4000点！沪指冲高回落跌0.2%，军工集体爆发，恒科指跌超1%，国债反弹，沪金大跌超4%",
+          "url": "https://wallstreetcn.com/articles/3758035",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "在岸人民币兑美元早盘走高，一度涨破7.10关口，触及7.0995元，创2024年11月来新高，日内涨逾70点。",
-          "url": "https://wallstreetcn.com/livenews/2994689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "36 岁体育老师游泳馆浅水区跳水颈椎断裂死亡，该事件将如何划分责任？",
-          "url": "https://www.zhihu.com/question/1965349424805943233",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "【上交所明确创新药研发再融资三大审核重点，护航“真创新”与防风险并重】上海证券交易所近日在业内下发最新一期《发行上市审核动态》，针对生物医药企业募集资金投向创新药研发项目的再融资申请，明确了具体审核要点。记者了解到，上交所在审核问答中强调了对创新药再融资的三大核心关切：项目必要性与可行性、信息披露充分性以及补流比例的合理性。（中证金牛座）",
-          "url": "https://wallstreetcn.com/livenews/2994684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "白宫：美日两国计划通过运用经济政策工具和协调投资，加速发展多元化、流动性强且公平的关键矿物和稀土市场。",
-          "url": "https://flash.jin10.com/detail/20251028095101730800",
+          "title": "金十图示：2025年10月29日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251029095758516800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "吴清：证监会将深化创业板改革、着力发挥中长期资金“压舱石”和“稳定器”作用",
-          "url": "https://wallstreetcn.com/articles/3757977",
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
-          "url": "https://wallstreetcn.com/articles/3757957",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：值得注意的是，英伟达(NVDA.O)股价创出了新高，股市昨天也达到了历史最高点。我们所有市场都表现出色，几乎每一个市场都在不断攀升。",
+          "url": "https://flash.jin10.com/detail/20251029095602323800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
-          "url": "https://www.cls.cn/detail/2182758",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
+          "title": "“小非农”ADP推出周度就业数据：截至10月11日的四周，美国私营部门平均新增岗位约1.4万个",
+          "url": "https://wallstreetcn.com/articles/3758096",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "美国总统特朗普和日本首相高市早苗签署美日同盟新黄金时代实施协议文件。",
-          "url": "https://flash.jin10.com/detail/20251028094559068800",
+          "title": "韩国总统办公室：亚马逊云服务(AWS)计划到2031年在韩国投资至少50亿美元。七家全球性公司将未来五年在韩国投资总计90亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029095317445800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
-          "url": "https://www.cls.cn/detail/2182631",
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "纽约金银期货均跌超3% 阿根廷股指涨逾20% | 环球市场",
-          "url": "https://www.cls.cn/detail/2182708",
+          "title": "日本30年期国债收益率跌1.5个基点，至3.045%。",
+          "url": "https://flash.jin10.com/detail/20251029095135111800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "试图颠覆半导体产业链的高中毕业生 完成1亿美元创业融资",
+          "url": "https://www.cls.cn/detail/2184011",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "创业板指转涨。中证1000指数、中证2000指数和万得微盘股指数上涨。",
-          "url": "https://wallstreetcn.com/livenews/2994679",
+          "title": "凯投宏观：澳大利亚潜在通胀强劲 降低央行进一步放松政策的可能性",
+          "url": "https://flash.jin10.com/detail/20251029095009536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "丰田高管：我们在特朗普第一任期期间的投资约为100亿美元。（本次）我们并未提及同样的金额，但表示希望投资和创造就业的意愿没有改变。",
+          "url": "https://flash.jin10.com/detail/20251029094900785800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报47.52美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251029094658878800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "以太坊站上4000美元/枚，日内涨0.62%。",
+          "url": "https://flash.jin10.com/detail/20251029094220073800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "新人拍婚纱照遭遇“黑天鹅抢新娘”",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E5%A4%A9%E9%B9%85%E6%8A%A2%E6%96%B0%E5%A8%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "重庆：拟率先将中新数字人民币双边跨境结算试点升级为“中新数币+”模式",
+          "url": "https://wallstreetcn.com/livenews/2995516",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994668",
+          "title": "山姆黄金蟹被指侵权 多方回应",
+          "url": "https://www.douyin.com/hot/2286045",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "创业板指涨超2%，量子科技、算力硬件、锂矿等方向领涨",
+          "url": "https://wallstreetcn.com/livenews/2995515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股锂矿概念震荡走高，大中矿业涨停，芳源股份、盛新锂能、欣旺达、盐湖股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2995510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "新人拍婚纱照遭遇黑天鹅抢新娘",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E4%BA%BA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%81%AD%E9%81%87%E9%BB%91%E5%A4%A9%E9%B9%85%E6%8A%A2%E6%96%B0%E5%A8%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2596%25B0%25E4%25BA%25BA%25E6%258B%258D%25E5%25A9%259A%25E7%25BA%25B1%25E7%2585%25A7%25E9%2581%25AD%25E9%2581%2587%25E9%25BB%2591%25E5%25A4%25A9%25E9%25B9%2585%25E6%258A%25A2%25E6%2596%25B0%25E5%25A8%2598%2523%26dgr%3D0%26realpos%3D11%26pos%3D12%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26flag%3D1%26band_rank%3D11%26display_time%3D1761704538%26pre_seqid%3D17617045386330346602423",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "农妇收玉米遇山体垮塌失联超100小时，家属发声(图)",
+          "url": "https://news.ifeng.com/c/8npLaqT1c1o",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股银行股走低，厦门银行跌超6%，成都银行、青岛银行、江阴银行等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/2995509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股游戏概念表现活跃，吉比特涨停，三七互娱、冰川网络、完美世界、恺英网络、巨人网络跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股量子科技概念股快速走高，国盾量子盘中创新高，神州信息涨停，科大国创涨超10%，西部超导、信安世纪、富士达跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995506",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "韩国央行：考虑自2013年以来首次购买黄金",
-          "url": "https://wallstreetcn.com/livenews/2994666",
+          "title": "A股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走高，时空科技6连板，佰维存储、云汉芯城涨超9%，江波龙、香农芯创、聚辰股份、北京君正纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/2995504",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "A股福建本地股延续强势，平潭发展8天6板，福建水泥2连板，厦门港务、日上集团涨停，海峡创新涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/2994663",
+          "title": "韩国央行行长李昌镛：2025年GDP增速可能超过1%，高于0.9%的预测。",
+          "url": "https://wallstreetcn.com/livenews/2995499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "加仓分众传媒、百胜中国，张坤：中国消费增速有望长期跑赢GDP增速",
-          "url": "https://wallstreetcn.com/livenews/2994659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "黄金跌破4000美元",
-          "url": "https://www.douyin.com/hot/2285336",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "黄金失守4000美元大关",
-          "url": "https://www.toutiao.com/trending/7566043393697009202/",
-          "source": "今日头条",
+          "title": "英伟达10亿美元入股诺基亚",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%A5%E8%82%A1%E8%AF%BA%E5%9F%BA%E4%BA%9A",
+          "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.49%，10年期主力合约涨0.14%，5年期主力合约涨0.09%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/2994653",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金史诗级暴跌后还会涨吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "专家：人民币拐点已至",
-          "url": "https://www.toutiao.com/trending/7566046814151904831/",
-          "source": "今日头条",
+          "title": "妈妈叮嘱吞10克黄金小孩别在外面拉",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%8F%AE%E5%98%B1%E5%90%9E10%E5%85%8B%E9%BB%84%E9%87%91%E5%B0%8F%E5%AD%A9%E5%88%AB%E5%9C%A8%E5%A4%96%E9%9D%A2%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "金价跌破3900美元 未来会是什么走势",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B43900%E7%BE%8E%E5%85%83+%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E8%B5%B0%E5%8A%BF",
+          "source": "百度热搜",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "黄金大跌后性价比还高吗",
-          "url": "https://www.toutiao.com/trending/7566042444433722907/",
+          "title": "Thermo Fisher接近以约100亿美元的价格收购Clario，交易最早将于周三宣布。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2995490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.21%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/2995489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "英伟达10亿美元入股诺基亚",
+          "url": "https://www.toutiao.com/trending/7566420461253299754/",
           "source": "今日头条",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26stream_entry_id%3D31%26pos%3D25%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26lcate%3D5001%26realpos%3D24%26flag%3D2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1761618382%26pre_seqid%3D176161838291302068345113",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "上证指数开盘报3986.89点，跌0.25%。 深证成指开盘报13411.67点，跌0.58%。 创业板指开盘报3205.44点，跌0.90%。 沪深300开盘报4697.73点，跌0.39%。 科创50开盘报1470.48点，跌0.92%。 中证500开盘报7344.45点，跌0.47%。 中证1000开盘报7462.91点，跌0.43%。",
-          "url": "https://wallstreetcn.com/livenews/2994648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "菲律宾比索兑美元汇率跌至59，创纪录低位。",
-          "url": "https://wallstreetcn.com/livenews/2994646",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
           "ranks": [
-            26
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "中国央行公开市场开展4753亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1595亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/2994644",
+          "title": "上证指数开盘报3990.27点，涨0.05%。 深证成指开盘报13484.01点，涨0.40%。 创业板指开盘报3263.98点，涨1.07%。 沪深300开盘报4701.04点，涨0.19%。 科创50开盘报1466.44点，跌0.36%。 中证500开盘报7350.76点，涨0.13%。 中证1000开盘报7481.24点，涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/2995484",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         },
         {
-          "title": "人民币兑美元中间价报7.0856，上调25点；上一交易日中间价7.0881，上一交易日官方收盘价7.1109，上日夜盘报收7.1071。",
-          "url": "https://wallstreetcn.com/livenews/2994640",
+          "title": "中国央行公开市场今日净投放4195亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/2995480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "提醒：香港股市今日因重阳节休市一日。",
+          "url": "https://wallstreetcn.com/livenews/2995478",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时23分"
         }
       ]
     }
