@@ -1,308 +1,176 @@
 {
-  "generated_at": "2025-11-01T10:20:37.720718+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-11-02T10:23:38.246759+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 27,
+      "match_count": 15,
       "titles": [
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "创业板跌超2%，光模块龙头“易中天”大跌，创新药反弹，恒科指跌超2%，华虹跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758393",
+          "title": "龙头八连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2188589",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "伯克希尔·哈撒韦Q3运营利润大增34%，现金储备飙至3817亿美元创历史新高",
+          "url": "https://wallstreetcn.com/articles/3758482",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "比特币站上110000美元/枚，日内涨0.39%。",
-          "url": "https://flash.jin10.com/detail/20251101093255742800",
+          "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
+          "url": "https://news.ifeng.com/c/8nwg1OV8dIS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "俄罗斯地区行政管理部门表示，乌克兰无人机袭击俄罗斯黑海港口图阿普谢，一艘油轮受损。",
+          "url": "https://flash.jin10.com/detail/20251102084234425800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "“大空头”Burry隐晦警告：有时我们会看到泡沫，唯一获胜的招式就是不玩",
-          "url": "https://wallstreetcn.com/articles/3758441",
-          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "如何看待格力 2025 三季度财报跳水，净利润下降 9.92%？格力到底发生了什么？格力还能自救吗？",
-          "url": "https://www.zhihu.com/question/1967390403784341304",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
+          "title": "决议后第一波美联储高官发声：3位反对本周降息，沃勒支持12月降息",
+          "url": "https://wallstreetcn.com/articles/3758457",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "女子投资黄金：开始像捡钱现在很后悔",
-          "url": "https://www.toutiao.com/trending/7566743938741305407/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转",
-          "url": "https://wallstreetcn.com/articles/3758423",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
+          "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
+          "url": "https://www.cls.cn/detail/2188697",
           "source": "财联社热门",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
+          "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
+          "url": "https://flash.jin10.com/detail/20251102082411629800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
+          "url": "https://www.cls.cn/detail/2188629",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "钱志敏在英国认罪，6.1万枚比特币市价已达493亿元，赃款归谁？",
-          "url": "https://news.ifeng.com/c/8nuCMek00su",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "关于黄金有关税收政策的公告",
-          "url": "https://www.douyin.com/hot/2290544",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "大众宝马核心供应商因缺芯被迫减产",
-          "url": "https://www.toutiao.com/trending/7567074226969739307/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "美联储内部再现分歧：两位鹰派官员反对本周降息 警告通胀风险或被低估",
-          "url": "https://www.cls.cn/detail/2188383",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         },
         {
-          "title": "金十图示：2025年11月01日（周六）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251101080852064800",
+          "title": "A股下周市场会迎来大变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7567777675777478207/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "黄金税收公告发布是否会影响金价",
+          "url": "https://www.toutiao.com/trending/7567904081340010011/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "俄罗斯莫斯科交易所：10月份交易量达172.6万亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251101223116234800",
           "source": "金十数据",
           "ranks": [
-            15
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
-          "url": "https://wallstreetcn.com/livenews/2997932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "星铁黄金史诗PV再见昔涟",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "印度尼西亚能源部宣布，11月上半月5300大卡等级煤炭的基准价格定为每吨67.22美元；4100大卡等级煤炭的基准价格定为每吨44.02美元。",
-          "url": "https://flash.jin10.com/detail/20251101080617008800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.15吨，当前持仓量为1039.2吨。",
-          "url": "https://flash.jin10.com/detail/20251101080420280800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "韩国10月贸易帐初值 60.6亿美元，预期29.8亿美元，前值由95.58亿美元修正为95.31亿美元。",
-          "url": "https://flash.jin10.com/detail/20251101080002233800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "奥委会与沙特分手,电竞奥运难产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346504&amp;topic_name=%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%8E%E6%B2%99%E7%89%B9%E5%88%86%E6%89%8B%2C%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E9%9A%BE%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "李一桐清瞳摇solo",
-          "url": "https://www.douyin.com/hot/2290291",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
-          "url": "https://wallstreetcn.com/livenews/2997911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
-          "url": "https://wallstreetcn.com/livenews/2997909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时23分"
         }
       ]
     }
