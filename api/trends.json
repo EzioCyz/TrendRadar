@@ -1,385 +1,407 @@
 {
-  "generated_at": "2025-11-03T10:23:53.413612+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-11-04T10:17:44.829749+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
-          "title": "金十图示：2025年11月03日（周一）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251103095045254800",
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251104095207946800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
-          "url": "https://www.cls.cn/detail/2188629",
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "国际金价再现断崖式下跌",
-          "url": "https://www.toutiao.com/trending/7568291205851647529/",
+          "title": "日本经济财政政策大臣城内实：将于明年夏天确定日本的经济增长策略。 增长策略小组的成员包括学者和商界领袖，将首先列出经济刺激计划的焦点。 对经济刺激计划的资金来源不予置评。 预计日本央行将与政府就物价目标密切合作。 预计日本央行将同时致力于经济增长和物价稳定。",
+          "url": "https://wallstreetcn.com/livenews/2998903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "国家跳水队教练陈若琳现身全运会",
+          "url": "https://www.toutiao.com/trending/7568385315309158441/",
           "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
-          "url": "https://www.cls.cn/detail/2188963",
-          "source": "财联社热门",
+          "title": "战国漆器图案与人民币纹样高度相似",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E5%9B%BD%E6%BC%86%E5%99%A8%E5%9B%BE%E6%A1%88%E4%B8%8E%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BA%B9%E6%A0%B7%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "贝森特：若不进一步降息，美国经济衰退范围或将扩大",
-          "url": "https://news.ifeng.com/c/8nyN48zs0Q4",
+          "title": "事关乌克兰，30多国代表在西班牙“密会”",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwQ",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.27%，贵金属、电池、半导体、PCB等方向跌幅居前，沪深京三市下跌个股超2600只。",
-          "url": "https://wallstreetcn.com/livenews/2998272",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
+          "url": "https://wallstreetcn.com/articles/3758541",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "全运会跳水女子团体全红婵亮相，助广东队夺得金牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879082",
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
           "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "消息人士：印度石油公司 Bharat Petroleum通过招标购买了200万桶Upper Zakum原油，用于十二月装运。",
-          "url": "https://flash.jin10.com/detail/20251103094112903800",
-          "source": "金十数据",
+          "title": "冯德莱恩：欧盟将向乌克兰提供紧急能源援助",
+          "url": "https://news.ifeng.com/c/8nzbEcpBQ87",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "港股老铺黄金盘中跌超8%，此前中国取消黄金税收优惠政策。",
-          "url": "https://wallstreetcn.com/livenews/2998268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "详解美国数据中心狂潮：45GW，2.5万亿美元投资，谁在建设，谁在掏钱？",
-          "url": "https://wallstreetcn.com/articles/3758500",
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "美联储12月是否降息，或许取决于“美国政府关门何时结束”",
-          "url": "https://wallstreetcn.com/articles/3758491",
-          "source": "华尔街见闻",
+          "title": "央行副行长陆磊：积极支持香港离岸人民币市场建设",
+          "url": "https://wallstreetcn.com/livenews/2998898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "黄金还有投资机会吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "切入存储领域的照明龙头年内涨超450% 近一月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2188615",
+          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
+          "url": "https://www.cls.cn/detail/2190068",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约跌0.03%，10年期主力合约跌0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/2998261",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储理事米兰：美联储政策过于紧缩，应通过一系列50bp降息实现中性利率",
+          "url": "https://wallstreetcn.com/articles/3758572",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "美国电力项目储备：光伏风电集中未来两年，天然气和储能未来规划激增",
-          "url": "https://wallstreetcn.com/articles/3758498",
+          "title": "美国10月ISM制造业PMI连续八个月萎缩，需求和就业疲软，通胀降温",
+          "url": "https://wallstreetcn.com/articles/3758584",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "“A+H”股热潮延续！10月累计16家A股上市公司筹划赴港上市，700亿PCB龙头在列",
-          "url": "https://www.cls.cn/detail/2188804",
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251103093108843800",
+          "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
+          "url": "https://flash.jin10.com/detail/20251104093142922800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "A股可控核聚变概念反复活跃，浙富控股、海陆重工竞价涨停，常辅股份涨超10%，兰石重装、天力复合、上海电气、久立特材、国机通用等纷纷高开，消息面上，中国科学院金属所成功制备“人造太阳”关键核心材料。",
-          "url": "https://wallstreetcn.com/livenews/2998260",
+          "title": "国内多家品牌金饰克价下跌，老庙黄金报价1187元",
+          "url": "https://wallstreetcn.com/livenews/2998892",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "王家卫被曝录音中称中国的编剧现在处在黄金时代，真是这样吗？影视编剧行业境况究竟如何？",
-          "url": "https://www.zhihu.com/question/1967902830531666243",
-          "source": "知乎",
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251103093105711800",
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251104093110769800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "上证指数开盘报3954.08点，跌0.02%。 深证成指开盘报13364.42点，跌0.10%。 创业板指开盘报3179.30点，跌0.26%。 沪深300开盘报4636.73点，跌0.08%。 科创50开盘报1403.46点，跌0.85%。 中证500开盘报7327.12点，跌0.05%。 中证1000开盘报7507.37点，涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/2998256",
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251104093107817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "博裕将为收购星巴克中国业务股权寻求约14亿美元贷款。",
+          "url": "https://wallstreetcn.com/livenews/2998889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/2998254",
-          "source": "华尔街见闻-快讯",
+          "title": "欧元兑美元EUR/USD向下触及1.15，日内跌0.15%。",
+          "url": "https://flash.jin10.com/detail/20251104092910289800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "中国央行公开市场开展783亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3373亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/2998252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0867，上调13点；上一交易日中间价7.0880，上一交易日官方收盘价7.1135，上日夜盘报收7.1200。",
-          "url": "https://wallstreetcn.com/livenews/2998251",
+          "title": "钍基熔盐堆概念再度拉升，宝色股份、海陆重工、兰石重装均2连板，中核科技、航宇科技、浙富控股等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2998880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "专访厄瓜多尔前外长：美“禁毒战争”背后，门罗主义转向针对中国经济影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31843387",
-          "source": "澎湃新闻",
+          "title": "一条视频看懂黄金税收新规",
+          "url": "https://www.douyin.com/hot/2293159",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/2998871",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "商品期货开盘，集运欧线主力合约跌超3%，纯碱、甲醇、BR橡胶跌超2%。LU燃油、原油、燃料油、菜籽油涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2998245",
+          "title": "上证指数开盘报3973.46点，跌0.08%。 深证成指开盘报13373.55点，跌0.23%。 创业板指开盘报3190.40点，跌0.20%。 沪深300开盘报4649.35点，跌0.09%。 科创50开盘报1406.86点，涨0.43%。 中证500开盘报7315.19点，跌0.25%。 中证1000开盘报7523.64点，跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/2998868",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "黄金税收新规影响如何",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%A8%8E%E6%94%B6%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.19%。",
-          "url": "https://wallstreetcn.com/livenews/2998243",
+          "title": "中国央行公开市场开展1175亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日4753亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/2998864",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D21%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D20%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26realpos%3D21%26dgr%3D0%26c_type%3D31%26display_time%3D1762136390%26pre_seqid%3D17621363909000253546665&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。 特朗普表示，他不知道赵长鹏是谁；他百分百支持加密货币行业。",
-          "url": "https://wallstreetcn.com/livenews/2998242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "运动员跳水比赛前热身“炸鱼”",
-          "url": "https://www.toutiao.com/trending/7567233254854885403/",
-          "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "CS2饰品市场崩盘的底层逻辑",
-          "url": "https://search.bilibili.com/all?keyword=CS2%E9%A5%B0%E5%93%81%E5%B8%82%E5%9C%BA%E5%B4%A9%E7%9B%98%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
+          "title": "美国财长贝森特：预计明年将实现稳健、高速度增长，且不会引发通胀；认为通胀、利率会下降。",
+          "url": "https://wallstreetcn.com/livenews/2998861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
+          "url": "https://wallstreetcn.com/livenews/2998859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "A股",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DA%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D26%26flag%3D1%26q%3DA%25E8%2582%25A1%26filter_type%3Drealtimehot%26realpos%3D27%26dgr%3D0%26c_type%3D31%26display_time%3D1762136390%26pre_seqid%3D17621363909000253546665&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "美元指数突破100大关，为8月1日来首次。",
+          "url": "https://wallstreetcn.com/livenews/2998858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         },
         {
-          "title": "中国外汇交易中心（CFETS）：10月31日人民币汇率指数按周涨0.06至97.61。",
-          "url": "https://wallstreetcn.com/livenews/2998232",
+          "title": "人民币兑美元中间价报7.0885，下调18点；上一交易日中间价7.0867，上一交易日官方收盘价7.1225，上日夜盘报收7.1205。",
+          "url": "https://wallstreetcn.com/livenews/2998857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "买黄金要多交税了吗",
-          "url": "https://www.toutiao.com/trending/7568281606301945350/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时17分"
         }
       ]
     }
