@@ -1,407 +1,396 @@
 {
-  "generated_at": "2025-11-04T10:17:44.829749+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2025-11-05T10:21:21.003356+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 36,
+      "match_count": 35,
       "titles": [
         {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "金十图示：2025年11月04日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251104095207946800",
+          "title": "【早报】 美科技股大幅回调！英伟达跌近4%；央行今日开展7000亿元买断式逆回购操作",
+          "url": "https://www.cls.cn/detail/2191232",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "日经225指数暴跌逾4% 科技股领跌估值忧虑升温",
+          "url": "https://flash.jin10.com/detail/20251105100801370800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "美国正走向“流动性危机”，“政府关门”相当于加息？下一步对市场至关重要",
+          "url": "https://wallstreetcn.com/articles/3758606",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3758522",
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
+          "title": "A股投资者逼近2.5亿！年末或将突破大关",
+          "url": "https://www.cls.cn/detail/2191279",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "日本经济财政政策大臣城内实：将于明年夏天确定日本的经济增长策略。 增长策略小组的成员包括学者和商界领袖，将首先列出经济刺激计划的焦点。 对经济刺激计划的资金来源不予置评。 预计日本央行将与政府就物价目标密切合作。 预计日本央行将同时致力于经济增长和物价稳定。",
-          "url": "https://wallstreetcn.com/livenews/2998903",
+          "title": "Palantir CEO炮轰“大空头”：做空我们和英伟达“简直疯了”！",
+          "url": "https://www.cls.cn/detail/2191305",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "美国货币市场流动性持续干涸！华尔街预期美联储将“救市”",
+          "url": "https://www.cls.cn/detail/2191312",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "A股银行股震荡走强，工商银行股价创新高，浦发银行、宁波银行、南京银行、江苏银行、兴业银行等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2999563",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时21分"
         },
         {
-          "title": "国家跳水队教练陈若琳现身全运会",
-          "url": "https://www.toutiao.com/trending/7568385315309158441/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "战国漆器图案与人民币纹样高度相似",
-          "url": "https://www.baidu.com/s?wd=%E6%88%98%E5%9B%BD%E6%BC%86%E5%99%A8%E5%9B%BE%E6%A1%88%E4%B8%8E%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BA%B9%E6%A0%B7%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "事关乌克兰，30多国代表在西班牙“密会”",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
-          "url": "https://wallstreetcn.com/articles/3758541",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "冯德莱恩：欧盟将向乌克兰提供紧急能源援助",
-          "url": "https://news.ifeng.com/c/8nzbEcpBQ87",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
+          "title": "韩元兑美元跌0.6%，至1,449.50，为4月11日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251105095930235800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "央行副行长陆磊：积极支持香港离岸人民币市场建设",
-          "url": "https://wallstreetcn.com/livenews/2998898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "黄金还有投资机会吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
+          "url": "https://flash.jin10.com/detail/20251105095353867800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
-          "url": "https://www.cls.cn/detail/2190068",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "美联储理事米兰：美联储政策过于紧缩，应通过一系列50bp降息实现中性利率",
-          "url": "https://wallstreetcn.com/articles/3758572",
-          "source": "华尔街见闻",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251105095338014800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美国10月ISM制造业PMI连续八个月萎缩，需求和就业疲软，通胀降温",
-          "url": "https://wallstreetcn.com/articles/3758584",
+          "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3758675",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
+          "title": "11月5日投资避雷针：“大空头”Michael Burry做空Palantir和英伟达",
+          "url": "https://www.cls.cn/detail/2191286",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
-          "url": "https://flash.jin10.com/detail/20251104093142922800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "国内多家品牌金饰克价下跌，老庙黄金报价1187元",
-          "url": "https://wallstreetcn.com/livenews/2998892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251104093110769800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251104093107817800",
+          "title": "安联投资全球首席执行官Pross：我们喜欢黄金，美元储备地位受到考验。",
+          "url": "https://flash.jin10.com/detail/20251105095045093800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "博裕将为收购星巴克中国业务股权寻求约14亿美元贷款。",
-          "url": "https://wallstreetcn.com/livenews/2998889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "欧元兑美元EUR/USD向下触及1.15，日内跌0.15%。",
-          "url": "https://flash.jin10.com/detail/20251104092910289800",
+          "title": "金十图示：2025年11月05日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251105095014736800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "钍基熔盐堆概念再度拉升，宝色股份、海陆重工、兰石重装均2连板，中核科技、航宇科技、浙富控股等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2998880",
-          "source": "华尔街见闻-快讯",
+          "title": "美国30年期国债收益率下降2.9个基点，至4.643%。",
+          "url": "https://flash.jin10.com/detail/20251105094423144800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "一条视频看懂黄金税收新规",
-          "url": "https://www.douyin.com/hot/2293159",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/2998871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "上证指数开盘报3973.46点，跌0.08%。 深证成指开盘报13373.55点，跌0.23%。 创业板指开盘报3190.40点，跌0.20%。 沪深300开盘报4649.35点，跌0.09%。 科创50开盘报1406.86点，涨0.43%。 中证500开盘报7315.19点，跌0.25%。 中证1000开盘报7523.64点，跌0.19%。",
-          "url": "https://wallstreetcn.com/livenews/2998868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "中国央行公开市场开展1175亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日4753亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/2998864",
-          "source": "华尔街见闻-快讯",
+          "title": "美元兑日元USD/JPY跌破153，日内跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20251105094054907800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "美国财长贝森特：预计明年将实现稳健、高速度增长，且不会引发通胀；认为通胀、利率会下降。",
-          "url": "https://wallstreetcn.com/livenews/2998861",
-          "source": "华尔街见闻-快讯",
+          "title": "比特币回落至99000美元/枚下方，日内跌2.47%。",
+          "url": "https://flash.jin10.com/detail/20251105094038309800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
+        },
+        {
+          "title": "韩国交易所暂停KOSDAQ期货程序化交易。",
+          "url": "https://flash.jin10.com/detail/20251105093636687800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         },
         {
-          "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
-          "url": "https://wallstreetcn.com/livenews/2998859",
+          "title": "欧盟年度扩大方案通过，涉乌克兰",
+          "url": "https://news.ifeng.com/c/8o1erwFyyhi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "韩元兑美元盘中跌0.6%至1449.5，为4月11日来新低。",
+          "url": "https://wallstreetcn.com/livenews/2999553",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "赛力斯今日港股上市募资140亿港元 为“首家A+H豪华新能源车企”​",
+          "url": "https://wallstreetcn.com/livenews/2999545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "安联投资全球首席执行官Pross：我们喜欢黄金，美元储备地位受到考验。",
+          "url": "https://wallstreetcn.com/livenews/2999543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "创业板指跌幅收窄至1%以内，开盘一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2999542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "星巴克为何40亿美元“卖身”",
+          "url": "https://www.toutiao.com/trending/7568835993680219690/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "比特币回落至99000美元/枚下方，日内跌近2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2999533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "A股海南自贸区板块盘初冲高，海马汽车涨停，海峡股份、洲际油气、欣龙控股、罗牛山、康芝药业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2999527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "金银暴涨意味着全球滞胀吗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E5%85%A8%E7%90%83%E6%BB%9E%E8%83%80%E5%90%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D26%26cate%3D5001%26q%3D%25E9%2587%2591%25E9%2593%25B6%25E6%259A%25B4%25E6%25B6%25A8%25E6%2584%258F%25E5%2591%25B3%25E7%259D%2580%25E5%2585%25A8%25E7%2590%2583%25E6%25BB%259E%25E8%2583%2580%25E5%2590%2597%26stream_entry_id%3D31%26band_rank%3D26%26dgr%3D0%26display_time%3D1762309191%26pre_seqid%3D176230919182807624038&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "藏3万黄金的旧电器被老伴100元卖了",
+          "url": "https://www.baidu.com/s?wd=%E8%97%8F3%E4%B8%87%E9%BB%84%E9%87%91%E7%9A%84%E6%97%A7%E7%94%B5%E5%99%A8%E8%A2%AB%E8%80%81%E4%BC%B4100%E5%85%83%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时21分"
         },
         {
-          "title": "美元指数突破100大关，为8月1日来首次。",
-          "url": "https://wallstreetcn.com/livenews/2998858",
+          "title": "A股三大指数集体低开，算力硬件产业链再度回",
+          "url": "https://wallstreetcn.com/livenews/2999519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时21分"
         },
         {
-          "title": "人民币兑美元中间价报7.0885，下调18点；上一交易日中间价7.0867，上一交易日官方收盘价7.1225，上日夜盘报收7.1205。",
-          "url": "https://wallstreetcn.com/livenews/2998857",
+          "title": "上证指数开盘报3922.58点，跌0.95%。 深证成指开盘报12953.84点，跌1.68%。 创业板指开盘报3068.95点，跌2.08%。 沪深300开盘报4562.11点，跌1.23%。 科创50开盘报1355.72点，跌2.27%。 中证500开盘报7098.96点，跌1.55%。 中证1000开盘报7332.10点，跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/2999517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时21分"
         }
       ]
     }
