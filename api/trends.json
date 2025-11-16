@@ -1,77 +1,66 @@
 {
-  "generated_at": "2025-11-15T10:15:01.101352+08:00",
+  "generated_at": "2025-11-16T10:24:42.125301+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 34,
+      "match_count": 21,
       "titles": [
         {
-          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
+          "title": "为什么中国石化叫 SINOPEC，而中国移动是 CHINA MOBILE？为什么要用 SINO 这个词？",
+          "url": "https://www.zhihu.com/question/58054187",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
-          "url": "https://wallstreetcn.com/articles/3759380",
+          "title": "“鹰派”公开“跳反”，美联储本周砸盘，12月降息预期已跌破50%",
+          "url": "https://wallstreetcn.com/articles/3759428",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
-          "url": "https://flash.jin10.com/detail/20251115093238774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
+          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
+          "url": "https://wallstreetcn.com/articles/3759457",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
+          "title": "本周最后一个交易日，美国科技股终于迎来抄底，但“关键要看下周”",
+          "url": "https://wallstreetcn.com/articles/3759447",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "黄金、科技股都有人抄底，只有比特币“一蹶不振”",
+          "url": "https://wallstreetcn.com/articles/3759450",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -81,305 +70,173 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
+          "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2201597",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国重磅数据时间表确定！11月20日发布9月非农，美联储偏爱指标PCE于11月26日发布",
-          "url": "https://wallstreetcn.com/articles/3759417",
+          "title": "德银：三大支柱松动，美元进入下行通道",
+          "url": "https://wallstreetcn.com/articles/3759459",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "AH股双双收跌，沪指失守4000点，创业板跌超3%，算力硬件产业链领跌，科指跌超2%，百度下跌7%，创新药逆势上涨",
-          "url": "https://wallstreetcn.com/articles/3759362",
-          "source": "华尔街见闻",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "台湾又被美敲诈至少3500亿美元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%B0%E6%B9%BE%E5%8F%88%E8%A2%AB%E7%BE%8E%E6%95%B2%E8%AF%88%E8%87%B3%E5%B0%913500%E4%BA%BF%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D9%26realpos%3D9%26stream_entry_id%3D31%26pos%3D9%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258F%25B0%25E6%25B9%25BE%25E5%258F%2588%25E8%25A2%25AB%25E7%25BE%258E%25E6%2595%25B2%25E8%25AF%2588%25E8%2587%25B3%25E5%25B0%25913500%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%2523%26c_type%3D31%26dgr%3D0%26display_time%3D1763259781%26pre_seqid%3D17632597814080330616165&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "前美联储理事Kugler在更多交易违规行为后辞职",
+          "url": "https://wallstreetcn.com/livenews/3005218",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "丹麦向乌克兰交付价值8.3亿欧元军事援助",
-          "url": "https://flash.jin10.com/detail/20251115083020206800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美政府将部分农产品移出“对等关税”清单",
-          "url": "https://flash.jin10.com/detail/20251115082920380800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "230美元iPhone Pocket上架即售罄 苹果最新跨界配件引热议",
-          "url": "https://www.cls.cn/detail/2201427",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加45.14吨，当前持仓量为15218.42吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20251115081842302800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.93吨，当前持仓量为1044吨。",
-          "url": "https://flash.jin10.com/detail/20251115081534083800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094343913800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "美联储理事米兰：12月降息非常合适。近期数据使降息的理由更加充分。",
-          "url": "https://flash.jin10.com/detail/20251115042359724800",
+          "title": "美联储前理事库格勒辞职前曾面临道德操守调查",
+          "url": "https://flash.jin10.com/detail/20251115230651721800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美国经济分析局：2025年8月美国商品和服务国际贸易数据将于11月19日发布。",
-          "url": "https://flash.jin10.com/detail/20251115042005686800",
+          "title": "市场消息：美联储前理事库格勒辞职前曾面临道德操守调查。",
+          "url": "https://flash.jin10.com/detail/20251115230526327800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "9月非农报告下周四公布",
-          "url": "https://flash.jin10.com/detail/20251115041908731800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "德国将再投入1.5亿欧元采购美制武器援乌",
-          "url": "https://flash.jin10.com/detail/20251115041402066800",
+          "title": "欧洲央行执委施纳贝尔：量化宽松改变了欧元体系的资产负债表的构成。",
+          "url": "https://flash.jin10.com/detail/20251115225501522800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
-          "url": "https://flash.jin10.com/detail/20251115040927220800",
+          "title": "乌克兰总统泽连斯基指示对国有能源企业进行全面改革",
+          "url": "https://flash.jin10.com/detail/20251115221635364800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251115215016058800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美联储洛根：很难支持12月降息",
-          "url": "https://flash.jin10.com/detail/20251115040021608800",
+          "title": "金十图示：2025年11月15日（周六）全网加密货币实时爆仓数据",
+          "url": "https://flash.jin10.com/detail/20251115200935208800",
           "source": "金十数据",
           "ranks": [
-            25
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美联储洛根：通过降息向劳动力市场提供更多预防性保障并不合适。",
-          "url": "https://flash.jin10.com/detail/20251115034908831800",
+          "title": "加拿大总理卡尼：美国关税将使加拿大损失500亿加元",
+          "url": "https://flash.jin10.com/detail/20251115200252932800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
-          "title": "美联储洛根：劳动力市场正在逐步降温，随着我们降低通胀，这种情况是恰当的。",
-          "url": "https://flash.jin10.com/detail/20251115034852530800",
-          "source": "金十数据",
+          "title": "乌克兰总统宣布启动国有能源企业全面改革",
+          "url": "https://wallstreetcn.com/livenews/3005199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：量化宽松改变了欧元体系的资产负债表的构成。",
+          "url": "https://wallstreetcn.com/livenews/3005198",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "美联储理事米兰：数据支持降息 美联储应更加偏鸽",
-          "url": "https://flash.jin10.com/detail/20251115034832280800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "稳市机制建设蹄疾步稳，A股回购增持贷款申请额超3300亿元",
-          "url": "https://wallstreetcn.com/livenews/3005098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "大华银行：东盟中长期贸易投资前景积极，2030年FDI或升至3700亿美元",
-          "url": "https://wallstreetcn.com/livenews/3005096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
-          "url": "https://wallstreetcn.com/livenews/3005095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
-          "url": "https://wallstreetcn.com/livenews/3005094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "黄金再上4200美元对美国意味着什么",
-          "url": "https://www.toutiao.com/trending/7572426579616206386/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "黄金直线暴跌",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E6%9A%B4%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26stream_entry_id%3D31%26pos%3D26%26realpos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E7%259B%25B4%25E7%25BA%25BF%25E6%259A%25B4%25E8%25B7%258C%2523%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763171570%26pre_seqid%3D176317157050303306755139&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国台办回应美国3.3亿美元对台军售",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD3.3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "10时24分"
         }
       ]
     }
