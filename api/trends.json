@@ -1,330 +1,385 @@
 {
-  "generated_at": "2025-11-17T10:20:42.648350+08:00",
-  "total_titles_processed": 298,
+  "generated_at": "2025-11-18T10:18:26.906757+08:00",
+  "total_titles_processed": 295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
-          "title": "乌克兰官员表示，俄罗斯夜间对乌克兰东部哈尔科夫地区发动导弹袭击，造成3人死亡，10人受伤。",
-          "url": "https://flash.jin10.com/detail/20251117101046907800",
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "现货黄金回落至4020美元/盎司下方，日内跌0.64%。",
+          "url": "https://flash.jin10.com/detail/20251118100135083800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "美联储两位官员周五继续发表谨慎言论，暗示12月将反对降息。现货黄金在4100美元关口下方震荡，当前多头情绪仍占上风。欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251117100611827800",
-          "source": "金十数据",
+          "title": "美国务院批准约3.3亿美元对台军售，国防部：已提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984763",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "彻底崩盘?育碧股价暴跌濒临破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347184&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%B4%A9%E7%9B%98%3F%E8%82%B2%E7%A2%A7%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%BF%92%E4%B8%B4%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
           "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251117100417904800",
+          "url": "https://flash.jin10.com/detail/20251118095421315800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "市场期待拉满！有机硅行业将召开实控人会议 商定“反内卷”减产目标",
+          "url": "https://www.cls.cn/detail/2202908",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251118095024277800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "中国30年期国债期货涨0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3005500",
+          "title": "国防部回应美对台3.3亿美元军售",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%8F%B03.3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "半导体芯片股逆势拉升，龙迅股份触及涨停，明微电子、东芯股份涨超10%，大为股份、富满微、北方华创、灿芯股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3006180",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "国内外储能需求迎来共振时刻 产业链A股上市公司境外营收占比、市占率一览",
-          "url": "https://www.cls.cn/detail/2201860",
-          "source": "财联社热门",
+          "title": "机构：澳洲联储继续处于观望期，但降息路径仍清晰",
+          "url": "https://flash.jin10.com/detail/20251118094002095800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "阿里巴巴港股转涨，盘初一度跌超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3005498",
+          "title": "A股电池板块跳水，石大胜华触及跌停，华盛锂电、壹石通、海科新源、天力锂能、新宙邦跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3006178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "A股科技风格何时回归？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2201883",
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "金十图示：2025年11月17日（周一）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251117095019938800",
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251118093117387800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "“数据缺失”打乱降息计划，高盛：原本该“12月降息，1月暂停”，现在不确定",
-          "url": "https://wallstreetcn.com/articles/3759467",
-          "source": "华尔街见闻",
+          "title": "香港恒生指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3006172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "多地旅行社日本团游客退订：有退团比例超过六成，日本旅游消费股暴跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31983913",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
-          "url": "https://www.cls.cn/detail/2201801",
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "国债期货涨幅扩大，30年期主力合约涨0.40%，10年期主力合约涨0.08%，5年期主力合约涨0.05%，2年期主力合约涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3005495",
-          "source": "华尔街见闻-快讯",
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251118093112890800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
-          "url": "https://wallstreetcn.com/livenews/3005491",
+          "title": "存储芯片疯狂涨价，PC与服务器厂商受伤！大摩：每涨10%，OEM毛利率就下降45-150个基点",
+          "url": "https://wallstreetcn.com/articles/3759535",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "诺和诺德在美国市场率先开火：199美元“跳水价”硬刚礼来",
+          "url": "https://www.cls.cn/detail/2203048",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251118092945887800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "“新美联储通讯社”：不管降息与否，美联储12月会议都可能有至少3张反对票",
+          "url": "https://wallstreetcn.com/articles/3759572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.09%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3006167",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
-          "url": "https://www.cls.cn/detail/2201676",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251117093120219800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "A股半导体设备板块短线拉升，微导纳米涨超10%，矽电股份、中科飞测、至正股份、联动科技、富创精密等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3005486",
+          "title": "A股锂矿股延续强势，金圆股份2连板，盛新锂能涨超8%，国城矿业、大中矿业、中矿资源、德方纳米等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3006166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251117093116410800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "A股福建本地股反复活跃，九牧王4连板，平潭发展、龙洲股份3连板，中富通、航天发展、日上集团、中国武夷等多股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3005482",
+          "title": "上证指数开盘报3962.44点，跌0.24%。 深证成指开盘报13161.70点，跌0.31%。 创业板指开盘报3089.38点，跌0.51%。 沪深300开盘报4584.79点，跌0.29%。 科创50开盘报1350.51点，跌0.26%。 中证500开盘报7215.03点，跌0.28%。 中证1000开盘报7508.53点，跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3006163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "A股锂电池板块延续强势，容百科技、天华新能涨超10%，丰元股份触及涨停，大中矿业、盛新锂能、融捷股份等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3005478",
+          "title": "中国央行公开市场开展4075亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日4038亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3006160",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "A股军工板块大幅高开，长城军工涨停，江龙船艇涨超10%，北方长龙、晟楠科技、天海防务、捷强装备、晨曦航空跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3005477",
+          "title": "人民币兑美元中间价报7.0856，下调40点；上一交易日中间价7.0816，上一交易日官方收盘价7.1048，上日夜盘报收7.1083。",
+          "url": "https://wallstreetcn.com/livenews/3006155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.13%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3005473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "比特币跌破 95000 美元，较上月高点跌 24%，以太坊跌破 3100 美元，币圈转熊了吗？会有哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1972648998557982926",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "A股水产养殖板块开盘大涨，大湖股份、中水渔业、开创国际、天马科技、东方海洋、好当家等多股竞价涨停。",
-          "url": "https://wallstreetcn.com/livenews/3005471",
-          "source": "华尔街见闻-快讯",
+          "title": "彻底崩盘?育碧股价暴跌濒临破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347184&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%B4%A9%E7%9B%98%3F%E8%82%B2%E7%A2%A7%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%BF%92%E4%B8%B4%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "上证指数开盘报3988.56点，跌0.05%。 深证成指开盘报13200.54点，跌0.12%。 创业板指开盘报3097.34点，跌0.46%。 沪深300开盘报4616.81点，跌0.24%。 科创50开盘报1363.48点，涨0.16%。 中证500开盘报7248.92点，涨0.19%。 中证1000开盘报7514.84点，涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3005466",
-          "source": "华尔街见闻-快讯",
+          "title": "暴跌超1000点 日本股市大跳水",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E8%B7%8C%E8%B6%851000%E7%82%B9+%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "中国央行公开市场今日净投放1631亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3005462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "人民币兑美元中间价小幅调升至2024年10月14日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3005461",
+          "title": "商品期货开盘，碳酸锂主力合约涨超3%，BR橡胶涨超1%。焦煤跌超3%，焦炭、多晶硅跌超2%，集运欧线、甲醇、沪银、沪镍、烧碱、纸浆跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3006146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "新台币兑美元日内上涨0.4%至31.025。",
-          "url": "https://wallstreetcn.com/livenews/3005456",
+          "title": "富时中国A50指数期货盘初跌0.47%，上一个交易日夜盘收跌0.52%。",
+          "url": "https://wallstreetcn.com/livenews/3006144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         },
         {
-          "title": "商品期货开盘，集运欧线主力合约涨超6%，焦炭涨超1%。沪银跌超3%，沪金、甲醇跌超2%，氧化铝、沪锡、鸡蛋、玻璃、燃料油跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3005453",
+          "title": "国防部回应美对台3.3亿美元军售",
+          "url": "https://www.douyin.com/hot/2309541",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "Thinking Machines Lab正在就融资约50亿美元展开洽谈。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3006138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初跌0.07%，上一个交易日夜盘收跌0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3005451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "10时18分"
         }
       ]
     }
