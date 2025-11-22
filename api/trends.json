@@ -1,451 +1,440 @@
 {
-  "generated_at": "2025-11-21T10:17:12.554402+08:00",
-  "total_titles_processed": 300,
+  "generated_at": "2025-11-22T10:12:49.002404+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 40,
+      "match_count": 39,
       "titles": [
         {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
+          "title": "如何看比特币暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E7%89%B9%E5%B8%81%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "日本央行内部鹰声四起 12月加息或提上议程",
-          "url": "https://flash.jin10.com/detail/20251121095543329800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "美国9月非农新增就业11.9万人大超预期，失业率意外升至4.4%创四年来最高纪录",
-          "url": "https://wallstreetcn.com/articles/3759821",
+          "title": "美联储高官安抚市场，美国股债汇齐涨，原油三连跌，加密货币本周两位数大跌",
+          "url": "https://wallstreetcn.com/articles/3759842",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
-          "url": "https://www.cls.cn/detail/2206810",
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "金十图示：2025年11月21日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251121095019272800",
-          "source": "金十数据",
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "美国9月非农大超预期 失业率升至4.4% 美联储12月决策更趋复杂",
-          "url": "https://www.cls.cn/detail/2206712",
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "日本财务大臣片山皋月：政府与日本央行继续密切合作以结束通缩、实现物价稳定和经济增长至关重要。",
-          "url": "https://flash.jin10.com/detail/20251121094758999800",
-          "source": "金十数据",
+          "title": "日本将因高市早苗言论损失多少真金白银？我们算了一笔账",
+          "url": "https://news.ifeng.com/c/8oT83VhPvU6",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "就在今晚！首个重大数据来了，\"姗姗来迟\"的美国9月非农会让降息\"重回视野\"吗？",
-          "url": "https://wallstreetcn.com/articles/3759787",
-          "source": "华尔街见闻",
+          "title": "美联储“三把手”出面安抚市场：短期内仍有可能降息",
+          "url": "https://www.cls.cn/detail/2207775",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
+          "title": "达里欧解读“泡沫何时破裂”：股市大泡沫+大贫富差距=巨大的危险",
+          "url": "https://wallstreetcn.com/articles/3759848",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "英伟达市值一夜蒸发1429亿美元",
-          "url": "https://www.toutiao.com/trending/7574350572359696427/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2312999",
-          "source": "抖音",
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "高盛预计，由于“温和过剩”，未来两年铜价预计将在每吨1.1万美元触及上限，随后再从2028年开始反弹，因供应落后于需求。",
-          "url": "https://wallstreetcn.com/livenews/3008329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：预计即使在编制额外预算为刺激计划提供资金后，日本的债务/GDP比率仍将比上年略有下降。 日本在实现可持续、稳定的物价上涨且伴随工资增长方面仍只走了一半。 将继续基于日本政府与日本央行之间的协议，与日本央行进行合作，协议的实质内容保持不变。",
-          "url": "https://wallstreetcn.com/livenews/3008327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "沪指跌超1%，深成指、创业板指均跌逾2%，锂矿、有机硅、CPO、存储芯片等方向跌幅居前，沪深京三市下跌个股超4600只。",
-          "url": "https://wallstreetcn.com/livenews/3008326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
+          "title": "“近期”仍存在降息空间！美联储“三把手”放鸽，市场押注12月降息概率突破50%",
+          "url": "https://wallstreetcn.com/articles/3759893",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "40年期日本国债收益率下跌5.0个基点，至3.695%。30年期日本国债收益率下跌5.0个基点，至3.325%。",
-          "url": "https://flash.jin10.com/detail/20251121094130520800",
-          "source": "金十数据",
+          "title": "疫情以来最大规模！日本批准21.3万亿日元经济刺激计划",
+          "url": "https://wallstreetcn.com/articles/3759861",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "日本财务大臣片山皋月：即使在编制额外预算以资助刺激计划后，预计日本的债务与GDP之比仍将略低于上一年的水平。",
-          "url": "https://flash.jin10.com/detail/20251121093749186800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
-          "source": "财联社热门",
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "中证1000股指期货（IM）主力合约跌破7200点，日内跌0.97%。沪深300股指期货（IF）主力合约回落至4500点下方，日内跌1.08%。中证500股指期货（IC）主力合约日内跌超1.00%，现报6935.4点。",
-          "url": "https://flash.jin10.com/detail/20251121093639599800",
-          "source": "金十数据",
+          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3008935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2206692",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "亚洲早盘金价下跌 市场对美联储下一步动作存疑",
-          "url": "https://flash.jin10.com/detail/20251121093616746800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.29吨，当前持仓量为15257.92吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20251122083528686800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "做空巨头却站多头阵营？浑水创始人警告勿碰大科技空单",
-          "url": "https://www.cls.cn/detail/2206641",
+          "title": "周五（11月21日）纽约尾盘，标普500股指期货最终上涨1.15%，道指期货涨1.20%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨2.89%。",
+          "url": "https://wallstreetcn.com/livenews/3008934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
+          "url": "https://wallstreetcn.com/livenews/3008933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251121093357844800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251121093411517800",
-          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
-          "title": "20年期日本国债收益率下跌5个基点，至2.8%。5年期日本国债收益率下跌1.5个基点，至1.305%。",
-          "url": "https://flash.jin10.com/detail/20251121093128124800",
-          "source": "金十数据",
+          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3008932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "周五（11月21日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1051元，较周四纽约尾盘涨124点，日内整体交投于7.1180-7.1022元区间。",
+          "url": "https://wallstreetcn.com/livenews/3008929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 10时17分]"
-        },
-        {
-          "title": "胡锡进：美俄版最新和平方案曝光，乌克兰欧洲震惊",
-          "url": "https://news.ifeng.com/c/8oRh1ba4W41",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "香港恒生指数跌幅扩大2%，恒生科技指数跌3%。百度跌超6%，华虹半导体跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3008324",
+          "title": "美国劳工统计局（BLS）：我们不会披露10月实际收入数据。 BLS无法收集10月份与CPI通胀指标相关的数据，我们不能追溯性地掌握这些数据。 将于12月10日发布9月就业成本指数。",
+          "url": "https://wallstreetcn.com/livenews/3008928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "日本20年期国债收益率下跌5个基点至2.80%。 日本30年期国债收益率下跌5个基点至3.325%。 日本40年期国债收益率下跌5个基点至3.695%。",
-          "url": "https://wallstreetcn.com/livenews/3008321",
+          "title": "114亿美元代价！日本旅游业复苏势头恐被按下“暂停键”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32016722",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.14吨，当前持仓量为1040.57吨。",
+          "url": "https://flash.jin10.com/detail/20251122080822349800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "比特币期货本周跌超9.5%，以太坊期货跌超11.6%",
+          "url": "https://wallstreetcn.com/livenews/3008922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "乌克兰总统会见美国陆军部长，讨论和平方案",
-          "url": "https://news.ifeng.com/c/8oRnabvaS5B",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "农业股逆势拉升，荃银高科涨超15%，康农种业、农发种业、秋乐种业、敦煌种业、万向德农等纷纷走强。",
-          "url": "https://wallstreetcn.com/livenews/3008319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3008315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "A股三大指数均大幅低开",
-          "url": "https://wallstreetcn.com/livenews/3008312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "上证指数开盘报3896.66点，跌0.87%。 深证成指开盘报12752.72点，跌1.76%。 创业板指开盘报2979.37点，跌2.07%。 沪深300开盘报4513.39点，跌1.13%。 科创50开盘报1300.48点，跌2.09%。 中证500开盘报6955.75点，跌1.50%。 中证1000开盘报7235.33点，跌1.43%。",
-          "url": "https://wallstreetcn.com/livenews/3008308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0875，上调30点；上一交易日中间价7.0905，上一交易日官方收盘价7.1167，上日夜盘报收7.1180。",
-          "url": "https://wallstreetcn.com/livenews/3008298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "碳酸锂主力期货合约日内跌超7％。",
-          "url": "https://wallstreetcn.com/livenews/3008294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "美国批准向日本出售8200万美元军火",
-          "url": "https://www.toutiao.com/trending/7574769491285065771/",
+          "title": "A股总市值一天蒸发逾3万亿 发生了啥",
+          "url": "https://www.toutiao.com/trending/7575334189503876649/",
           "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "周五（11月21日）纽约尾盘，现货白银跌1.28%，报50.0021美元/盎司，本周累计下跌1.12%，交投区间为52.4679-48.6435美元。 COMEX白银期货累跌1.91%，报49.720美元/盎司。 COMEX铜期货累跌1.30%，报4.9970美元/磅。 现货铂金累跌1.72%，报1518.92美元/盎司；现货钯金累跌1.66%，报1377.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3008921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "日元持续贬值 日本财务大臣发警告",
+          "url": "https://www.toutiao.com/trending/7574634034710724651/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251122093244248800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
+          "url": "https://wallstreetcn.com/livenews/3008920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251122093221566800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "周五（11月21日）纽约尾盘，现货黄金跌0.26%，报4066.21美元/盎司，本周累计下跌0.44%，交投于4132.86-3998.08美元区间，整体呈现出W形走势。 COMEX黄金期货涨0.10%，报4064.20美元/盎司，本周累跌0.73%，一度从3997.40美元反弹至4134.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3008919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "泽连斯基：乌克兰面临艰难选择",
+          "url": "https://www.toutiao.com/trending/7575303711271026731/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251122093153421800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "截止至10月7日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20251122093113090800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "商品期货开盘，LU燃油、原油、纸浆、棕榈油、沪银、豆油、乙二醇、沪镍主力合约跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3008287",
+          "title": "截止至10月7日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20251122093048342800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "周五（11月21日），降息赢家指数收涨4.59%，报94.57点，本周累计上涨0.08%，11月17日持续走低、21日显著反弹，整体呈现出宽底U形反转。",
+          "url": "https://wallstreetcn.com/livenews/3008913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
         },
         {
-          "title": "富时中国A50指数期货盘初跌0.92%，上一个交易日夜盘收跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3008285",
+          "title": "美国商品期货交易委员会（CFTC）：截至10月7日当周，投机者将CBOT美国2年期国债期货净空头寸增加12,837手至1,219,958手，美国5年期国债期货净空头寸增加3,838手至2,267,738手，美国10年期国债期货净空头寸增加48,050手至787,958手，超长期国债期货净空头寸增加7,409手至266,858手。",
+          "url": "https://flash.jin10.com/detail/20251122092633144800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美共和党高官批乌克兰和平计划：对俄过于有利",
+          "url": "https://wallstreetcn.com/livenews/3008917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月7日当周，NYMEX、ICE市场的天然气期货净多头寸增加866手至241,467手。WTI原油期货投机性净空头寸增加33,023手至42,487手。COMEX铜期货投机性净多头寸增加8,536手至58,648手。",
+          "url": "https://flash.jin10.com/detail/20251122091112717800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.505万亿美元，之前一周18.398万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     }
