@@ -1,15 +1,15 @@
 {
-  "generated_at": "2025-12-02T10:22:33.611796+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-12-03T10:22:22.084600+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 39,
+      "match_count": 21,
       "titles": [
         {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
             1
@@ -19,8 +19,8 @@
           "time_info": "10时22分"
         },
         {
-          "title": "基本金属普遍下跌 市场等待新的催化剂以突破阻力位",
-          "url": "https://flash.jin10.com/detail/20251202095131504800",
+          "title": "黄金价格走高 等待美联储政策指引",
+          "url": "https://flash.jin10.com/detail/20251203095707024800",
           "source": "金十数据",
           "ranks": [
             1
@@ -30,8 +30,19 @@
           "time_info": "10时22分"
         },
         {
-          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
-          "url": "https://www.cls.cn/detail/2216490",
+          "title": "新美联储通讯社：哈塞特当选美联储主席已“内部确定”",
+          "url": "https://wallstreetcn.com/articles/3760511",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
           "ranks": [
             2
@@ -41,8 +52,8 @@
           "time_info": "10时22分"
         },
         {
-          "title": "金十图示：2025年12月02日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251202095040096800",
+          "title": "金十图示：2025年12月03日（周三）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251203095013681800",
           "source": "金十数据",
           "ranks": [
             2
@@ -52,42 +63,31 @@
           "time_info": "10时22分"
         },
         {
-          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
-          "url": "https://wallstreetcn.com/articles/3760425",
-          "source": "华尔街见闻",
+          "title": "中国经济的“稳”与“进”为世界注入信心",
+          "url": "https://www.toutiao.com/trending/7578687688339685412/",
+          "source": "今日头条",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
         {
-          "title": "乌军即将崩溃？从战场局势看乌克兰在俄乌和谈中的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075805",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
-          "url": "https://www.cls.cn/detail/2216428",
+          "title": "六大行停售五年期大额存单？这家大行三年期门槛拉至100万，利率仅看齐50元定存",
+          "url": "https://www.cls.cn/detail/2217742",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
         {
-          "title": "英伟达20亿美元入股新思科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE20%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%A5%E8%82%A1%E6%96%B0%E6%80%9D%E7%A7%91%E6%8A%80%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
@@ -96,9 +96,9 @@
           "time_info": "10时22分"
         },
         {
-          "title": "日本20年期国债收益率上涨1.5个基点，至2.905%，触及1999年6月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20251202093219293800",
-          "source": "金十数据",
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
@@ -107,130 +107,64 @@
           "time_info": "10时22分"
         },
         {
-          "title": "为何日本加息能让全球市场“抖三抖”",
-          "url": "https://www.toutiao.com/trending/7579034329624350235/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "市场消息：芯片初创公司Xlight与美国商务部签署1.5亿美元意向书。",
-          "url": "https://flash.jin10.com/detail/20251202093135777800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "高市早苗被爆花8384万日元仍惨败",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E7%88%86%E8%8A%B18384%E4%B8%87%E6%97%A5%E5%85%83%E4%BB%8D%E6%83%A8%E8%B4%A5%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "加密货币大跌 超26万人爆仓",
-          "url": "https://www.toutiao.com/trending/7579035632274509355/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
+          "title": "哈塞特内定主席之位，明年美联储“鸽到极致”？但通胀能撑住吗？",
+          "url": "https://wallstreetcn.com/articles/3760547",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
         {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "日本财务省将于12月9日拍卖2.4万亿日元五年期国债。",
-          "url": "https://flash.jin10.com/detail/20251202093059646800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3013379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "油价因俄乌冲突导致的供应链中断而微涨",
-          "url": "https://flash.jin10.com/detail/20251202092920717800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "澳新银行：日本央行行长植田和男的言论“过早地打出了加息牌”",
-          "url": "https://wallstreetcn.com/livenews/3013378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
-          "url": "https://www.cls.cn/detail/2216521",
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
           "source": "财联社热门",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
         {
-          "title": "鲍威尔遵守缄默期规定 并未提及货币政策",
-          "url": "https://flash.jin10.com/detail/20251202092210028800",
+          "title": "钯期货快速拉升，现涨幅3.34%，报386.9元/克。",
+          "url": "https://flash.jin10.com/detail/20251203093750274800",
           "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "中国买大豆毁掉巴西雨林？假的",
+          "url": "https://www.toutiao.com/trending/7579264574307074075/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.03%，深成指涨0.47%，培育钻石、CPO、电池、多元金融等方向领涨，沪深京三市上涨个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3014046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.07%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3014039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
@@ -239,9 +173,9 @@
           "time_info": "10时22分"
         },
         {
-          "title": "日本财务省将于12月9日拍卖3.5万亿日元的短期国债。",
-          "url": "https://flash.jin10.com/detail/20251202092047734800",
-          "source": "金十数据",
+          "title": "戴尔创始人豪捐62.5亿美元 为美国儿童账户添上250美元启动金",
+          "url": "https://www.cls.cn/detail/2217632",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
@@ -250,9 +184,9 @@
           "time_info": "10时22分"
         },
         {
-          "title": "据华尔街日报：美国联邦航空管理局（FAA）正加紧调查航空公司是否遵守了与停航相关的航班削减措施，FAA表示，已向各航空公司发送信函，要求提供信息，以了解它们是否达到了在40个机场减少航班的目标。航空公司可能面临超过限制的每架航班高达75,000美元的罚款。",
-          "url": "https://flash.jin10.com/detail/20251202091719649800",
-          "source": "金十数据",
+          "title": "上证指数开盘报3894.16点，跌0.09%。 深证成指开盘报13071.16点，涨0.11%。 创业板指开盘报3078.86点，涨0.25%。 沪深300开盘报4554.59点，涨0.01%。 科创50开盘报1317.58点，跌0.20%。 中证500开盘报7044.86点，涨0.06%。 中证1000开盘报7312.67点，跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3014035",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
@@ -261,63 +195,8 @@
           "time_info": "10时22分"
         },
         {
-          "title": "据华尔街日报：特朗普政府将入股芯片初创公司Xlight，据悉政府已同意向这家初创公司注资至多1.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20251202091517906800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约跌0.10%，10年期主力合约跌0.04%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3013348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "现货黄金短线下挫近30美元，失守4210美元/盎司，日内跌幅0.61%。",
-          "url": "https://flash.jin10.com/detail/20251202091046434800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "现货白银回落至57美元/盎司下方，日内跌1.68%。",
-          "url": "https://flash.jin10.com/detail/20251202091002884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-02）",
-          "url": "https://flash.jin10.com/detail/20251202090807236800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "上证指数开盘报3908.46点，跌0.14%。 深证成指开盘报13130.07点，跌0.13%。 创业板指开盘报3091.37点，跌0.04%。 沪深300开盘报4571.91点，跌0.10%。 科创50开盘报1334.00点，跌0.21%。 中证500开盘报7084.80点，跌0.24%。 中证1000开盘报7364.20点，跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3013343",
+          "title": "人民币兑美元中间价报7.0754，上调40点；上一交易日中间价7.0794，上一交易日官方收盘价7.0712，上日夜盘报收7.0725。",
+          "url": "https://wallstreetcn.com/livenews/3014029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
@@ -327,9 +206,9 @@
           "time_info": "10时22分"
         },
         {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-12-02）",
-          "url": "https://flash.jin10.com/detail/20251202090728307800",
-          "source": "金十数据",
+          "title": "日元即将加息吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E5%85%83%E5%8D%B3%E5%B0%86%E5%8A%A0%E6%81%AF%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             20
           ],
@@ -338,53 +217,9 @@
           "time_info": "10时22分"
         },
         {
-          "title": "中国央行公开市场开展1563亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3021亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3013341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0794，下调35点；上一交易日中间价7.0759，上一交易日官方收盘价7.0725，上日夜盘报收7.0725。",
-          "url": "https://wallstreetcn.com/livenews/3013338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "爱马仕继承人150亿美元财富失踪",
-          "url": "https://www.toutiao.com/trending/7577611751588626458/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "特朗普政府将入股芯片初创公司XLIGHT，投资至多1.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3013337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "现货黄金跌0.62%，报4205美元。现货白银跌1.88%，报56.88美元。",
-          "url": "https://wallstreetcn.com/livenews/3013334",
-          "source": "华尔街见闻-快讯",
+          "title": "详解巴西大豆扩张引发的争议",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%B1%86%E6%89%A9%E5%BC%A0%E5%BC%95%E5%8F%91%E7%9A%84%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             25
           ],
@@ -393,44 +228,11 @@
           "time_info": "10时22分"
         },
         {
-          "title": "黄金迎突变",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%BF%8E%E7%AA%81%E5%8F%98%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "三星推出首款三折叠手机Galaxy Z TriFold，售价约为359万韩元（2440.17美元）， 可展开成253.1毫米（10英寸）显示屏，使用三块面板。它比三星最新的可折叠Galaxy Z Fold 7大近25%。",
-          "url": "https://wallstreetcn.com/livenews/3013330",
-          "source": "华尔街见闻-快讯",
+          "title": "为何中国难以彻底戒断美国大豆",
+          "url": "https://www.toutiao.com/trending/7579254546556259867/",
+          "source": "今日头条",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "曝高市早苗花8千万日元仍败给石破茂",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%8A%B18%E5%8D%83%E4%B8%87%E6%97%A5%E5%85%83%E4%BB%8D%E8%B4%A5%E7%BB%99%E7%9F%B3%E7%A0%B4%E8%8C%82",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "美联储主席鲍威尔在其斯坦福大学讲话的稿件中未对经济和货币政策发表评论。",
-          "url": "https://wallstreetcn.com/livenews/3013328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
