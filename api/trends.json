@@ -1,297 +1,330 @@
 {
-  "generated_at": "2025-12-05T10:23:04.552257+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-12-06T10:16:23.203484+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
-          "title": "日本国债收益率面临上行压力 分析师称当前收益率“不算高”",
-          "url": "https://flash.jin10.com/detail/20251205100847510800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
+          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
+          "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
-          "url": "https://wallstreetcn.com/articles/3760699",
-          "source": "华尔街见闻",
+          "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
+          "url": "https://www.cls.cn/detail/2221389",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "如何评价网飞 827 亿美元收购华纳兄弟、 HBO 及 HBO Max？会对影视行业带来什么影响？",
+          "url": "https://www.zhihu.com/question/1980247181802829037",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
+          "url": "https://www.cls.cn/detail/2221638",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "金十图示：2025年12月05日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251205095815685800",
+          "title": "大佬密集预警，黄金涨势会刹车吗？",
+          "url": "https://flash.jin10.com/detail/20251206094911412800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
+          "title": "中信证券：库存拐点已至 年内LME铜价有望加速迈向12000美元/吨",
+          "url": "https://wallstreetcn.com/livenews/3016203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "市场屏息以待“迟到的审判”：9月PCE今晚揭晓，若通胀粘性不改，是否会动摇美联储下周降息的共识？",
+          "url": "https://wallstreetcn.com/articles/3760793",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "“忠诚的哈塞特”若出任美联储主席，意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3760693",
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "中国贸促会与美国大豆出口协会在华盛顿举行座谈",
-          "url": "https://wallstreetcn.com/livenews/3015509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
+          "title": "经济学家：加拿大GDP掩盖真实闲置产能 失业率才是核心指标",
+          "url": "https://flash.jin10.com/detail/20251206092602655800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "哈塞特：现在是再次谨慎降息的好时机，预计下周美联储会如此行动",
+          "url": "https://wallstreetcn.com/articles/3760815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "菲律宾央行：通胀前景的风险有限。",
-          "url": "https://flash.jin10.com/detail/20251205093917108800",
-          "source": "金十数据",
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "流媒体之王“吞下”好莱坞百年老店：奈飞同意以720亿美元收购华纳兄弟",
+          "url": "https://wallstreetcn.com/articles/3760791",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "菲律宾央行：通胀前景总体温和。",
-          "url": "https://flash.jin10.com/detail/20251205093908901800",
-          "source": "金十数据",
+          "title": "“创新”成为中国经济社会发展关键词",
+          "url": "https://www.toutiao.com/trending/7580325259027598911/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "菲律宾央行：通胀预期依然保持稳固。",
-          "url": "https://flash.jin10.com/detail/20251205093855098800",
-          "source": "金十数据",
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "美联储关注的9月核心PCE通胀2.8%大体符合预期，实际个人支出停滞",
+          "url": "https://wallstreetcn.com/articles/3760823",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251205093111841800",
-          "source": "金十数据",
+          "title": "越南11月贸易余额 10.9亿美元，预期 15亿美元，前值 26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251205093109005800",
+          "title": "流动性危机下的艰难抉择 万科又一笔债券寻求展期",
+          "url": "https://www.cls.cn/detail/2221582",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.33吨，当前持仓量为1050.25吨。",
+          "url": "https://flash.jin10.com/detail/20251206083416851800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "亚洲早盘现货黄金下跌 就业数据强劲且避险情绪减弱",
-          "url": "https://flash.jin10.com/detail/20251205092216370800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "有色板块震荡拉升，精艺股份直线涨停，斯瑞新材涨超10%，闽发铝业、中孚实业、南山铝业、中国铝业等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3015489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "巴总统致信中方：感谢援助1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%84%9F%E8%B0%A2%E6%8F%B4%E5%8A%A91%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "A股食品、零售等消费股盘初拉升，安记食品4连板，西王食品直线涨停，茂业商业、好想你、海欣食品等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3015479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "如何看待联大通过决议要求俄罗斯立即归还被绑架的乌克兰儿童？",
-          "url": "https://www.zhihu.com/question/1979864089141453358",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "40岁后微胖才是长寿“黄金体重”",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E5%90%8E%E5%BE%AE%E8%83%96%E6%89%8D%E6%98%AF%E9%95%BF%E5%AF%BF%E2%80%9C%E9%BB%84%E9%87%91%E4%BD%93%E9%87%8D%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.07%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3015474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "被欠费15.86亿美元其中美国欠15亿，联合国：美国不交钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102206",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "上证指数开盘报3873.12点，跌0.07%。 深证成指开盘报13020.29点，涨0.10%。 创业板指开盘报3084.22点，涨0.55%。 沪深300开盘报4547.91点，涨0.03%。 科创50开盘报1319.72点，跌0.49%。 中证500开盘报7008.65点，跌0.06%。 中证1000开盘报7244.28点，跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3015469",
-          "source": "华尔街见闻-快讯",
+          "title": "部分银行上调存款利率",
+          "url": "https://www.toutiao.com/trending/7579847848167243782/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "铜价大涨中企对“漫天要价”不妥协",
-          "url": "https://www.toutiao.com/trending/7580144463494778409/",
-          "source": "今日头条",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少169.24吨，当前持仓量为15925.21吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20251206080650050800",
+          "source": "金十数据",
           "ranks": [
-            23
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "人民币兑美元中间价报7.0749，下调16点；上一交易日中间价7.0733，上一交易日官方收盘价7.0690，上日夜盘报收7.0710。",
-          "url": "https://wallstreetcn.com/livenews/3015461",
-          "source": "华尔街见闻-快讯",
+          "title": "截止至10月28日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20251206090452615800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "截止至10月28日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20251206090438649800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "日本10年期国债收益率下行0.5个基点，至1.930%。 日本30年期国债收益率下行1.5个基点，至3.375%。",
-          "url": "https://wallstreetcn.com/livenews/3015459",
+          "title": "浮盈超190亿！“国产GPU第一股”上市首日暴涨，网下打新机构大赚",
+          "url": "https://wallstreetcn.com/livenews/3016170",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
         },
         {
-          "title": "俄称将针对丹麦为乌克兰建军工厂采取措施",
-          "url": "https://wallstreetcn.com/livenews/3015458",
+          "title": "金十图示：2025年12月05日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090552167800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "30多家A股公司今年向股东发过产品",
+          "url": "https://wallstreetcn.com/livenews/3016168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "10时16分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090540434800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "IMF警告：美元稳定币或在弱势经济体加速货币替代，削弱央行掌控能力",
+          "url": "https://wallstreetcn.com/livenews/3016183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090522263800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         }
       ]
     }
