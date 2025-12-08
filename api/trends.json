@@ -1,198 +1,396 @@
 {
-  "generated_at": "2025-12-07T10:32:42.893480+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T10:23:57.806429+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 17,
+      "match_count": 35,
       "titles": [
         {
-          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
-          "url": "https://flash.jin10.com/detail/20251207095645490800",
-          "source": "金十数据",
+          "title": "【早报】吴清：券商可适度加杠杆；2025医保药品目录公布；公募绩效考核管理指引征求意见",
+          "url": "https://www.cls.cn/detail/2222139",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "证监会主席吴清：适度打开优质券商资本空间和杠杆限制 加密资产等看不清的业务坚决不做！",
-          "url": "https://wallstreetcn.com/articles/3760845",
+          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
+          "url": "https://wallstreetcn.com/livenews/3016623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
+          "url": "https://wallstreetcn.com/articles/3760864",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
+          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
+          "url": "https://www.cls.cn/detail/2221983",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "央行数据显示，11月末外汇储备报33463.72亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016341",
+          "title": "A股算力硬件股涨势扩大，东田微20cm涨停，天孚通信涨超18%，源杰科技涨超10%，长光华芯、仕佳光子、中际旭创、永鼎股份涨超7%，股价均创出历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3016618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
-          "url": "https://www.cls.cn/detail/2221687",
-          "source": "财联社热门",
+          "title": "国际机构看中国经济 关键词亮了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%9C%BA%E6%9E%84%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%AE%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "中国央行连续第13个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3016340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2221697",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
-          "url": "https://flash.jin10.com/detail/20251207091937087800",
+          "title": "中证500股指期货（IC）主力合约日内涨幅达1.00%，现报7147.4点。",
+          "url": "https://flash.jin10.com/detail/20251208100955323800",
           "source": "金十数据",
           "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "我国外汇储备创十年来新高",
+          "url": "https://www.douyin.com/hot/2329850",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/articles/3760861",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
-          "url": "https://www.cls.cn/detail/2221638",
+          "title": "富时中国A50指数期货涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3016614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "吴清主席提出券商可适度加杠杆，为何成为振奋市场的消息？",
+          "url": "https://www.cls.cn/detail/2221941",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
-          "url": "https://www.cls.cn/detail/2221612",
-          "source": "财联社热门",
+          "title": "创业板指涨超2%，沪指涨0.27%，深成指涨0.9%，算力硬件、商业航天、券商、福建等方向领涨，沪深京三市上涨个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3016611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "从“怀疑”到“认可独特价值”，华尔街看好中国股市明年继续上涨",
+          "url": "https://wallstreetcn.com/articles/3760860",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "20年期日本国债收益率上升2.5个基点，至2.945%，创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20251208100146968800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日本20年期国债收益率上行2.5BP，升至2.945%。",
+          "url": "https://wallstreetcn.com/livenews/3016601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "联合国安理会将于12月9日召开乌克兰问题会议",
+          "url": "https://flash.jin10.com/detail/20251208100137771800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "白银再创新高，强劲的ETF资金流入支撑涨势",
-          "url": "https://wallstreetcn.com/articles/3760834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
-          "url": "https://flash.jin10.com/detail/20251207083014951800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251208100037104800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://wallstreetcn.com/livenews/3016330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "比特币升破90000美元，日内涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3016323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "马克龙将赴伦敦与英德乌领导人评估乌克兰局势",
-          "url": "https://flash.jin10.com/detail/20251207080754039800",
+          "title": "金十图示：2025年12月08日（周一）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20251208095042447800",
           "source": "金十数据",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
         },
         {
-          "title": "老版一元人民币上的女子找到了",
-          "url": "https://www.toutiao.com/trending/7580140558258044964/",
-          "source": "今日头条",
+          "title": "中国30年期国债期货继续下跌",
+          "url": "https://wallstreetcn.com/livenews/3016589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "大众汽车CEO：计划到2030年投资1860亿美元",
+          "url": "https://wallstreetcn.com/livenews/3016587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "算力硬件股震荡拉升，天孚通信大涨10%，汇绿生态、烽火通信、永鼎股份、华工科技、德科立等纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3016586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.27%，深成指涨0.51%，商业航天、券商、算力硬件、福建等方向领涨，沪深京三市上涨个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3016581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股券商股再度拉升，兴业证券直线涨停，东北证券涨超7%，中银证券、华泰证券、国泰海通、中信证券、广发证券等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3016579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "股指期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093116870800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "大金融板块继续走强，瑞达期货2连板，兴业证券、国信证券、华泰证券、湘财股份、国泰海通等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3016561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20251208093112345800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3016559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "焦煤期货主力合约日内大跌6.00%，现报1095.00元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208093039391800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3016558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "焦炭期货主力合约日内跌幅达5%，现报1547.5元/吨。",
+          "url": "https://flash.jin10.com/detail/20251208092923721800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "上证指数开盘报3909.23点，涨0.16%。 深证成指开盘报13178.96点，涨0.24%。 创业板指开盘报3119.15点，涨0.32%。 沪深300开盘报4593.14点，涨0.19%。 科创50开盘报1325.97点，跌0.01%。 中证500开盘报7119.05点，涨0.30%。 中证1000开盘报7359.49点，涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3016552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
+          "url": "https://wallstreetcn.com/livenews/3016551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时23分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0764，下调15点；上一交易日中间价7.0749，上一交易日官方收盘价7.0706，上日夜盘报收7.0720。",
+          "url": "https://wallstreetcn.com/livenews/3016547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
