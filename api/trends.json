@@ -1,286 +1,451 @@
 {
-  "generated_at": "2025-12-12T10:26:39.793012+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-12-13T10:19:21.801927+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 25,
+      "match_count": 40,
       "titles": [
         {
-          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
-          "url": "https://wallstreetcn.com/articles/3761175",
+          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "纳斯达克公司：艾尔建制药、费罗维亚尔、英斯迈德、单片功率系统、希捷科技、西部数据将被纳入纳斯达克100指数。 百健、CDW公司、格芯、lululemon、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3020177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "从全球视野看中国经济发展大逻辑",
-          "url": "https://www.toutiao.com/trending/7582594615455256105/",
-          "source": "今日头条",
+          "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
+          "url": "https://wallstreetcn.com/articles/3761280",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
-          "url": "https://flash.jin10.com/detail/20251212102205776800",
-          "source": "金十数据",
+          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
+          "url": "https://www.cls.cn/detail/2228342",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "港股芯片股走低，华虹半导体跌超5%，中芯国际跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3019541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
-          "url": "https://wallstreetcn.com/articles/3761155",
+          "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
+          "url": "https://wallstreetcn.com/articles/3761299",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "沪锡期货主力合约日内大涨4.00%，现报331310.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20251212100228139800",
+          "title": "备忘录显示，SpaceX正为公司2026年可能的IPO做准备，将内部股票发行价格定在每股421美元，隐含估值约达8000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3020173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "美乌提出新方案：乌克兰应于2027年之前加入欧盟",
+          "url": "https://news.ifeng.com/c/8p2AGcZvhbv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "纳斯达克公司：艾尔建制药、费罗维亚尔、英斯迈德、单片功率系统、希捷科技、西部数据将被纳入纳斯达克100指数。",
+          "url": "https://flash.jin10.com/detail/20251213090855565800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "银行间利率债中长端收益率转为上行",
-          "url": "https://wallstreetcn.com/livenews/3019533",
-          "source": "华尔街见闻-快讯",
+          "title": "纳斯达克公司：百健、CDW公司、格芯、露露乐蒙（lululemon）、安森美半导体、TradeDesk将被移出纳斯达克100指数。",
+          "url": "https://flash.jin10.com/detail/20251213090544920800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1982382778923365984",
-          "source": "知乎",
+          "title": "鲍威尔发布会“最重要的信息”不是降息、也不是扩表，而是“就业系统性高估”，美联储预计“就业负增长”",
+          "url": "https://wallstreetcn.com/articles/3761242",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "中国经济展现强劲韧性",
-          "url": "https://www.toutiao.com/trending/7581525248953335871/",
-          "source": "今日头条",
+          "title": "纳斯达克公司：六家公司即将被纳入纳斯达克100指数。",
+          "url": "https://flash.jin10.com/detail/20251213090131860800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "大空头Burry警告：美联储RMP意在掩盖银行体系脆弱性，本质上是重启QE",
-          "url": "https://wallstreetcn.com/articles/3761195",
+          "title": "2026年，全球市场可能的十大黑天鹅",
+          "url": "https://wallstreetcn.com/articles/3761264",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "金十图示：2025年12月12日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20251212095119410800",
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "纳斯达克公司宣布纳斯达克100指数成份股调整将于12月22日生效。",
+          "url": "https://flash.jin10.com/detail/20251213090116019800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "A股算力硬件股反复活跃，德科立、联特科技涨超10%，新易盛、瑞斯康达、剑桥科技、汇绿生态等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3019521",
-          "source": "华尔街见闻-快讯",
+          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
+          "url": "https://wallstreetcn.com/articles/3761243",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "甲骨文股价盘前暴跌13% 纳指期货明显走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2227098",
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3019519",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX批准内部股票交易 估值达到约8000亿美元",
+          "url": "https://flash.jin10.com/detail/20251213090039133800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.23%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3019516",
-          "source": "华尔街见闻-快讯",
+          "title": "“鹰派风暴”即将来袭？消息人士：日本央行下周加息板上钉钉 更多鹰声已在路上",
+          "url": "https://www.cls.cn/detail/2228172",
+          "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "股指期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251212093108255800",
+          "title": "力拓白银公司完成对秘鲁中部玛丽亚诺尔特金银铅锌矿产项目的收购。",
+          "url": "https://flash.jin10.com/detail/20251213083547790800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
+          "url": "https://wallstreetcn.com/livenews/3020164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20251212093104354800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "上证指数开盘报3869.41点，跌0.10%。 深证成指开盘报13174.45点，涨0.21%。 创业板指开盘报3172.73点，涨0.29%。 沪深300开盘报4558.74点，涨0.14%。 科创50开盘报1324.30点，跌0.12%。 中证500开盘报7088.10点，涨0.07%。 中证1000开盘报7312.87点，涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3019510",
-          "source": "华尔街见闻-快讯",
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "中国央行公开市场开展1205亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1398亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3019509",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.74吨，当前持仓量为16102.9吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20251213082531205800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "10年期美债收益率在“美联储降息周”涨约5个基点，2/10年期收益率利差涨约9个基点",
+          "url": "https://wallstreetcn.com/livenews/3020159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "中国央行：今日开展1205亿元7天逆回购操作，投标量1205亿元，中标量1205亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20251212092200065800",
+          "title": "备忘录显示，SpaceX将内部人士股票发行价格定在每股421美元，此次内部人士股票交易的估值约为8000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251213082411749800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "人民币兑美元中间价报7.0638，上调48点；上一交易日中间价7.0686，上一交易日官方收盘价7.0580，上日夜盘报收7.0570。",
-          "url": "https://wallstreetcn.com/livenews/3019506",
+          "title": "纳指期货周五跌超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3020158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "周五（12月12日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0532元，较周四纽约尾盘跌10点，日内整体交投于7.0498-7.0567元区间。",
+          "url": "https://wallstreetcn.com/livenews/3020157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "商品期货开盘，沪锡、沪银主力合约涨超3%，沪锌涨超2%，国际铜、碳酸锂、沪铜、沪金涨超1%。液化气、焦煤跌超3%，氧化铝、甲醇、PVC、纸浆、焦炭、棕榈油跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3019498",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.29吨，当前持仓量为1053.12吨。",
+          "url": "https://flash.jin10.com/detail/20251213082228269800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3020156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "据华尔街日报：美国特使维特科夫将前往柏林，与乌克兰总统泽连斯基和欧洲领导人会面。",
+          "url": "https://flash.jin10.com/detail/20251213082013715800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "现货白银本周涨超6%",
+          "url": "https://wallstreetcn.com/livenews/3020155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "道琼斯指数12月12日（周五）收盘下跌245.96点，跌幅0.51%，报48458.05点；<br/>标普500指数12月12日（周五）收盘下跌73.59点，跌幅1.07%，报6827.41点；<br/>纳斯达克综合指数12月12日（周五）收盘下跌398.69点，跌幅1.69%，报23195.17点。",
+          "url": "https://flash.jin10.com/detail/20251213080131882800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "现货黄金本周累涨约2.5%",
+          "url": "https://wallstreetcn.com/livenews/3020153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.479万亿美元，之前一周18.528万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3020149",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
         },
         {
-          "title": "富时中国A50指数期货盘初涨0.48%，上一个交易日夜盘收涨0.53%。",
-          "url": "https://wallstreetcn.com/livenews/3019496",
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌2.87%，能源板块跌0.93%，电信板块跌0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3020146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时19分"
+        },
+        {
+          "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3020145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         }
       ]
     }
