@@ -1,231 +1,308 @@
 {
-  "generated_at": "2025-12-28T10:40:44.998613+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T10:38:37.363904+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
-          "title": "【早报】全线暴涨超10%！银钯铂集体狂飙；商业火箭领域再迎利好",
-          "url": "https://www.cls.cn/detail/2241690",
-          "source": "财联社热门",
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "白银价格狂飙，马斯克直言：这不好",
-          "url": "https://wallstreetcn.com/livenews/3027589",
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "国投白银LOF复盘跌停，随后快速打开跌停，目前转为涨跌基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3027834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "2025中国经济盘点",
-          "url": "https://www.toutiao.com/trending/7587414817305034815/",
-          "source": "今日头条",
+          "title": "拉夫罗夫：欧盟是乌克兰和平的主要障碍",
+          "url": "https://news.ifeng.com/c/8pTJd96xw3n",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
-          "url": "https://www.cls.cn/detail/2241723",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
-          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251229100651086800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
-          "url": "https://www.cls.cn/detail/2241760",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "加总理会见到访的乌总统，承诺追加对乌25亿加元援助",
-          "url": "https://wallstreetcn.com/livenews/3027585",
+          "title": "特朗普称，若有助于达成俄乌和平协议，不排除访问乌克兰的可能性",
+          "url": "https://wallstreetcn.com/livenews/3027824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "白银价格屡创新高 马斯克：这可不好",
-          "url": "https://flash.jin10.com/detail/20251228091115537800",
+          "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，伦铜飙升逾5%",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内跌超0.90%，现报111.83元。",
+          "url": "https://flash.jin10.com/detail/20251229094512150800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
-          "url": "https://www.cls.cn/detail/2241658",
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2242179",
           "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "日本10年期国债收益率上升0.5个基点，至2.045%。",
+          "url": "https://flash.jin10.com/detail/20251229094126538800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
-          "url": "https://flash.jin10.com/detail/20251228085718597800",
+          "title": "黄金白银直线暴跌",
+          "url": "https://www.douyin.com/hot/2350527",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "央行陆磊：守正创新 稳步发展数字人民币",
+          "url": "https://www.cls.cn/detail/2242320",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "彻底转向还是观望反弹：金银大涨进一步动摇比特币投资者信心",
+          "url": "https://www.cls.cn/detail/2242065",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "现货黄金亚盘下跌 但价格可能维持高位",
+          "url": "https://flash.jin10.com/detail/20251229093859229800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "银比油贵时隔 45 年再现，现货白银涨超 10%，钯金涨超 14%，为何贵金属还在暴涨，历史信号怎么看？",
-          "url": "https://www.zhihu.com/question/1988248140562863210",
-          "source": "知乎",
+          "title": "数字货币概念异动拉升，御银股份直线涨停，拉卡拉、四方精创、赢时胜、中亦科技、新晨科技等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3027811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "受供应紧张、工业需求强劲等因素支撑 现货白银今日一度突破80美元大关",
+          "url": "https://flash.jin10.com/detail/20251229093652007800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "中产涌入海南抢黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E6%B5%B7%E5%8D%97%E6%8A%A2%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "全线爆发！黄金、白银、铂金齐创历史新高，贵金属走势为何这么牛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263916",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "沙特再次空袭也门南方过渡委员会目标",
-          "url": "https://flash.jin10.com/detail/20251228080144764800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "金银铜现逼空行情，工业贵金属价格长期高位会对经济有多大影响？",
-          "url": "https://www.zhihu.com/question/1981285887473129442",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "乌克兰外长库列巴：基辅及周边地区已恢复供水。",
-          "url": "https://flash.jin10.com/detail/20251227225508053800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "乌克兰基辅再次拉响防空警报",
-          "url": "https://wallstreetcn.com/livenews/3027566",
+          "title": "央行已出台数字人民币行动方案 明年1月1日正式启动实施",
+          "url": "https://wallstreetcn.com/livenews/3027808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "明年起公积金贷款利率正式下调",
-          "url": "https://wallstreetcn.com/livenews/3027564",
+          "title": "菲律宾央行：2025年12月通胀率将维持在1.2%至2.0%之间。",
+          "url": "https://flash.jin10.com/detail/20251229093608417800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "A股脑机接口板块持续走强，翔宇医疗涨近10%，三博脑科涨超8%，创新医疗涨超7%，美好医疗、爱朋医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3027807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
+          "title": "白银",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "国债期货跌幅扩大，30年期主力合约盘中一度跌超0.7%，10年期主力合约跌超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3027796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "港股有色金属集体高开，江西铜业股份涨近10%，中铝国际涨超5%，中国铝业、洛阳钼业涨超4%，赣锋锂业、天齐锂业、中国宏桥涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3027790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.04%，5年期主力合约跌0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0331，上调27点；上一交易日中间价7.0358，上一交易日官方收盘价7.0085，上日夜盘报收7.0063。",
+          "url": "https://wallstreetcn.com/livenews/3027779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时38分"
+        },
+        {
+          "title": "贵金属巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%87%91%E5%B1%9E%E5%B7%A8%E9%9C%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     }
