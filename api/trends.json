@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-01-04T10:42:49.873913+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-05T10:42:26.400388+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 11,
+      "match_count": 43,
       "titles": [
         {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
-          "source": "华尔街见闻",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260105104037894800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "机构：委内瑞拉石油业复苏或需千亿美元成本且耗费数年时间",
+          "url": "https://flash.jin10.com/detail/20260105103958701800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "供应趋紧与风险偏好推动铜价逼近纪录高位",
+          "url": "https://flash.jin10.com/detail/20260105103740806800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
@@ -19,9 +41,53 @@
           "time_info": "10时42分"
         },
         {
-          "title": "【早报】中国“人造太阳”实验有新进展；纳斯达克中国金龙指数涨超4%",
-          "url": "https://www.cls.cn/detail/2246533",
-          "source": "财联社热门",
+          "title": "深海一号完成第100船原油外输",
+          "url": "https://www.douyin.com/hot/2357404",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美国周末“闪击”委内瑞拉，后者庞大的石油储备已成“待宰羔羊”？行业人士称这将面临重重阻碍。同时欧佩克+八国同意第一季度暂停增产，会议未谈及委内瑞拉问题。当前美油多头占比高达91%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260105103312741800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨近1%，重返4000点上方，深成指涨1.61%，脑机接口、保险、存储芯片等方向领涨，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3030495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -30,9 +96,31 @@
           "time_info": "10时42分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "金十期货1月5日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨1000元/吨，中间价报118250元/吨。",
+          "url": "https://flash.jin10.com/detail/20260105103224765800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "沪指重回4000点，日内涨0.86%，创2025年11月以来新高。脑机接口、保险、贵金属等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3030492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济去年展现出了韧性。 如果经济展望实现将加息。 宽松政策的调整将带来更长时间的增长。",
+          "url": "https://wallstreetcn.com/livenews/3030487",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
@@ -41,9 +129,9 @@
           "time_info": "10时42分"
         },
         {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
@@ -52,31 +140,20 @@
           "time_info": "10时42分"
         },
         {
-          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
-          "url": "https://wallstreetcn.com/articles/3762476",
+          "title": "上证50股指期货（IH）主力合约日内涨幅达2.00%，现报3082.2点。",
+          "url": "https://flash.jin10.com/detail/20260105102605194800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
+          "url": "https://wallstreetcn.com/articles/3762520",
           "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "房价219万销售承诺送72万元黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7219%E4%B8%87%E9%94%80%E5%94%AE%E6%89%BF%E8%AF%BA%E9%80%8172%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "龙头6连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2246600",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
@@ -85,9 +162,20 @@
           "time_info": "10时42分"
         },
         {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
+          "title": "金十图示：2026年01月05日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260105102526866800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "105捆2元人民币竞价已达42万元",
+          "url": "https://www.baidu.com/s?wd=105%E6%8D%862%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%E7%AB%9E%E4%BB%B7%E5%B7%B2%E8%BE%BE42%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
@@ -96,9 +184,31 @@
           "time_info": "10时42分"
         },
         {
-          "title": "中国央行公开市场开展365亿元7天期逆回购操作，操作利率1.40%，与前次持平。",
-          "url": "https://wallstreetcn.com/livenews/3030204",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛点评“委内瑞拉变局”：短期不好说，长期进一步加剧油价下行",
+          "url": "https://wallstreetcn.com/articles/3762522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）上海金早盘价为988.04元/克，较国际金价(985.96元/克)，高2.08元/克",
+          "url": "https://flash.jin10.com/detail/20260105102225187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约站上7500点，日内涨1.82%。",
+          "url": "https://flash.jin10.com/detail/20260105101734149800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
@@ -107,9 +217,97 @@
           "time_info": "10时42分"
         },
         {
-          "title": "金十整理：美对委“三小时闪电战“后，马杜罗抵达纽约，委原油出口瘫痪",
-          "url": "https://flash.jin10.com/detail/20260104084429155800",
+          "title": "日本央行行长植田和男：预计日本经济将维持工资和物价温和上涨的周期。",
+          "url": "https://flash.jin10.com/detail/20260105101713763800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "委内瑞拉现在这情况周一会对黄金和股市产生什么样的影响?",
+          "url": "https://www.zhihu.com/question/1990861679899209879",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "日本央行行长植田和男：调整货币支持力度有助于实现可持续增长。",
+          "url": "https://flash.jin10.com/detail/20260105101636818800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股三大指数高开 油气设服概念走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E6%B2%B9%E6%B0%94%E8%AE%BE%E6%9C%8D%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果经济和物价走势符合我们的预测，日本央行预计将延续加息步伐。",
+          "url": "https://flash.jin10.com/detail/20260105101627748800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "快手盘中拉升，现涨超11%。恒指、恒生科技指数转涨。",
+          "url": "https://wallstreetcn.com/livenews/3030463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "中国第一省会 剑指6万亿GDP",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E7%9C%81%E4%BC%9A+%E5%89%91%E6%8C%876%E4%B8%87%E4%BA%BFGDP",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "机构：委内瑞拉政治局势仍充满变数，经济衰退不可避免",
+          "url": "https://flash.jin10.com/detail/20260105101508715800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "深成指、创业板指均涨超1%，沪指涨0.45%，脑机接口、油气、贵金属、商业航天等涨幅居前，沪深京三市上涨个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3030457",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
@@ -118,11 +316,165 @@
           "time_info": "10时42分"
         },
         {
-          "title": "如何看待黄金走势",
-          "url": "https://www.toutiao.com/trending/7591301137320382015/",
-          "source": "今日头条",
+          "title": "日本10年期国债收益率上行5BP至2.12%，为1999年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3030455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "泰国央行会议纪要：准备好适当调整货币政策。",
+          "url": "https://flash.jin10.com/detail/20260105100948120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股商业航天概念延续涨势，雷科防务4连板，金风科技一字涨停，联创光电、久之洋、航天环宇、中国卫通等涨超6%，消息上，蓝箭航天科创板IPO获受理，公司拟融资金额75亿元。",
+          "url": "https://wallstreetcn.com/livenews/3030454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "乌克兰军方：俄罗斯对基辅的袭击迄今已造成一人死亡，袭击仍在持续。",
+          "url": "https://flash.jin10.com/detail/20260105100933451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.24%，10年期主力合约涨0.09%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3030452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "泰国央行会议纪要：泰国通胀预期将保持温和，主要受供给侧因素驱动。",
+          "url": "https://flash.jin10.com/detail/20260105100918729800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "沪铝涨4.44%，至每吨23,750元人民币，创2021年10月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3030451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "黄金再度直线猛拉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E5%BA%A6%E7%9B%B4%E7%BA%BF%E7%8C%9B%E6%8B%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股油气股开盘强势，准油股份竞价涨停，通源石油、科力股份、潜能恒信、惠博普、石化油服等多股高开，消息上，美方已成功对委内瑞拉实施打击。",
+          "url": "https://wallstreetcn.com/livenews/3030450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股脑机接口概念开盘大涨，三博脑科、美好医疗、岩山科技、创新医疗、南京熊猫等多股竞价涨停，翔宇医疗、爱朋医疗等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3030448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "泰国央行会议纪要：货币政策应保持宽松以支持经济复苏。鉴于经济明显放缓且风险加剧，委员会认为货币政策可以更加宽松。",
+          "url": "https://flash.jin10.com/detail/20260105100602071800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "上证指数开盘报3986.97点，涨0.46%。 深证成指开盘报13633.63点，涨0.80%。 创业板指开盘报3229.93点，涨0.84%。 沪深300开盘报4661.62点，涨0.68%。 科创50开盘报1360.90点，涨1.24%。 中证500开盘报7523.88点，涨0.78%。 中证1000开盘报7639.54点，涨0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3030444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "黄金以旧换新有了行业标准",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%9C%89%E4%BA%86%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0230，上调58点；上一交易日中间价7.0288，上一交易日官方收盘价6.9890，上日夜盘报收6.9879。",
+          "url": "https://wallstreetcn.com/livenews/3030437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
