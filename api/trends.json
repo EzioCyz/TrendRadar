@@ -1,528 +1,506 @@
 {
-  "generated_at": "2026-02-05T11:15:35.561756+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T11:14:29.615837+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 47,
+      "match_count": 45,
       "titles": [
         {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
+          "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
+          "url": "https://www.cls.cn/detail/2282271",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "title": "中俄中美元首极为罕见同日互动有何意味？",
+          "url": "https://news.ifeng.com/c/8qW4yLx4nLS",
           "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2002497105818825469",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "泰铢兑美元跌至31.90，为自12月9日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260205105521773800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "美伊谈判一度“濒临破裂”又峰回路转 国际油价晕头转向",
-          "url": "https://www.cls.cn/detail/2280957",
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "避险情绪退潮引发多头踩踏 金银承压下行",
-          "url": "https://flash.jin10.com/detail/20260205105409199800",
-          "source": "金十数据",
+          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
+          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银日内跌超16%，跌破74美元关口。 现货黄金盘中跌破4800美元，日内跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3050308",
-          "source": "华尔街见闻-快讯",
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "金价巨震之下，水贝难寻金条现货|传真",
-          "url": "https://www.cls.cn/detail/2280847",
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货黄金失守4810美元/盎司，日内大跌逾150美元，跌幅3.12%。",
-          "url": "https://flash.jin10.com/detail/20260205105310952800",
-          "source": "金十数据",
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2391220",
+          "source": "抖音",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
+          "url": "https://www.cls.cn/detail/2282362",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
+          "title": "白银的历史大顶，从来不是“贵出来”的",
+          "url": "https://wallstreetcn.com/articles/3765066",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银重挫15%",
-          "url": "https://flash.jin10.com/detail/20260205105156056800",
-          "source": "金十数据",
+          "title": "英皇娱乐酒店把酒店大堂的黄金卖了！超十倍买入价出售79公斤黄金，赚了9020万港元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541087",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "AI成本焦虑重创亚洲科技股 市场情绪转向周期性板块",
-          "url": "https://flash.jin10.com/detail/20260205105140214800",
-          "source": "金十数据",
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E5%BC%80%E7%AE%B1%E5%8F%96%E5%87%BA100%E5%85%8B%E9%BB%84%E9%87%91500%E5%85%8B%E7%99%BD%E9%93%B6%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银日内跌超15%，现报74.72美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3050302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银日内跌幅扩大至14%，跌破76美元关口。 现货黄金跌破4850美元/盎司，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3050300",
-          "source": "华尔街见闻-快讯",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "大摩点评Lumentum财报：毛利率炸裂，更重要的是CPO实锤拿到大单了！",
-          "url": "https://wallstreetcn.com/articles/3764963",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260206104022737800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "比特币重挫破 6.5 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "散户们把白银玩成了“万人坑”",
+          "url": "https://wallstreetcn.com/articles/3765034",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "伦锡日内跌超4.00%，现报45900.00美元/吨。沪锡主力合约日内暴跌8.00%，现报360670.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20260205104955098800",
+          "title": "科技股补仓潮致贵金属高位重置 金价深蹲起跳尽显韧性",
+          "url": "https://flash.jin10.com/detail/20260206103914186800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银盘中跌破78美元/盎司，日内跌近12%。 现货黄金现报4875.87美元/盎司，日内跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3050295",
-          "source": "华尔街见闻-快讯",
+          "title": "国际贵金属大幅走低",
+          "url": "https://www.douyin.com/hot/2391158",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货黄金跌破4840美元/盎司，日内跌2.59%。现货白银失守76美元/盎司，日内跌幅14.04%。",
-          "url": "https://flash.jin10.com/detail/20260205104909333800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银跌破80美元/盎司，日内跌超9%。 沪银主力合约跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3050293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "泰国期货交易所（TFEX）宣布暂停白银在线期货的临时交易。",
-          "url": "https://flash.jin10.com/detail/20260205104739437800",
-          "source": "金十数据",
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银日内重挫12.00%，现报77.32美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260205104611541800",
+          "title": "布伦特原油日内涨幅达1%，现报67.72美元/桶。WTI原油涨0.85%，报63.68美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260206103349454800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "现货白银日内涨超3.00%，现报72.92美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206103328062800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "碳酸锂期货主力合约盘中触及跌停，沪银主力合约跌超7%，铂主力合约跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3050289",
+          "title": "【现货黄金、白银深V反弹】现货黄金日内涨幅扩大至1%，此前一度跌超2%；现货白银涨超2%，此前一度跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3051057",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货黄金失守4880美元/盎司，日内跌幅1.71%。纽约期金失守4900美元/盎司，日内跌幅1.13%。",
-          "url": "https://flash.jin10.com/detail/20260205104550883800",
+          "title": "金十期货2月6日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌850元/吨，中间价报138400元/吨。",
+          "url": "https://flash.jin10.com/detail/20260206103314888800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "国开行发行3年期债券，规模50亿元，发行利率1.6344%，预期1.6300%，投标倍数4.43倍，边际倍数3.05倍； 国开行发行7年期债券，规模40亿元，发行利率1.8697%，预期1.8800%，投标倍数2.97倍，边际倍数1.95倍。",
-          "url": "https://wallstreetcn.com/livenews/3050285",
+          "title": "国投白银LOF场内开盘触达跌停，现报3.099元，溢价率回落至28.73%。截至目前，国投白银LOF场内已连收5个跌停。",
+          "url": "https://wallstreetcn.com/livenews/3051051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "现货金银持续反弹",
+          "url": "https://flash.jin10.com/detail/20260206103138972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "现货黄金重返4800美元关口上方，较日低反弹近150美元。",
+          "url": "https://wallstreetcn.com/livenews/3051050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银失守80美元",
-          "url": "https://flash.jin10.com/detail/20260205104432150800",
-          "source": "金十数据",
+          "title": "沪指、深成指翻红，创业板指跌幅收窄至0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3051049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "沪银主力合约日内暴跌8.00%，现报20870.00元/千克。",
-          "url": "https://flash.jin10.com/detail/20260205104419947800",
+          "title": "反弹两日后贵金属一度又遭重挫，芝商所再度“出手”！欧洲两大央行维持利率不变，下一轮乌美俄三方会谈或在美国进行……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260206103126731800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "国投白银LOF连续第四日复牌跌停，报3.443元，最新溢价率为37.12%。",
-          "url": "https://wallstreetcn.com/livenews/3050281",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银突破72美元/盎司，日内涨1.71%。",
+          "url": "https://flash.jin10.com/detail/20260206102916795800",
+          "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3050276",
+          "title": "5名乌克兰男性讲述战争",
+          "url": "https://www.toutiao.com/trending/7603546461678079534/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "比特币跌破7万美元，超20万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "现货黄金重新站上4800美元/盎司，较日低反弹近150美元，日内涨0.43%。",
+          "url": "https://flash.jin10.com/detail/20260206102804317800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "现货白银日内涨超1%，此前一度跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3051044",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "西藏发行30年期普通专项地方债，规模93.3432亿元，发行利率2.5100%，边际倍数1.56倍，倍数预期2.49。",
-          "url": "https://wallstreetcn.com/livenews/3050274",
-          "source": "华尔街见闻-快讯",
+          "title": "金银再次大跳水",
+          "url": "https://www.toutiao.com/trending/7603527150464945727/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货白银跌破81美元关口，日内跌超8%。 沪银期货主力合约跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3050273",
-          "source": "华尔街见闻-快讯",
+          "title": "解读白银暴涨暴跌背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十图示：2026年02月06日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260206102559448800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约突破8100点，日内涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20260206102334849800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "现货铂金跌幅扩大至5%，报2109.25美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260205104059733800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银跌破82美元关口，日内跌近7%。",
-          "url": "https://wallstreetcn.com/livenews/3050272",
+          "title": "现货黄金转涨，现报4777.31美元/盎司，较日低反弹逾100美元，稍早一度跌至4655.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051038",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260205104020109800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银短线跳水，跌破83美元关口，日内跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3050271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银跌破85美元关口，日内跌超3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3050269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3050266",
+          "title": "美国股指期货收窄跌幅，标普500指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3051036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         },
         {
-          "title": "金十期货2月5日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1400元/吨，中间价报147250元/吨。",
-          "url": "https://flash.jin10.com/detail/20260205103315504800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "美国1月“小非农”意外不及预期，金银日内再坐“过山车”；美国财政部维持发债策略不变；伊朗外长确认周五举行伊美核谈判……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260205103224976800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "现货白银跌破86美元关口，日内跌2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3050260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "黄金或下探4000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%88%96%E4%B8%8B%E6%8E%A24000%E7%BE%8E%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "2025年我国黄金产量同比上升1.09%，消费量同比下降3.57%",
-          "url": "https://wallstreetcn.com/livenews/3050259",
-          "source": "华尔街见闻-快讯",
+          "title": "徐艺洋骗黄子韬跳水",
+          "url": "https://www.douyin.com/hot/2390994",
+          "source": "抖音",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时14分"
         }
       ]
     }
