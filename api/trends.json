@@ -1,429 +1,363 @@
 {
-  "generated_at": "2026-02-11T11:29:56.285174+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2026-02-12T11:26:08.831196+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 38,
+      "match_count": 32,
       "titles": [
         {
-          "title": "非农前夜，降息预期难振风险偏好，标普转跌，人民币又创近三年新高，商品震荡横盘",
-          "url": "https://wallstreetcn.com/articles/3765361",
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "金十图示：2026年02月11日（周三）上海金早盘价为1122.55元/克，较国际金价(1122.64元/克)，低0.09元/克",
-          "url": "https://flash.jin10.com/detail/20260211110159525800",
-          "source": "金十数据",
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "【早报】央行：继续实施好适度宽松的货币政策；美联储官员最新发声",
-          "url": "https://www.cls.cn/detail/2286536",
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "韩国国家智库KDI上调韩国GDP和通胀预测，预计2026年韩国GDP增长率为1.9%，高于此前的1.8%，预计2026年通胀率平均为2.1%，高于此前预期的2.0%。",
-          "url": "https://flash.jin10.com/detail/20260211110121572800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
+          "title": "今夜，美国非农或现“百万级”下修",
+          "url": "https://wallstreetcn.com/articles/3765468",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "进出口行发行3年期债券，规模30亿元，发行利率1.5907%，预期1.6000%，投标倍数4.08倍，边际倍数3.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3053398",
-          "source": "华尔街见闻-快讯",
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "央行货政报告专栏：居民资产配置调整不意味着流动性出现较大变化",
-          "url": "https://wallstreetcn.com/articles/3765416",
-          "source": "华尔街见闻",
+          "title": "非农数据大超预期，金银多头仍然坚挺，占比均高达87%；道指、纳指空头多日稳定在约80%水平，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260212105318353800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "零售“零增速”震惊华尔街！美联储年内降息预期迅速升温",
-          "url": "https://www.cls.cn/detail/2286610",
-          "source": "财联社热门",
+          "title": "美元兑日元跌0.5%，现报152.48。",
+          "url": "https://wallstreetcn.com/livenews/3054157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         },
         {
-          "title": "澳洲联储副主席豪泽重申通胀水平仍然过高",
-          "url": "https://flash.jin10.com/detail/20260211105859754800",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260212104053852800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "李家超：香港计划下个月发放稳定币牌照",
-          "url": "https://wallstreetcn.com/livenews/3053397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
-          "url": "https://wallstreetcn.com/articles/3765365",
-          "source": "华尔街见闻",
+          "title": "美国1月非农录得13万远超预期 市场削减美联储降息押注",
+          "url": "https://www.cls.cn/detail/2287648",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
-          "url": "https://wallstreetcn.com/articles/3765415",
-          "source": "华尔街见闻",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260212103658661800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
-          "url": "https://www.cls.cn/detail/2286355",
+          "title": "金十期货2月12日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨2650元/吨，中间价报142200元/吨。",
+          "url": "https://flash.jin10.com/detail/20260212103427143800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "隔夜美国12月零售销售月率低于预期，黄金一度拉升；1月非农报告今晚重磅公布，哈塞特此前预告就业数据转差，金银多头现维持高位，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260211105309315800",
+          "title": "金十图示：2026年02月12日（周四）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260212102904424800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260211105022121800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
-          "source": "澎湃新闻",
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260211104354298800",
+          "title": "对冲基金转而看多日元 强劲的美国非农数据亦未能扭转趋势",
+          "url": "https://flash.jin10.com/detail/20260212102102029800",
           "source": "金十数据",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "小米盘中持续拉升，现涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3053390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260211104330362800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "现货白银日内涨超2.00%，现报82.36美元/盎司。现货钯金日内涨幅达2.00%，现报1737.80美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260211104157535800",
+          "title": "应用材料公司：同意向商务部支付2.525亿美元达成和解。",
+          "url": "https://flash.jin10.com/detail/20260212102100083800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "央行最新信号：物价呈现积极边际变化，将持续加强货币政策与财政政策的协调配合",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32575629",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "受汇市干预风险提振 日元早盘走强",
-          "url": "https://flash.jin10.com/detail/20260211103452511800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "金十期货2月11日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨2050元/吨，中间价报138850元/吨。",
-          "url": "https://flash.jin10.com/detail/20260211103352589800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "乌克兰允许60岁以上人员合同制服役",
-          "url": "https://www.toutiao.com/trending/7604627523142041626/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260211102748315800",
+          "title": "韩国央行官员：三年期国债收益率正处于显著偏高水平。",
+          "url": "https://flash.jin10.com/detail/20260212101041648800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "创业板指日内跌幅扩大至1%，CPO、文化传媒等板块跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3053380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "澳洲联储副主席Hauser：可能低估了金融市场的限制性程度。 澳元升值有助于收紧金融环境。 澳大利亚经济比其他许多国家更接近平衡状态。",
-          "url": "https://wallstreetcn.com/livenews/3053378",
-          "source": "华尔街见闻-快讯",
+          "title": "日本最高外汇事务官员：尽管日元有所走强 仍未放松警惕",
+          "url": "https://flash.jin10.com/detail/20260212100611966800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "1月份CPI同比上涨0.2%",
-          "url": "https://www.baidu.com/s?wd=1%E6%9C%88%E4%BB%BDCPI%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A80.2%25",
+          "title": "日本40年期国债收益率下跌10个基点至3.625%。",
+          "url": "https://flash.jin10.com/detail/20260212100311537800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "智谱盘中拉升，日内涨幅扩大至20%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "男子云闪付显示欠款 1000 万亿，相当于恒大负债 417 倍，远超全球 GDP，银行 App 却没显示，怎么回事？",
+          "url": "https://www.zhihu.com/question/2003815760456348215",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "无视美国强劲的就业数据，对冲基金转为看涨日元",
+          "url": "https://wallstreetcn.com/livenews/3054139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "六旬老头上战场,乌克兰没人了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350573&amp;topic_name=%E5%85%AD%E6%97%AC%E8%80%81%E5%A4%B4%E4%B8%8A%E6%88%98%E5%9C%BA%2C%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B2%A1%E4%BA%BA%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "日本40年期国债收益率下行10个基点至3.625%。",
+          "url": "https://wallstreetcn.com/livenews/3054119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "澳洲联储副主席Hauser：目前，提高可持续增长率是最大的问题。 澳大利亚正在经历产业结构转型。 损害生产力的头号问题是通货膨胀。 通货膨胀“过高”，不能任其持续下去。 将采取必要措施使通胀回归目标水平。",
-          "url": "https://wallstreetcn.com/livenews/3053370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "国家统计局：1月份PPI环比上涨0.4%，连续4个月上涨，涨幅比上月扩大0.2个百分点",
-          "url": "https://wallstreetcn.com/livenews/3053366",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         },
         {
-          "title": "国家统计局：1月份，扣除食品和能源价格的核心CPI同比上涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3053364",
+          "title": "离岸人民币兑美元涨破6.90关口，为近三年来首次。现报6.8978，日内涨115点。",
+          "url": "https://wallstreetcn.com/livenews/3054104",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         },
         {
-          "title": "国家统计局：1月份扣除食品和能源价格的核心CPI环比上涨0.3%，为近6个月最高",
-          "url": "https://wallstreetcn.com/livenews/3053363",
+          "title": "创业板指涨超1%，沪指涨0.03%，深成指涨0.44%，算力、液冷服务器、CPO、半导体等方向领涨，沪深京三市上涨个股超1700只。",
+          "url": "https://wallstreetcn.com/livenews/3054103",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         },
         {
-          "title": "国家统计局：1月CPI同比涨幅回落主要受春节错月影响，核心CPI保持温和上涨",
-          "url": "https://wallstreetcn.com/livenews/3053361",
-          "source": "华尔街见闻-快讯",
+          "title": "离岸人民币兑美元升破6.9元关口",
+          "url": "https://www.toutiao.com/trending/7605789817812553222/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         },
         {
-          "title": "玻纤概念股快速拉升，山东玻纤直线涨停，国际复材涨超15%，中材科技、中国巨石、长海股份、宏和科技涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3053360",
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "A股电力板块开盘活跃，豫能控股2连板，金开新能涨停，南网能源、闽东电力、华银电力、晋控电力跟涨，消息面上，国办印发《关于完善全国统一电力市场体系的实施意见》，到2035年全面建成全国统一电力市场体系，市场化交易电量占比稳中有升。",
+          "url": "https://wallstreetcn.com/livenews/3054096",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "国家统计局回应CPI等价格指数基期轮换",
-          "url": "https://wallstreetcn.com/livenews/3053358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "中国1月PPI同比 -1.4%，前值 -1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3053356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "11时26分"
         }
       ]
     }
