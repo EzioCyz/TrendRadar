@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-16T11:24:05.269069+08:00",
+  "generated_at": "2026-02-17T11:19:01.265563+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 37,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
           "url": "https://www.cls.cn/detail/2290657",
@@ -16,403 +27,249 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年02月17日（周二）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260217104233400800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
           "url": "https://www.cls.cn/detail/2290600",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "负债小白梭哈白银遭胖揍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350731&amp;topic_name=%E8%B4%9F%E5%80%BA%E5%B0%8F%E7%99%BD%E6%A2%AD%E5%93%88%E7%99%BD%E9%93%B6%E9%81%AD%E8%83%96%E6%8F%8D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
-          "url": "https://news.ifeng.com/c/8qmh3Muu6JZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "玉渊谭天：人民币正从交易货币延伸至资产货币",
-          "url": "https://wallstreetcn.com/livenews/3055672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "突然火了 有人戴上4万元“黄金甲”",
-          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%88%B4%E4%B8%8A4%E4%B8%87%E5%85%83%E2%80%9C%E9%BB%84%E9%87%91%E7%94%B2%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "乌克兰前能源部长试图离境被拘捕",
-          "url": "https://news.ifeng.com/c/8qlzNMUACol",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "现货黄金跌破5000美元关口，最低至4995.60美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055670",
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "泰国股市最高上涨1.2%，至1447.68点，创下自2024年12月12日以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260216110911974800",
+          "title": "俄称关于乌克兰的谈判须考虑各方利益",
+          "url": "https://flash.jin10.com/detail/20260217103208086800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260216110854337800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "现货黄金回落至4990美元/盎司下方，日内跌1.05%。",
-          "url": "https://flash.jin10.com/detail/20260216110321506800",
-          "source": "金十数据",
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "玉渊谭天：新春伊始人民币站上了新起点 正从交易货币延伸至资产货币",
-          "url": "https://flash.jin10.com/detail/20260216105846538800",
+          "title": "日本10年期国债收益率下跌4.5个基点至2.165%，创1月15日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260217100922695800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "现货黄金日内跌超1.00%，现报4992.47美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260216105115027800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "现货黄金跌破5000美元关口",
-          "url": "https://flash.jin10.com/detail/20260216104719796800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "金十图示：2026年02月16日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260216104101956800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "金十期货2月16日讯，据马来西亚独立检验机构AmSpec，马来西亚2月1-15日棕榈油出口量为587431吨，较上月同期出口的690642吨减少14.9%。",
-          "url": "https://flash.jin10.com/detail/20260216104040315800",
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://flash.jin10.com/detail/20260217095902766800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "现货黄金短线下挫约20美元，最新报5008.38美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260216103825729800",
+          "title": "金十图示：2026年02月17日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260217095306288800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "泰国国家规划机构：泰国2026年GDP增长预计为1.5%-2.5%，高于11月预期的1.2%-2.2%。",
-          "url": "https://flash.jin10.com/detail/20260216103256099800",
+          "title": "日本20年期国债收益率下跌5个基点，至3.03%。",
+          "url": "https://flash.jin10.com/detail/20260217095229947800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "泰国国家规划机构：泰国第四季度经季节调整GDP较前季+1.9%，市场调查预估为+0.3%。",
-          "url": "https://flash.jin10.com/detail/20260216103239986800",
+          "title": "澳大利亚竞争与消费者委员会：埃克森美孚石油(XOM.N)因在九家加油站就销售燃油所作的误导性陈述，将被处以1600万澳元罚款。",
+          "url": "https://flash.jin10.com/detail/20260217095144287800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "泰国国家规划机构：泰国第四季度GDP较上年同期+2.5%，市场调查预估为+1.0%。",
-          "url": "https://flash.jin10.com/detail/20260216103220384800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "港股半导体板块涨跌不一，兆易创新(03986.HK)强势大涨14%，澜起科技(06809.HK)涨9.19%，中芯国际(00981.HK)微跌0.5%，英诺赛科(02577.HK)跌1.57%。",
-          "url": "https://flash.jin10.com/detail/20260216102432961800",
+          "title": "加拿大财长：很高兴在布鲁塞尔见到欧元集团主席皮埃拉卡基斯。作为受邀参加此次会议的加拿大财政部长，这清楚表明加拿大和欧盟重视我们在推动共同经济利益方面的伙伴关系。我们正在加强支持我们工人和产业的联系。",
+          "url": "https://flash.jin10.com/detail/20260217093941199800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
-          "title": "香港恒生指数转涨，恒生科技指数现跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/3055668",
+          "title": "现货白银抹去此前大部分跌幅，最新报75.58美元/盎司，其最低一度跌破73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260217093414747800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
+          "url": "https://wallstreetcn.com/livenews/3055870",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "加密货币直线跳水背后的信号",
-          "url": "https://www.toutiao.com/trending/7607257953250315819/",
-          "source": "今日头条",
+          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
+          "url": "https://wallstreetcn.com/livenews/3055866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
-          "url": "https://www.zhihu.com/question/2005295793721081957",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
-          "url": "https://wallstreetcn.com/livenews/3055662",
+          "title": "现货白银日内跌超1%，纽约期银日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "富时中国A50指数期货开盘涨0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3055657",
+          "title": "澳洲联储会议纪要：自上次会议以来就业-通胀目标风险发生重大变化。 政策决策的重点是数据和前景评估。 自2025年中期以来金融状况“大幅宽松”。 未来的政策决策需要应对不断变化的风险。 在保护就业的同时让CPI降温的策略是适当的。 加息反映出物价压力持续存在。 工资和较高的单位劳动力成本表明就业市场“有点紧张”。",
+          "url": "https://wallstreetcn.com/livenews/3055864",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "日经225指数开盘涨0.48%。韩国股市今日休市。",
-          "url": "https://wallstreetcn.com/livenews/3055654",
+          "title": "宇树科技股票",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "今年已有143家企业递表港股IPO",
+          "url": "https://wallstreetcn.com/livenews/3055863",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
-          "source": "澎湃新闻",
+          "title": "负债小白梭哈白银遭胖揍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350731&amp;topic_name=%E8%B4%9F%E5%80%BA%E5%B0%8F%E7%99%BD%E6%A2%AD%E5%93%88%E7%99%BD%E9%93%B6%E9%81%AD%E8%83%96%E6%8F%8D",
+          "source": "贴吧",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
-          "url": "https://wallstreetcn.com/livenews/3055651",
+          "title": "香港金管局通过贴现窗口向银行投放47.3亿港元流动性，创2025年2月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3055856",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "日本四季度名义GDP季环比初值 0.6%，预期 1%，前值 -0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3055649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "日本四季度实际GDP季环比初值 0.1%，预期 0.4%，前值 -0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "日本四季度实际GDP平减指数同比初值 3.4%，预期 3.2%，前值 3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3055647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "日本四季度实际GDP年化季环比初值 0.2%，预期 1.6%，前值 -2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3055646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/3055644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055637",
+          "title": "纽约白银期货跌1.8%，钯金涨2.1%",
+          "url": "https://wallstreetcn.com/livenews/3055844",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         }
       ]
     }
