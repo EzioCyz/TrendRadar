@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-22T11:20:16.009324+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-23T11:23:55.271202+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
@@ -26,30 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
-          "title": "美国伊利诺伊州州长向白宫寄账单 要求白宫退还近87亿美元关税税款",
-          "url": "https://flash.jin10.com/detail/20260222102251569800",
-          "source": "金十数据",
+          "title": "美州长向特朗普发账单，要求退回87亿美元关税",
+          "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "俄罗斯央行1月卖出30万盎司黄金储备，价值达14亿美元",
-          "url": "https://wallstreetcn.com/articles/3765931",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "春节档总票房破40亿！《飞驰人生3》21亿领跑，背后涉及哪些A股公司？",
@@ -59,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "高盛：黄金波动性大幅走高，央行购金力度将暂时放缓",
-          "url": "https://wallstreetcn.com/articles/3765934",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -81,129 +48,250 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
+          "title": "纳斯达克100指数期货跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3057336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
+          "url": "https://www.cls.cn/detail/2292433",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年02月23日（周一）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260223102735938800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
+          "url": "https://www.cls.cn/detail/2290554",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
-          "title": "德国总理默茨：（被问及德国企业因美国关税裁决而将收回数十亿美元资金）在采取相关行动之前，我们得先与美国政府进行沟通，我将在大约一周后前往华盛顿。",
-          "url": "https://flash.jin10.com/detail/20260221225521006800",
+          "title": "纳指期货跌幅扩大至1%、标普500指数期货现跌0.75%、道指期货跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260223101328794800",
           "source": "金十数据",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "乌克兰制裁俄罗斯“影子舰队”",
-          "url": "https://news.ifeng.com/c/8qwipyWWgXr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "美国伊利诺伊州州长向白宫寄账单，要求后者退还近87亿美元关税税款",
-          "url": "https://wallstreetcn.com/livenews/3057228",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
+          "url": "https://www.cls.cn/detail/2292521",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "高盛：预期布伦特原油/WTI原油2027年均价为65/61美元，并因需求稳健、供应增速放缓，预计到2027年12月将回升至70/66美元。",
+          "url": "https://flash.jin10.com/detail/20260223100608521800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "高盛：伊朗/俄罗斯制裁的潜在放松将加速原油库存增加，并在长期内释放更多供应，预计2026年第四季度原油价格将有5%至8%的下行空间。",
+          "url": "https://flash.jin10.com/detail/20260223100430112800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3057331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "“以色列拿下整个中东也没问题”？沙特等14国强烈谴责",
-          "url": "https://news.ifeng.com/c/8qwiW7aAKXh",
-          "source": "凤凰网",
+          "title": "高盛：将2026年第四季布伦特原油/WTI原油预测价格上调6美元至每桶60/56美元，因经合组织（OECD）库存下降。",
+          "url": "https://flash.jin10.com/detail/20260223100251141800",
+          "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "暴雪大风沙尘大范围降雨上线，北方气温“跳水”冷暖快速反转",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639776",
-          "source": "澎湃新闻",
+          "title": "纽约期银日内暴涨6.00%，现报87.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260223093619054800",
+          "source": "金十数据",
           "ranks": [
-            14
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "匈牙利将否决欧盟对乌900亿欧元贷款",
-          "url": "https://www.toutiao.com/trending/7609031193127813126/",
-          "source": "今日头条",
+          "title": "智平方完成B轮系列超10亿元人民币融资，公司估值正式超过百亿",
+          "url": "https://wallstreetcn.com/livenews/3057325",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "存款利率持续下降 会出现负利率吗",
-          "url": "https://www.toutiao.com/trending/7609478356920192553/",
-          "source": "今日头条",
+          "title": "路透调查：泰国央行将在第二季度末前将利率下调至1.00%。",
+          "url": "https://flash.jin10.com/detail/20260223090631876800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "富时中国A50指数期货涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3057324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "路透调查：27位经济学家中有21位表示，泰国央行将于2月25日维持其基准利率在1.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260223090623154800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-02-23）",
+          "url": "https://flash.jin10.com/detail/20260223090542409800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美元兑日元USD/JPY向下触及154，日内跌0.66%。",
+          "url": "https://flash.jin10.com/detail/20260223090335569800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "乌克兰利沃夫市爆炸已致一名警察死亡",
-          "url": "https://wallstreetcn.com/livenews/3057210",
+          "title": "富时中国A50指数期货盘初涨0.88%，上一个交易日夜盘收涨1.09%。",
+          "url": "https://wallstreetcn.com/livenews/3057319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
         },
         {
-          "title": "沙特谴责美国驻以色列大使“不负责任”言论",
-          "url": "https://wallstreetcn.com/livenews/3057201",
+          "title": "高盛上调今年第四季度原油价格预测",
+          "url": "https://wallstreetcn.com/livenews/3057316",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美元/日元下跌0.5%至154.27。",
+          "url": "https://wallstreetcn.com/livenews/3057314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "韩国首尔综指高开1.6%。 日本股市因假期休市。",
+          "url": "https://wallstreetcn.com/livenews/3057312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
