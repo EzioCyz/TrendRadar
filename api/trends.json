@@ -1,352 +1,297 @@
 {
-  "generated_at": "2026-02-27T11:13:01.092488+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-28T10:42:34.636145+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 31,
+      "match_count": 26,
       "titles": [
         {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美航母抵以色列 美伊战争风险升高",
+          "url": "https://www.toutiao.com/trending/7611553987921186347/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "央行：将远期售汇业务的外汇风险准备金率从20%下调至0",
-          "url": "https://www.cls.cn/detail/2296646",
-          "source": "财联社热门",
+          "title": "OpenAI获1100亿美元新投资",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%96%B0%E6%8A%95%E8%B5%84",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "又一云服务商涨价 最高涨幅近40% 算力“全链通胀”周期来了？",
-          "url": "https://www.cls.cn/detail/2296396",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
-          "url": "https://www.cls.cn/detail/2296411",
-          "source": "财联社热门",
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3766223",
-          "source": "华尔街见闻",
+          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
+          "url": "https://www.cls.cn/detail/2297867",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "美联储理事米兰：重申2026年需降息100个基点，警告过度监管扭曲信贷结构",
-          "url": "https://wallstreetcn.com/articles/3766286",
+          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
+          "url": "https://wallstreetcn.com/articles/3766388",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
+          "title": "2025年GDP增长5.0%",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4GDP%E5%A2%9E%E9%95%BF5.0%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "美伊核谈判取得进展，双方将很快再次进行会谈。金银多头情绪仍然高涨，维持在80%以上。英伟达收跌近5.5%，拖累纳指跌逾1%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260227105018975800",
-          "source": "金十数据",
+          "title": "巴阿又干架,死伤人数暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351084&amp;topic_name=%E5%B7%B4%E9%98%BF%E5%8F%88%E5%B9%B2%E6%9E%B6%2C%E6%AD%BB%E4%BC%A4%E4%BA%BA%E6%95%B0%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "华纳兄弟与派拉蒙签署 1100 亿美元协议，同意被其收购，怎样解读此次收购？会对双方产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2010686349234107758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "沙特媒体：大量美国公民离开伊拉克",
+          "url": "https://www.toutiao.com/trending/7611536347938340870/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "获利了结！外资创纪录卖出韩国股市，单日抛售6.8万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3766355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美国1月PPI大超预期 三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2297715",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "两融余额“三连增”，杠杆资金回归科技主线",
+          "url": "https://wallstreetcn.com/livenews/3060572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "天津滨海新区去年GDP增速0.6%？不实",
+          "url": "https://www.toutiao.com/trending/7610638160699998244/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "SpaceX据传最快3月秘密递交招股书 目标估值超1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2297889",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260227104137910800",
+          "title": "节后资金面扰动可控，机构预计三月流动性延续宽松",
+          "url": "https://wallstreetcn.com/livenews/3060570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.43吨，当前持仓量为1101.33吨。",
+          "url": "https://flash.jin10.com/detail/20260228090303251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.25吨，当前持仓量为15992.4吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260228083518088800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260227103635248800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "金十期货2月27日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1400元/吨，中间价报174100元/吨。",
-          "url": "https://flash.jin10.com/detail/20260227103429514800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）上海金早盘价为1146.78元/克，较国际金价(1144.18元/克)，高2.6元/克",
-          "url": "https://flash.jin10.com/detail/20260227102159136800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260227102043525800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "金十图示：2026年02月27日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260227101923964800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至2.00%，现报90.06美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260227101507819800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "现货白银突破90美元/盎司，日内涨1.97%。",
-          "url": "https://flash.jin10.com/detail/20260227101430341800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
-        },
-        {
-          "title": "新婚夫妇服务区遗落数万现金与黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%97%E8%90%BD%E6%95%B0%E4%B8%87%E7%8E%B0%E9%87%91%E4%B8%8E%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         },
         {
-          "title": "爱奇艺利润暴跌七成",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%E4%B8%83%E6%88%90%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "中国公民大阪街头被劫500万日元，中领馆再次提醒近期避免赴日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658217",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "现货白银涨幅扩大至2%，逼近90美元关口。",
-          "url": "https://wallstreetcn.com/livenews/3059930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "现货铂金上涨逾3%至每盎司2,352.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3059929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "节后淡季机票价格大跳水：较春节假期回落超一成，多条热门航线票价百元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659316",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "远期售汇业务外汇风险准备金率下调",
-          "url": "https://www.douyin.com/hot/2412942",
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
           "source": "抖音",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         },
         {
-          "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
+          "title": "时隔近3年半再次出手，央行下调外汇风险准备金率至零，释放了什么信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664337",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         },
         {
-          "title": "A股太空光伏概念持续走强，双良节能拉升封板，钧达股份回封涨停，聚和材料涨超10%，亿晶光电、帝尔激光、拉普拉斯等涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3059922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "日本经济再生担当大臣木内康弘：通胀出现放缓迹象，预计实际工资将转为正增长。",
-          "url": "https://wallstreetcn.com/livenews/3059914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "3毫克黄金手机贴热销",
-          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "A股小金属板块延续强势，有色钨方向领涨，翔鹭钨业直线涨停，章源钨业、中钨高新、厦门钨业、锡业股份等纷纷走强。",
-          "url": "https://wallstreetcn.com/livenews/3059910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.03%，5年期主力合约涨0.00%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3059908",
+          "title": "总投资超300亿元，我国三大天然气主干管网工程今日集中开工",
+          "url": "https://wallstreetcn.com/livenews/3060554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         },
         {
-          "title": "A股算力概念股盘初调整，特发信息接近跌停，长飞光纤、天孚通信、光库科技、长芯博创、罗博特科、德科立等纷纷低开。",
-          "url": "https://wallstreetcn.com/livenews/3059907",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国生育率反弹是因为股市大涨吗",
+          "url": "https://www.toutiao.com/trending/7611696420315205139/",
+          "source": "今日头条",
           "ranks": [
-            27
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         },
         {
-          "title": "上证指数开盘报4128.90点，跌0.43%。 深证成指开盘报14375.25点，跌0.89%。 创业板指开盘报3303.98点，跌1.23%。 沪深300开盘报4698.30点，跌0.60%。 科创50开盘报1468.08点，跌1.20%。 中证500开盘报8499.80点，跌0.67%。 中证1000开盘报8434.10点，跌0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3059903",
+          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
+          "url": "https://wallstreetcn.com/livenews/3060551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "10时42分"
         }
       ]
     }
