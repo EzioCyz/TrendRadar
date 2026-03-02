@@ -1,198 +1,396 @@
 {
-  "generated_at": "2026-03-01T11:26:48.883389+08:00",
+  "generated_at": "2026-03-02T11:14:48.117334+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 17,
+      "match_count": 35,
       "titles": [
         {
-          "title": "加拿大皇家银行分析师海莉玛·克罗夫特：由于缺乏实际产能，明日任何有关欧佩克+增产的头条新闻对油价的影响都将是有限的。",
-          "url": "https://flash.jin10.com/detail/20260301111049763800",
+          "title": "美以袭击伊朗导致中东紧张局势全面升级，大宗商品周一全线高开，现货黄金多头情绪飙升至93%，美国原油多头情绪达72%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260302104353553800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "加拿大皇家银行分析师海莉玛·克罗夫特：在我们看来，除沙特外，所有欧佩克+产油国的产量均已达到上限。",
-          "url": "https://flash.jin10.com/detail/20260301110950185800",
-          "source": "金十数据",
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "加拿大皇家银行分析师海莉玛·克罗夫特：据我们了解，地区领导人曾警告美国，与伊朗再次爆发冲突存在风险，并指出油价突破每桶100美元将构成明显风险。",
-          "url": "https://flash.jin10.com/detail/20260301110922693800",
+          "title": "直击A股港股开盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BBA%E8%82%A1%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "机构：若中东冲突持续，油价可能突破100美元",
+          "url": "https://flash.jin10.com/detail/20260302103920531800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "黄金连续上涨7个月",
-          "url": "https://www.douyin.com/hot/2414709",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "伊朗战火重启，布油会再次冲击80美元吗？",
-          "url": "https://wallstreetcn.com/articles/3766434",
+          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "伊朗紧张局势推高油价，美联储年内降息空间\"正在消失\"",
-          "url": "https://wallstreetcn.com/articles/3766437",
-          "source": "华尔街见闻",
+          "title": "国债期货涨幅扩大，30年期主力合约涨0.32%，10年期主力合约涨0.1%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
+          "url": "https://flash.jin10.com/detail/20260302103816478800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
+          "url": "https://www.cls.cn/detail/2298867",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "老铺黄金2026年首次调价，整体调价幅度在20%至30%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32670895",
-          "source": "澎湃新闻",
+          "title": "布油、WTI原油期货涨幅均收窄至4.5%以内，早盘一度涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "高盛预计，未来将有 3.6 万亿增量资金流入中国股市，会给 A 股带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2000141859201233248",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "油价或出现历史性飙升",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%88%96%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E9%A3%99%E5%8D%87%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
-          "url": "https://www.cls.cn/detail/2298674",
+          "title": "国际油价周一暴涨近8%！中东战火封锁关键海峡 未来油价何去何从？",
+          "url": "https://www.cls.cn/detail/2299189",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "伊朗媒体确认哈梅内伊遇害后，比特币、以太坊等数字币涨幅进一步扩大",
-          "url": "https://wallstreetcn.com/livenews/3061049",
-          "source": "华尔街见闻-快讯",
+          "title": "印媒：美以打击伊朗后，印度面临黄金和钻石短缺风险",
+          "url": "https://flash.jin10.com/detail/20260302103334066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "沙特股市大幅下跌",
+          "url": "https://www.douyin.com/hot/2415530",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十期货3月2日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌1150元/吨，中间价报172950元/吨。",
+          "url": "https://flash.jin10.com/detail/20260302103201027800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "中东局势迅速升级 伊朗、巴林、阿联酋、卡塔尔、沙特、科威特等多地响起爆炸声",
-          "url": "https://www.cls.cn/detail/2298340",
-          "source": "财联社热门",
+          "title": "霍尔木兹停摆，欧佩克+能否稳住油价？",
+          "url": "https://news.ifeng.com/c/8r8qtGXxw7Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "消息人士：中东供应担忧加剧，迪拜原油近月价差扩大近1美元",
+          "url": "https://flash.jin10.com/detail/20260302103051566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "据印度经济时报报道，美国和以色列空袭伊朗后，印度或将面临黄金和钻石短缺。",
+          "url": "https://flash.jin10.com/detail/20260302103015521800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=16&Refer=top",
+          "title": "菲律宾兑美元跌0.5%至57.936，创2月23日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3061425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "泰铢兑美元跌0.7%至31.250，创2月20日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3061424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "专家称未来48小时决定金价走势",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A548%E5%B0%8F%E6%97%B6%E5%86%B3%E5%AE%9A%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260302102558477800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本政府：目前尚未就释放原油储备作出任何决定。截至目前，尚未收到有关协同释放储备的国际请求。",
+          "url": "https://wallstreetcn.com/livenews/3061418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260302102545285800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "黄金白银未来走势如何",
-          "url": "https://www.toutiao.com/trending/7612067200987303470/",
-          "source": "今日头条",
+          "title": "中国货币网数据显示，在岸人民币兑美元盘初一度触及6.96元附近，目前大幅反弹至6.8656元。",
+          "url": "https://wallstreetcn.com/livenews/3061416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "因霍尔木兹航运中断 普氏能源评估中东原油交付可行性",
+          "url": "https://flash.jin10.com/detail/20260302102431151800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "霍尔木兹海峡或成油价“生死线”",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%88%96%E6%88%90%E6%B2%B9%E4%BB%B7%E2%80%9C%E7%94%9F%E6%AD%BB%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "消息人士称，受中东供应担忧影响，迪拜原油月度价差在现货溢价结构下扩大近1美元，至每桶1.45美元。",
+          "url": "https://flash.jin10.com/detail/20260302102346690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：目前为止加息的影响有限。 日本央行的目标是避免通胀过高与通缩，以此维持物价稳定，进而使经济保持可持续增长轨道。 若我们的预估准确，可以推断日本经济既未过热，也未停滞。 我们需要密切关注市场动向，但过度受市场动向左右，可能会让我们遭到投机者的攻击。 目前日本很多民众仍不认为经济特别强劲。 应对由供给冲击引发的通胀，可能会扰乱GDP。 在应对暂时性供给冲击时，等到政策措施生效时，冲击的影响可能早已消散。 因此，在应对供给冲击时，先确认核心通胀更为审慎。 目前通胀缺口仍略为负值，但预计未来将趋近于零。 日本央行政策仍偏宽松，不过应通过适度加息，逐步转向更中性的立场。",
+          "url": "https://wallstreetcn.com/livenews/3061411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "黄金概念股开盘拉升，晓程科技涨近15%，湖南黄金、四川黄金、招金黄金、赤峰黄金、西部黄金涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3061408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约日内跌幅达2.00%，现报8351.0点。",
+          "url": "https://flash.jin10.com/detail/20260302101635278800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
         },
         {
-          "title": "中东冲突视频合集（二）",
-          "url": "https://flash.jin10.com/detail/20260301101016675800",
+          "title": "机构：若美国能为通过霍尔木兹海峡的船只提供保障，油价飙升或是暂时的",
+          "url": "https://flash.jin10.com/detail/20260302101633128800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "11时14分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.18%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3061403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "A股油气股开盘大涨，通源石油、中海油服、中曼石油、准油股份、石化油服、贝肯能源等多股一字涨停，潜能恒信、新锦动力等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内下跌1.00%，现报8546.6点。",
+          "url": "https://flash.jin10.com/detail/20260302101544370800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3061398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "Monex集团：油价上涨将威胁日本首相高市早苗的政策议程 并使日本央行政策路径复杂化",
+          "url": "https://flash.jin10.com/detail/20260302101206683800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     }
