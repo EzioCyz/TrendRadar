@@ -1,495 +1,385 @@
 {
-  "generated_at": "2026-03-03T11:18:39.041229+08:00",
+  "generated_at": "2026-03-04T11:09:39.257995+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 44,
+      "match_count": 34,
       "titles": [
         {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "【早报】油价飙涨！伊朗：将打击所有试图通过霍尔木兹海峡的船只；石油基金LOF今日停牌1小时",
-          "url": "https://www.cls.cn/detail/2300496",
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "网易港股盘中一度上涨近4%，周一公司公告称，正在评估在香港转换为“双重主要上市”地位的影响。",
-          "url": "https://wallstreetcn.com/livenews/3062376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "菲律宾总统马科斯：一旦油价达到每桶80美元，将计划为交通和农业部门提供石油补贴。",
-          "url": "https://flash.jin10.com/detail/20260303105118808800",
+          "title": "泰国股市指数暴跌5.3%，创去年4月8日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260304110328568800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "从三个维度看当前中国经济",
-          "url": "https://www.toutiao.com/trending/7612224215584653339/",
-          "source": "今日头条",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "重大升级！报道：沙特最大炼油厂遭无人机袭击关闭，油价急拉",
-          "url": "https://wallstreetcn.com/articles/3766514",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2300479",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "农发行发行5年期债券，规模80亿元，发行利率1.6693%，预期1.6800%，投标倍数3.71倍，边际倍数1.87倍。",
-          "url": "https://wallstreetcn.com/livenews/3062373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "美国驻沙特大使馆遭无人机袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
+          "title": "韩国首尔综指暴跌10%",
+          "url": "https://flash.jin10.com/detail/20260304110243773800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "天然气飙涨近50%！全球最大LNG生产商卡塔尔能源宣布遇袭停产",
-          "url": "https://www.cls.cn/detail/2300261",
-          "source": "财联社热门",
+          "title": "恒生科技指数日内跌超2%，恒生指数跌2.6%。京东、阿里巴巴跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3063241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "最多只能撑25天？摩根大通警告：霍尔木兹海峡若封锁，存储限制或导致中东原油全面停产",
-          "url": "https://wallstreetcn.com/articles/3766502",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "双焦期货直线拉升，焦煤主力合约日内涨幅近3%，现报1114元/吨。焦炭主力合约日内涨幅扩大至2%，现报1671元/吨。",
-          "url": "https://flash.jin10.com/detail/20260303105002527800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "越来越多国家被卷入中东冲突",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%9B%BD%E5%AE%B6%E8%A2%AB%E5%8D%B7%E5%85%A5%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "卡塔尔能源遇袭后暂停LNG生产，欧洲气价暴涨50%！高盛：若封锁持续将翻倍",
-          "url": "https://wallstreetcn.com/articles/3766548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "富时中国A50指数期货涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3062368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260303104553587800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "沪指、创业板指双双翻红，此前均一度跌超1%，深成指跌幅同步收窄，油气、储能、天然气、航运等方向领涨，沪深京三市上涨个股超1600只。",
-          "url": "https://wallstreetcn.com/livenews/3062367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685253",
+          "title": "沙特媒体：刚刚上任不久的伊朗代理国防部长伊本·礼萨遇害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692674",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
+          "title": "调查：韩国2月通胀或维持接近央行目标",
+          "url": "https://flash.jin10.com/detail/20260304110133159800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "欧洲斯托克50期货下跌0.5%，德国DAX期货下跌0.6%，英国富时期货持平。",
-          "url": "https://wallstreetcn.com/livenews/3062365",
-          "source": "华尔街见闻-快讯",
+          "title": "“中国要求避免攻击天然气设施”，伊朗答凤凰：部分误击",
+          "url": "https://news.ifeng.com/c/8rDFx3IsxNM",
+          "source": "凤凰网",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "伊朗货币兑人民币近一年贬值约 96%，对普通人来说这是不是时代的尘埃落在肩上？",
-          "url": "https://www.zhihu.com/question/2011836421929918474",
-          "source": "知乎",
+          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
+          "url": "https://www.cls.cn/detail/2301977",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "印尼5年期国债收益率上行5个基点，至2025年8月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3062364",
-          "source": "华尔街见闻-快讯",
+          "title": "伦锡日内下跌6.00%，现报49600.50美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260304110012805800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "卡塔尔继续关闭全球最大LNG厂，欧洲天然气再暴涨32%，高盛大幅上调气价预测",
+          "url": "https://wallstreetcn.com/articles/3766614",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
-          "url": "https://www.cls.cn/detail/2300388",
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "沙特国防部：在利雅得和阿尔卡吉附近拦截并摧毁8架无人机。",
-          "url": "https://flash.jin10.com/detail/20260303104253203800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "美国驻沙特大使馆发生爆炸后起火",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E5%90%8E%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "3月3日投资避雷针：卡塔尔能源暂停液化天然气生产 天然气价格飙升",
-          "url": "https://www.cls.cn/detail/2300555",
+          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
+          "url": "https://www.cls.cn/detail/2301997",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "金十期货·伊朗局势专题",
-          "url": "https://flash.jin10.com/detail/20260303104055809800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260303104031776800",
-          "source": "金十数据",
+          "title": "泰国期货交易所（TFEX）宣布暂停白银在线期货（Silver Online Futures）的交易，白银在线期货的每日涨跌幅限制将扩大至不超过最近结算价的+/-20%。",
+          "url": "https://wallstreetcn.com/livenews/3063229",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "美国驻沙特大使馆遭袭 美使团发布就地避险通知",
-          "url": "https://wallstreetcn.com/livenews/3062355",
+          "title": "印尼盾跌至1美元兑16,930卢比，创2月19日以来最弱水平。 印尼基准股指日内跌2.6%，报7736.92点，为2月3日来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3063228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "韩国贸易部：卡塔尔供气暂停后，韩国寻求替代液化天然气供应。",
-          "url": "https://wallstreetcn.com/livenews/3062354",
+          "title": "标普500指数期货跌0.5%。 欧洲Stoxx 50指数期货抹去此前1%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3063227",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "3 月 3 日元宵节将上演血月奇观，肉眼可观测，持续超 56 分钟，其形成原因是什么？今年元宵赏月有多特别？",
-          "url": "https://www.zhihu.com/question/2009248883067361255",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "伊朗冲突风险推升铝价 高盛预计或升至每吨3600美元",
-          "url": "https://flash.jin10.com/detail/20260303103916272800",
-          "source": "金十数据",
+          "title": "年少的出发比黄金珍贵",
+          "url": "https://www.douyin.com/hot/2418170",
+          "source": "抖音",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "三桶油盘中再度爆发，中国海油、中国石油A股双双触及涨停",
-          "url": "https://wallstreetcn.com/livenews/3062350",
+          "title": "进出口行发行2年期债券，规模20亿元，发行利率1.4877%，预期1.5000%，投标倍数8.71倍，边际倍数4.67倍； 进出口行发行3年期债券，规模40亿元，发行利率1.5374%，预期1.5700%，投标倍数4.26倍，边际倍数1.56倍。",
+          "url": "https://wallstreetcn.com/livenews/3063225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "甲醇主力合约日内暴涨10.00%，现报2534.00元/吨。",
-          "url": "https://flash.jin10.com/detail/20260303103633726800",
-          "source": "金十数据",
+          "title": "日经225波动率指数升至2025年4月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3063224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "国开行发行2年期债券，规模40亿元，发行利率1.5000%，预期1.5700%，投标倍数7.29倍，边际倍数1.02倍； 国开行发行5年期债券，规模100亿元，发行利率1.6745%，预期1.7000%，投标倍数4.16倍，边际倍数4.62倍。",
-          "url": "https://wallstreetcn.com/livenews/3062346",
+          "title": "韩国财长：高度谨慎关注外汇汇率。",
+          "url": "https://wallstreetcn.com/livenews/3063223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "女子带1米长巨大豆荚坐飞机引围观",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A61%E7%B1%B3%E9%95%BF%E5%B7%A8%E5%A4%A7%E8%B1%86%E8%8D%9A%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%BC%95%E5%9B%B4%E8%A7%82",
-          "source": "百度热搜",
+          "title": "油价",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "伊朗局势持续发酵，美官员放风未来24小时内对伊朗发动“重大升级”式袭击，伊朗军方宣布霍尔木兹海峡已关闭……当前金银油多头占比集体高企，美股三大股指信号分化，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260303103239181800",
+          "title": "沪指跌破4100点 创业板指失守3200点",
+          "url": "https://www.toutiao.com/trending/7612132831543771163/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "泰国期货交易所（TFEX）：白银在线期货每日价格涨跌幅限制将扩大至不超过最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260304104919247800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "A股军工板块震荡拉升，航天彩虹涨停，中无人机涨超10%，北化股份、海兰信、国科军工、江龙船艇涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3063221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "泰国期货交易所（TFEX）宣布暂停白银在线期货交易。",
+          "url": "https://flash.jin10.com/detail/20260304104818045800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "国开行发行10年期债券，规模180亿元，发行利率1.9301%，预期1.9500%，投标倍数3.37倍，边际倍数8.26倍。",
-          "url": "https://wallstreetcn.com/livenews/3062343",
-          "source": "华尔街见闻-快讯",
+          "title": "中东冲突持续，油价狂飙促使特朗普紧急出手，宣布将护航油轮穿越霍尔木兹海峡；美元走强致黄金隔夜暴跌，今日亚盘回暖……当前金银油继续称强烈卖出信号，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260304104723191800",
+          "source": "金十数据",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "【A股2月新开户252.3万户 同比下降11%】上交所披露2月新开户数据，A股新开户数252.3万户，同比下降11%，环比今年1月A股新开户数491.58万户下降49%。具体而言，今年2月A股新开户中，个人投资者开户251.6万户，机构开户0.7万户。截至今年2月，A股累计总户数约4.05亿户。",
-          "url": "https://wallstreetcn.com/livenews/3062341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "富兰克林邓普顿CEO：中东冲突不太可能持续超过五周",
-          "url": "https://wallstreetcn.com/livenews/3062340",
+          "title": "A股有色板块震荡拉升，海星股份、东方锆业、章源钨业触及涨停，翔鹭钨业、厦门钨业、南山铝业、云铝股份涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3063215",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "美油轮被炸,石油价格暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351204&amp;topic_name=%E7%BE%8E%E6%B2%B9%E8%BD%AE%E8%A2%AB%E7%82%B8%2C%E7%9F%B3%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
+          "title": "越南政府：1-2月外商直接投资流入32.1亿美元，同比增长8.8%。",
+          "url": "https://flash.jin10.com/detail/20260304104555375800",
+          "source": "金十数据",
           "ranks": [
-            25
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
         },
         {
-          "title": "美国驻沙特大使馆遭袭起火",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%81%AD%E8%A2%AD%E8%B5%B7%E7%81%AB%23&t=31&band_rank=25&Refer=top",
+          "title": "印尼盾兑美元汇率跌至16930，创2月19日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260304104532147800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "大妈攒金34年戴百克黄金逛珠宝城",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "11时09分"
+        },
+        {
+          "title": "韩国交易所解除对KOSPI指数的熔断机制。",
+          "url": "https://flash.jin10.com/detail/20260304104106696800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260304104041982800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     }
