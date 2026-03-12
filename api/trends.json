@@ -1,363 +1,561 @@
 {
-  "generated_at": "2026-03-11T11:09:43.300066+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-12T11:15:54.354704+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 32,
+      "match_count": 50,
       "titles": [
         {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
+          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
+          "url": "https://www.cls.cn/detail/2310250",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "A股煤炭板块涨势扩大，郑州煤电、中煤能源拉升封板，兖矿能源此前涨停，陕西黑猫逼近涨停，潞安环能、晋控煤业、上海能源、大有能源等涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3068533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "“黑色黄金”我国重大突破",
+          "url": "https://www.toutiao.com/trending/7615230907238563846/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "澳元兑美元AUD/USD上涨0.75%至0.7174，创2022年年中以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260311105614955800",
+          "title": "韩国央行委员：货币政策宜保持谨慎中性立场",
+          "url": "https://flash.jin10.com/detail/20260312110858307800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "澳元兑美元上涨0.75%至0.7174，创2022年年中以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3067733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2014710084022846319",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
+          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
+          "url": "https://wallstreetcn.com/articles/3767258",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "金十期货·原油专题",
-          "url": "https://flash.jin10.com/detail/20260311104808966800",
+          "title": "俄罗斯称乌克兰袭击俄境内天然气压缩站设施",
+          "url": "https://wallstreetcn.com/livenews/3068526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "IEA批准释放创纪录原油储备，4亿桶规模较2022水平高出超一倍",
+          "url": "https://wallstreetcn.com/articles/3767243",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "韩国2月外国投资者净卖出本地股市资金创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260312110303334800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3067728",
+          "title": "William O’Neil恢复跟踪宁德时代A股，评级为买进。",
+          "url": "https://wallstreetcn.com/livenews/3068525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
+          "title": "市场为何对4亿桶原油抛储无动于衷",
+          "url": "https://www.toutiao.com/trending/7616165901791923755/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "白宫：对伊军事行动“不达目的不罢休”，打完仗油价会更低！",
-          "url": "https://www.cls.cn/detail/2309122",
+          "title": "IEA宣布史上最大释储行动，为何油价不跌反涨？一文读懂",
+          "url": "https://www.cls.cn/detail/2310339",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "特朗普松口或“有条件谈判”，伊朗排除谈判可能性。今晚美国CPI有望基本持稳，但中东冲突为前景再添不确定性。当前美油多头持续占优，现货金银多头占比超80%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260311104343048800",
+          "title": "美国袭击伊朗头6天花费超113亿美元",
+          "url": "https://news.ifeng.com/c/8rQUIMqYzq2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）上海金早盘价为1147.18元/克，较国际金价(1139.83元/克)，高7.35元/克",
+          "url": "https://flash.jin10.com/detail/20260312110248902800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260311104155112800",
+          "title": "深成指跌超1%，创业板指跌超1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3068523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "日租金77万美元，油轮危机爆发",
+          "url": "https://news.ifeng.com/c/8rQVm3uSrPy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "韩国央行：韩国2月外国投资者净买入本地债券57.4亿美元，高于1月的24.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312110247766800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
-          "url": "https://www.cls.cn/detail/2309074",
+          "title": "七国集团：原则上支持必要时动用战略储备稳定能源市场",
+          "url": "https://www.cls.cn/detail/2309984",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260311104032858800",
+          "title": "韩国央行：韩国2月外国投资者净卖出本地股市135亿美元，而1月为净卖出5000万美元。",
+          "url": "https://flash.jin10.com/detail/20260312110225780800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "创业板指涨超2%，宁德时代涨超5%，沪指涨0.1%，深成指涨1.01%，电池、光伏、钛白粉、工业母机等方向领涨，沪深京三市上涨个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3067724",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金到底是谁在买谁在卖",
+          "url": "https://www.toutiao.com/trending/7616143900847115812/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "沙特红海原油出口3月将创新高，但仍不足以弥补缺口",
-          "url": "https://flash.jin10.com/detail/20260311104028934800",
+          "title": "无视IEA史上最大放储计划，油价重返92美元，市场在传递什么信号？",
+          "url": "https://wallstreetcn.com/articles/3767251",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "韩国央行委员HWANG：货币政策今后应保持中立。",
+          "url": "https://flash.jin10.com/detail/20260312110104278800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "国际油价历史性暴跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "从卡车司机到中期选举“战场州”，被中东战火推高的油价正冲击美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746555",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "不只是油价！联合国警告：航运受阻或推高化肥和食品价格",
-          "url": "https://www.cls.cn/detail/2309013",
+          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
+          "url": "https://www.cls.cn/detail/2310220",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "金十期货3月11日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌400元/吨，中间价报159000元/吨。",
-          "url": "https://flash.jin10.com/detail/20260311103213246800",
+          "title": "韩国央行委员HWANG：由于中东冲突，前景走向不确定性较高。",
+          "url": "https://flash.jin10.com/detail/20260312110053053800",
           "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "进出口行发行3年期债券，规模30亿元，发行利率1.5223%，预期1.6000%，投标倍数5.37倍，边际倍数1.11倍。",
-          "url": "https://wallstreetcn.com/livenews/3067715",
+          "title": "布伦特原油期货盘中一度涨至101.59美元/桶，日内大涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3068517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "金十图示：2026年03月11日（周三）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260311102542752800",
+          "title": "3月12日投资避雷针：国际油价再度大幅上涨 布伦特原油期货逼近100美元关口",
+          "url": "https://www.cls.cn/detail/2310317",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "欧股期货走低，欧洲Stoxx 50指数期货跌1.1%，德国DAX指数期货跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3068515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "韩国央行委员HWANG：外汇汇率和债券收益率的波动与经济基本面不符。",
+          "url": "https://flash.jin10.com/detail/20260312110024364800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
-          "url": "https://www.zhihu.com/question/2012122338733290833",
-          "source": "知乎",
+          "title": "国开行发行3年期债券，规模50亿元，发行利率1.5882%，预期1.6000%，投标倍数4.00倍，边际倍数3.07倍； 国开行发行7年期债券，规模20亿元，发行利率1.8132%，预期1.8100%，投标倍数4.53倍，边际倍数1.15倍。",
+          "url": "https://wallstreetcn.com/livenews/3068512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "对冲基金抢购澳元看涨期权，静候澳联储决议",
+          "url": "https://flash.jin10.com/detail/20260312105247144800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "越南动用燃油价格稳定基金抑制油价飙升",
-          "url": "https://flash.jin10.com/detail/20260311101407201800",
+          "title": "布伦特原油期货扩大涨势，重返100美元关口上方，日内涨近9%，此前阿曼关键港口遭受干扰。",
+          "url": "https://wallstreetcn.com/livenews/3068510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "孟加拉国官员表示，在中东供应中断推高价格之际，已敲定三船液化天然气货物订单。",
+          "url": "https://flash.jin10.com/detail/20260312104109919800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "泰国央行会议纪要：1%的政策利率具有充分的宽松性。",
-          "url": "https://flash.jin10.com/detail/20260311100829873800",
+          "title": "A股化工板块涨势扩大，金牛化工9天5板，潞化科技、三房巷、和邦生物、安道麦A、百川股份等多股此前涨停，金煤科技、中泰化学、新疆天业、宝丰能源等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3068509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "伊朗封锁海峡为何让全球油价上涨",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260312104021520800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "沙特方面称，击落了两架飞往沙伊巴油田的无人机。",
-          "url": "https://flash.jin10.com/detail/20260311100813187800",
+          "title": "创业板指跌超1%，沪指涨0.1%，深成指跌0.53%，军工、培育钻石、工业母机、小金属等方向跌幅居前，沪深京三市下跌个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3068503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌1.1%，德国DAX指数期货下跌1.2%，英国富时100指数期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260312103943147800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "A股电网设备板块持续活跃，众智科技触及20cm涨停，三友联众涨超10%，良信股份、国电南自、中电鑫龙、长高电新涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3067697",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油期货涨超9%，重回100美元/桶上方，因阿曼关键港口遭遇中断。",
+          "url": "https://flash.jin10.com/detail/20260312103750885800",
+          "source": "金十数据",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "泰国央行会议纪要：担忧汇率与经济基本面存在偏离迹象。",
-          "url": "https://flash.jin10.com/detail/20260311100526800800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260312103600262800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "西太平洋银行与澳洲国民银行预计：澳洲联储将在3月和5月会议上加息",
-          "url": "https://wallstreetcn.com/livenews/3067693",
+          "title": "日本20年期国债收益率上行3.5个基点，至3.065%。",
+          "url": "https://wallstreetcn.com/livenews/3068496",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "日本经济产业大臣赤泽亮正：将采取必要措施应对油价波动。",
-          "url": "https://wallstreetcn.com/livenews/3067691",
-          "source": "华尔街见闻-快讯",
+          "title": "IEA紧急释放4亿桶石油储备，规模创史上最大。特朗普再称战争将很快结束，伊朗总统提出三大必要条件......当前美油多头持续占优，现货白银多头占比增至90%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260312103555673800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "创业板指涨超1%，沪指跌0.08%，深成指涨0.45%，培育钻石、工业母机、算力硬件等方向涨幅居前，沪深京三市上涨个股近2600只。",
-          "url": "https://wallstreetcn.com/livenews/3067689",
+          "title": "SC原油主力合约日内暴涨18.00%，现报766.20元/桶。",
+          "url": "https://flash.jin10.com/detail/20260312103440775800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "A股煤炭板块震荡拉升，兖矿能源冲击涨停，中煤能源、电投能源涨超6%，晋控煤业、陕西黑猫、淮北矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3068492",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "油价暴涨,俄罗斯躺赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351569&amp;topic_name=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%2C%E4%BF%84%E7%BD%97%E6%96%AF%E8%BA%BA%E8%B5%A2",
-          "source": "贴吧",
+          "title": "WTI原油日内暴涨7.00%，现报94.64美元/桶。布伦特原油涨6%。",
+          "url": "https://flash.jin10.com/detail/20260312103433413800",
+          "source": "金十数据",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         },
         {
-          "title": "A股CPO等算力硬件股延续强势，瑞斯康达2连板，迅捷兴涨近10%，长飞光纤冲击涨停，光迅科技、博敏电子、德科立跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3067680",
+          "title": "高盛：将2026年第四季度的布油、WTI原油价格预测上调至71、67美元（此前预测为66、62美元）。",
+          "url": "https://wallstreetcn.com/livenews/3068489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "金十期货3月12日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌500元/吨，中间价报158200元/吨。",
+          "url": "https://flash.jin10.com/detail/20260312103310625800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "内盘低硫燃料油期货主力合约涨近20%，原油涨超14%，燃油涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3068488",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "11时15分"
         }
       ]
     }
