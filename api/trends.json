@@ -1,242 +1,286 @@
 {
-  "generated_at": "2026-03-15T11:38:47.325321+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T11:42:13.336774+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
-          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
-          "url": "https://wallstreetcn.com/articles/3767517",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "美以伊战争丨伊朗高官：乌克兰成为伊朗合法打击目标",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "能源开发商格伦法恩集团CEO：就阿拉斯加液化天然气项目做出最终投资决定前，还需签署300万吨的液化天然气承购协议。",
-          "url": "https://flash.jin10.com/detail/20260315111033056800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260316111601073800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "国内成品油价格将迎调整",
-          "url": "https://www.douyin.com/hot/2430697",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "伊朗高官：乌克兰已成为伊朗合法打击目标",
-          "url": "https://wallstreetcn.com/livenews/3070216",
-          "source": "华尔街见闻-快讯",
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "高盛：预计即将公布的欧元区数据（截至伊朗冲突爆发前）与欧洲央行12月员工预测将大体一致。但冲突爆发后的能源价格飙升，给经济前景带来了重大风险。",
-          "url": "https://flash.jin10.com/detail/20260315103927567800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
-          "url": "https://wallstreetcn.com/articles/3767528",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
+          "title": "关注“十五五”定调，聚焦地缘政治变局，十大券商策略解析春季行情机会",
+          "url": "https://www.cls.cn/detail/2313316",
           "source": "财联社热门",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
-          "url": "https://flash.jin10.com/detail/20260315102410675800",
-          "source": "金十数据",
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "国内成品油价格将迎调整",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "上证指数早盘收报4066.40点，跌0.71%。 深证成指早盘收报14181.29点，跌0.70%。 创业板指早盘收报3316.25点，涨0.18%。 沪深300早盘收报4643.43点，跌0.55%。 科创50早盘收报1360.16点，跌0.98%。 中证500早盘收报8118.18点，跌1.48%。 中证1000早盘收报8144.55点，跌0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3070568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.51%，10年期主力合约跌0.13%，5年期主力合约跌0.09%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3070565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "菲律宾央行行长：央行正在干预外汇市场。",
+          "url": "https://wallstreetcn.com/livenews/3070562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
+          "url": "https://wallstreetcn.com/articles/3767553",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
+          "url": "https://www.cls.cn/detail/2313562",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "油价冲高回落！“哈尔克岛轰炸”与“霍尔木兹通航信号”扰动市场",
+          "url": "https://wallstreetcn.com/articles/3767562",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "印尼能源部：3月下半月5300大卡等级煤炭基准价格定为每吨71.55美元，4100大卡等级煤炭基准价格定为每吨48.32美元。",
-          "url": "https://flash.jin10.com/detail/20260315100458284800",
+          "title": "市场消息：中国AI初创公司月之暗面新一轮融资将使估值达180亿美元。",
+          "url": "https://flash.jin10.com/detail/20260316105617343800",
           "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "5倍杠杆博30%收益，资金加速“围猎”银行不良资产，配资豪赌风险谁兜底",
-          "url": "https://www.cls.cn/detail/2312977",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "高盛：预计以色列2月整体CPI将保持不变，同比数据为1.8%（市场共识：1.9%），其中核心通胀和燃料通胀将下降，而住房和食品通胀将上升。",
-          "url": "https://flash.jin10.com/detail/20260315100307813800",
+          "title": "特朗普呼吁多国派遣军舰在霍尔木兹海峡护航，各方谨慎回应。当前美油多头情绪仍维持高位。美元指数DXY徘徊在100关口上方，非美货币承压，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260316105445064800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "伊朗高官称乌克兰已成合法打击目标",
-          "url": "https://www.toutiao.com/trending/7617104451787423795/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "高盛：俄罗斯2月份环比通胀率回落、更接近4%目标，预计俄罗斯央行下周五将把政策利率下调50个基点至15.00%（市场共识：15.00%），延续其降息周期。",
-          "url": "https://flash.jin10.com/detail/20260315094621291800",
+          "title": "据消息人士透露，百度支持的生命科学平台公司“百图生科”已秘密提交了在香港上市的申请，今年有望通过此次上市筹集数亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260316105334987800",
           "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "高盛：由于全球避险情绪升温以及能源价格急剧上涨，乌克兰央行或优先考虑谨慎行事，预计乌克兰央行下周将按兵不动，利率维持在15.00%不变，与市场预期一致。",
-          "url": "https://flash.jin10.com/detail/20260315091427326800",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260316104058472800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "韭菜新思路:鼓吹战时囤日元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351767&amp;topic_name=%E9%9F%AD%E8%8F%9C%E6%96%B0%E6%80%9D%E8%B7%AF%3A%E9%BC%93%E5%90%B9%E6%88%98%E6%97%B6%E5%9B%A4%E6%97%A5%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "伊朗高官：乌克兰向以色列提供帮助，已成伊朗合法打击目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32771435",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "伊朗官员称乌克兰已成打击目标",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B7%B2%E6%88%90%E6%89%93%E5%87%BB%E7%9B%AE%E6%A0%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "国内汽柴油价格预计将再次上调",
-          "url": "https://www.toutiao.com/trending/7616645901646659626/",
-          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "SC原油主力合约日内大涨6.00%，现报799.20元/桶。",
+          "url": "https://flash.jin10.com/detail/20260316103736815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "金十期货3月16日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2000元/吨，中间价报154200元/吨。",
+          "url": "https://flash.jin10.com/detail/20260316103316410800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260316102907586800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "国内油价是跌得慢涨得快吗",
+          "url": "https://www.toutiao.com/trending/7617623414366293546/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "11时42分"
+        },
+        {
+          "title": "泽连斯基：乌克兰未卷入与伊朗的战争",
+          "url": "https://news.ifeng.com/c/8rWD6LESPBl",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "港股智谱早盘一度涨16%，目前涨幅收窄至8%。 此前据报道，智谱龙虾基座模型GLM-5-Turbo发布，API价格上涨20%并推出“龙虾套餐”。",
+          "url": "https://wallstreetcn.com/livenews/3070553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "沪指、深成指均跌超1%，创业板指跌0.08%，有色金属、钢铁、锂矿、煤炭等方向跌幅居前，沪深京三市下跌个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3070552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国家统计局：1—2月份，规上工业原煤产量7.6亿吨，同比下降0.3%，降幅比2025年12月份收窄0.7个百分点；日均产量1293万吨。 1—2月份，规上工业原油产量3573万吨，同比增长1.9%，2025年12月份为下降0.6%；日均产量60.6万吨。 1—2月份，规上工业原油加工量12263万吨，同比增长2.9%；日均加工207.9万吨。 1—2月份，规上工业天然气产量446亿立方米，同比增长2.9%；日均产量7.6亿立方米。",
+          "url": "https://wallstreetcn.com/livenews/3070540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "A股白酒股快速反弹，皇台酒业封涨停，金徽酒涨近6%，酒鬼酒、贵州茅台、舍得酒业、金种子酒纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3070517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     }
