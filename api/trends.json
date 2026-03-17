@@ -1,286 +1,341 @@
 {
-  "generated_at": "2026-03-16T11:42:13.336774+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-17T11:17:10.610397+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260316111601073800",
-          "source": "金十数据",
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
+          "url": "https://wallstreetcn.com/articles/3767666",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "关注“十五五”定调，聚焦地缘政治变局，十大券商策略解析春季行情机会",
-          "url": "https://www.cls.cn/detail/2313316",
+          "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
+          "url": "https://wallstreetcn.com/articles/3767638",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "上证指数早盘收报4066.40点，跌0.71%。 深证成指早盘收报14181.29点，跌0.70%。 创业板指早盘收报3316.25点，涨0.18%。 沪深300早盘收报4643.43点，跌0.55%。 科创50早盘收报1360.16点，跌0.98%。 中证500早盘收报8118.18点，跌1.48%。 中证1000早盘收报8144.55点，跌0.85%。",
-          "url": "https://wallstreetcn.com/livenews/3070568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.51%，10年期主力合约跌0.13%，5年期主力合约跌0.09%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3070565",
+          "title": "农发行发行5年期债券，规模40亿元，发行利率1.6460%，预期1.6600%，投标倍数7.49倍，边际倍数1.79倍。",
+          "url": "https://wallstreetcn.com/livenews/3071347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
         },
         {
-          "title": "菲律宾央行行长：央行正在干预外汇市场。",
-          "url": "https://wallstreetcn.com/livenews/3070562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
-          "url": "https://wallstreetcn.com/articles/3767553",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
-          "url": "https://www.cls.cn/detail/2313562",
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "油价冲高回落！“哈尔克岛轰炸”与“霍尔木兹通航信号”扰动市场",
-          "url": "https://wallstreetcn.com/articles/3767562",
-          "source": "华尔街见闻",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "市场消息：中国AI初创公司月之暗面新一轮融资将使估值达180亿美元。",
-          "url": "https://flash.jin10.com/detail/20260316105617343800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰在霍尔木兹海峡护航，各方谨慎回应。当前美油多头情绪仍维持高位。美元指数DXY徘徊在100关口上方，非美货币承压，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260316105445064800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "据消息人士透露，百度支持的生命科学平台公司“百图生科”已秘密提交了在香港上市的申请，今年有望通过此次上市筹集数亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260316105334987800",
+          "title": "布伦特原油向上触及100美元/桶，日内涨2.45%。",
+          "url": "https://flash.jin10.com/detail/20260317104825875800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "BIS提醒各国央行：别被中东战火吓到 能源暴涨或属短期冲击",
+          "url": "https://www.cls.cn/detail/2314783",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "A股国产芯片板块局部走强，朗科科技涨超11%，亚翔集成涨停，沐曦股份-U涨超5%，摩尔线程-U涨超3%，帝奥微、淳中科技、派瑞股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260317104602039800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
           "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20260316104058472800",
+          "url": "https://flash.jin10.com/detail/20260317104255734800",
           "source": "金十数据",
           "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "SC原油主力合约日内大涨6.00%，现报799.20元/桶。",
-          "url": "https://flash.jin10.com/detail/20260316103736815800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260317103925768800",
           "source": "金十数据",
           "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "金十期货3月16日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2000元/吨，中间价报154200元/吨。",
-          "url": "https://flash.jin10.com/detail/20260316103316410800",
+          "title": "越南国家石油天然气集团：拟在越南北部投资2.94亿美元建设液化石油气码头和储罐。",
+          "url": "https://flash.jin10.com/detail/20260317103402156800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "金十期货3月17日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨850元/吨，中间价报155350元/吨。",
+          "url": "https://flash.jin10.com/detail/20260317103309881800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "港股生物医药概念股走高，药明合联(02268.HK)涨超7%，荣昌生物(09995.HK)、君实生物(01877.HK)、诺诚健华(09969.HK)、药明康德(02359.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260317102559072800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260317102533756800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "金十图示：2026年03月16日（周一）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260316102907586800",
+          "title": "黄仁勋GTC演讲：推理时代到来，2027营收至少万亿美元",
+          "url": "https://flash.jin10.com/detail/20260317102523302800",
           "source": "金十数据",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
-          "title": "国内油价是跌得慢涨得快吗",
-          "url": "https://www.toutiao.com/trending/7617623414366293546/",
-          "source": "今日头条",
+          "title": "Omdia：预计2026年全球微短剧收入达到140亿美元",
+          "url": "https://wallstreetcn.com/livenews/3071340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "国开行发行2年期债券，规模50亿元，发行利率1.4985%，预期1.5200%，投标倍数4.39倍，边际倍数1.67倍； 国开行发行5年期债券，规模90亿元，发行利率1.6799%，预期1.6700%，投标倍数4.73倍，边际倍数6.75倍； 国开行发行10年期债券，规模170亿元，发行利率1.9448%，预期1.9400%，投标倍数3.13倍，边际倍数38.78倍。",
+          "url": "https://wallstreetcn.com/livenews/3071337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
         },
         {
-          "title": "泽连斯基：乌克兰未卷入与伊朗的战争",
-          "url": "https://news.ifeng.com/c/8rWD6LESPBl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "港股智谱早盘一度涨16%，目前涨幅收窄至8%。 此前据报道，智谱龙虾基座模型GLM-5-Turbo发布，API价格上涨20%并推出“龙虾套餐”。",
-          "url": "https://wallstreetcn.com/livenews/3070553",
+          "title": "A股医药股震荡拉升，基蛋生物封涨停，荣昌生物涨近7%，股价创历史新高，三生国健、苑东生物、悦康药业、君实生物、必贝特、益方生物跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071333",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "沪指、深成指均跌超1%，创业板指跌0.08%，有色金属、钢铁、锂矿、煤炭等方向跌幅居前，沪深京三市下跌个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/3070552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
         },
         {
-          "title": "国家统计局：1—2月份，规上工业原煤产量7.6亿吨，同比下降0.3%，降幅比2025年12月份收窄0.7个百分点；日均产量1293万吨。 1—2月份，规上工业原油产量3573万吨，同比增长1.9%，2025年12月份为下降0.6%；日均产量60.6万吨。 1—2月份，规上工业原油加工量12263万吨，同比增长2.9%；日均加工207.9万吨。 1—2月份，规上工业天然气产量446亿立方米，同比增长2.9%；日均产量7.6亿立方米。",
-          "url": "https://wallstreetcn.com/livenews/3070540",
+          "title": "甘肃发行20年期收费公路专项地方债，规模20.7172亿元，发行利率2.5100%，边际倍数1.05倍，倍数预期2.51。",
+          "url": "https://wallstreetcn.com/livenews/3071329",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "甘肃发行10年期一般债地方债，规模106.8249亿元，发行利率2.0000%，边际倍数1.15倍，倍数预期1.99； 甘肃发行7年期棚改专项地方债，规模3.7718亿元，发行利率1.7900%，边际倍数2.23倍，倍数预期1.82； 甘肃发行20年期其他专项地方债，规模29.6879亿元，发行利率2.5100%，边际倍数1.21倍，倍数预期2.51； 甘肃发行20年期其他专项地方债，规模29.4020亿元，发行利率2.5200%，边际倍数1.63倍，倍数预期2.50； 甘肃发行30年期其他专项地方债，规模3.6699亿元，发行利率2.5500%，边际倍数1.06倍，倍数预期2.52； 甘肃发行7年期其他专项地方债，规模1.0000亿元，发行利率1.7900%，边际倍数2.60倍，倍数预期1.82； 甘肃发行10年期其他专项地方债，规模20.0321亿元，发行利率2.0300%，边际倍数1.52倍，倍数预期2.01； 甘肃发行10年期其他专项地方债，规模38.2500亿元，发行利率2.0400%，边际倍数1.66倍，倍数预期2.01； 甘肃发行10年期普通专项地方债，规模195.9645亿元，发行利率2.0400%，边际倍数2.31倍，倍数预期2.01； 甘肃发行7年期普通专项地方债，规模27.7390亿元，发行利率1.7900%，边际倍数2.03倍，倍数预期1.81。",
+          "url": "https://wallstreetcn.com/livenews/3071328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "A股大金融板块早盘走强，爱建集团涨停，国信证券涨近6%，东方财富、汇金股份、广发证券、指南针、大智慧、财富趋势跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3071311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "三大指数集体翻绿，创业板指此前一度涨近1%，CPO、油气、光刻机、培育钻石等方向跌幅居前，沪深京三市下跌个股超2800只。",
+          "url": "https://wallstreetcn.com/livenews/3071304",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
         },
         {
-          "title": "A股白酒股快速反弹，皇台酒业封涨停，金徽酒涨近6%，酒鬼酒、贵州茅台、舍得酒业、金种子酒纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/3070517",
+          "title": "港股盘中拉升，恒指涨近1%，恒生科技指数涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3071301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时17分"
+        },
+        {
+          "title": "A股化工板块再度走强，山东海化直线涨停，江天化学涨超10%，三维化学、天原股份、红星发展跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "A股光伏设备板块开盘走强，华民股份涨超12%，迈为股份涨逾7%，国晟科技、晶澳科技、双良节能、奥特维跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3071294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "上证指数开盘报4086.30点，涨0.04%。 深证成指开盘报14370.45点，涨0.44%。 创业板指开盘报3385.71点，涨0.85%。 沪深300开盘报4685.57点，涨0.30%。 科创50开盘报1386.26点，涨0.09%。 中证500开盘报8199.99点，涨0.18%。 中证1000开盘报8219.50点，涨0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3071289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     }
