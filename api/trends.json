@@ -1,264 +1,429 @@
 {
-  "generated_at": "2026-03-22T11:24:18.690694+08:00",
+  "generated_at": "2026-03-23T11:27:57.199864+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 23,
+      "match_count": 38,
       "titles": [
         {
-          "title": "沙特要求伊朗武官离境",
-          "url": "https://wallstreetcn.com/livenews/3074486",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
+          "url": "https://wallstreetcn.com/articles/3768093",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "A股当前良性调整何时结束？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2320651",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "“美联储加息”噩梦恐成真？美银：需先满足三大条件",
-          "url": "https://www.cls.cn/detail/2320248",
-          "source": "财联社热门",
+          "title": "摩根大通：将路威酩轩（LVMH）目标价从610欧元下调至580欧元。",
+          "url": "https://flash.jin10.com/detail/20260323112057588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "泰铢兑美元跌至1美元兑33.075泰铢，创2025年5月20日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260323112042661800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "近日油价暴涨，是不是真的到了该换电车的时候了？",
-          "url": "https://www.zhihu.com/question/2017781946277724314",
-          "source": "知乎",
+          "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
+          "url": "https://wallstreetcn.com/livenews/3074809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
-          "url": "https://wallstreetcn.com/articles/3768062",
+          "title": "国内金价跌破1000元",
+          "url": "https://www.toutiao.com/trending/7620270700237950500/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "美国私募信贷“火烧连营”：类“次贷”式包装财技，吸收1万亿美元“美国人养老金”",
-          "url": "https://wallstreetcn.com/articles/3768065",
-          "source": "华尔街见闻",
+          "title": "贵州发行10年期一般债地方债，规模236.2499亿元，发行利率2.0000%，边际倍数1.10倍，倍数预期1.98； 贵州发行5年期普通专项地方债，规模7.0000亿元，发行利率1.6200%，边际倍数1.01倍，倍数预期1.63； 贵州发行20年期普通专项地方债，规模55.1880亿元，发行利率2.5400%，边际倍数22.28倍，倍数预期2.51。",
+          "url": "https://wallstreetcn.com/livenews/3074805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260323111835204800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "油价上涨如何影响世界经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
+          "title": "日本正在考虑削减通胀挂钩债券的回购规模。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3074802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
+          "title": "原油的“压制层”正在变薄，未来反弹将会十分猛烈",
+          "url": "https://flash.jin10.com/detail/20260323111643368800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
+          "title": "波斯湾LNG末班船抵港在即，全球天然气供应悬崖边缘临近",
+          "url": "https://wallstreetcn.com/articles/3768092",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "赤峰黄金易主：紫金集团将成单一最大股东",
+          "url": "https://www.cls.cn/detail/2320802",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "沙特国防部发言人：监测到3枚弹道导弹向利雅得地区发射，其中一枚被拦截，另外两枚落在无人区。",
-          "url": "https://flash.jin10.com/detail/20260322100638220800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
-          "url": "https://wallstreetcn.com/articles/3768051",
+          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
+          "url": "https://wallstreetcn.com/articles/3768079",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "沙特国防部发言人：在东部地区拦截了4架无人机。",
-          "url": "https://flash.jin10.com/detail/20260322094637766800",
-          "source": "金十数据",
+          "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
+          "url": "https://www.cls.cn/detail/2320841",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "央行行长潘功胜：继续实施适度宽松的货币政策，运用多种工具保持流动性充裕",
+          "url": "https://wallstreetcn.com/articles/3768082",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "国际金价“八连跌”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
+          "title": "高盛上调3-4月布油均价至110美元，警告高油价持续至2027年底！",
+          "url": "https://www.cls.cn/detail/2320813",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日韩股市，重挫“熔断”",
+          "url": "https://news.ifeng.com/c/8rirpGf6IFb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "伊朗冲突进入第四周，局势未见缓和、甚至还有升级迹象，现货黄金年内涨幅几乎被抹去，油价或持续保持高位运行，金银油多头情绪仍不让位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260323111310023800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "恒生指数跌幅扩大至3%",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E7%94%9F%E6%8C%87%E6%95%B0%E8%B7%8C%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B33%25",
           "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "鸣潮流水暴跌,西小妹拉完了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352142&amp;topic_name=%E9%B8%A3%E6%BD%AE%E6%B5%81%E6%B0%B4%E6%9A%B4%E8%B7%8C%2C%E8%A5%BF%E5%B0%8F%E5%A6%B9%E6%8B%89%E5%AE%8C%E4%BA%86",
-          "source": "贴吧",
+          "title": "美伊冲突，全球受扰，A股彰显“以我为主”韧性，机构看好两大主线",
+          "url": "https://www.cls.cn/detail/2320547",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "创近43年最大单周跌幅，黄金“投资神话”终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32807539",
+          "title": "股市",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
           "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "美学者称伊朗战事对中国经济影响有限",
-          "url": "https://flash.jin10.com/detail/20260322092953254800",
+          "title": "据悉随着需求上升，日本考虑削减与通胀挂钩债券的回购规模",
+          "url": "https://flash.jin10.com/detail/20260323111131521800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "油价如何影响贵金属价格",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%B4%B5%E9%87%91%E5%B1%9E%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "A股养殖业板块持续下挫，牧原股份跌超8%，巨星农牧、福成股份、湘佳股份、正邦科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260323110849995800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "VIP·9折解锁黄金异动雷达",
-          "url": "https://flash.jin10.com/detail/20260322090710634800",
+          "title": "高盛将第二季度TTF天然气价格预测从63欧元/兆瓦时上调至72欧元/兆瓦时。 高盛将第二季度JKM天然气价格预测从23.35美元/百万英热上调至26.90美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3074786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日本将动用约8000亿日元抑制汽油价格",
+          "url": "https://www.toutiao.com/trending/7619517814995533867/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "黄金跳水失守4340美元 白银大跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%A4%B1%E5%AE%884340%E7%BE%8E%E5%85%83+%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "澳大利亚总理阿尔巴尼斯：与新加坡加强能源安全合作，支持两国间柴油和液化天然气的流动。",
+          "url": "https://flash.jin10.com/detail/20260323110835397800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/xY4rwSoLid_-3y1vMGyTG.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260322090709297800",
-          "source": "金十数据",
+          "title": "瑞银CEO Sergio Ermotti表示，瑞银的客户并没有因为中东冲突而对资产配置做出重大改变，但消化战争的全部影响还需要时间。",
+          "url": "https://wallstreetcn.com/livenews/3074783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "专家：睡眠有个“黄金4小时”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%9D%A1%E7%9C%A0%E6%9C%89%E4%B8%AA%E2%80%9C%E9%BB%84%E9%87%914%E5%B0%8F%E6%97%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "鸣潮流水暴跌,西小妹拉完了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352142&amp;topic_name=%E9%B8%A3%E6%BD%AE%E6%B5%81%E6%B0%B4%E6%9A%B4%E8%B7%8C%2C%E8%A5%BF%E5%B0%8F%E5%A6%B9%E6%8B%89%E5%AE%8C%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "美以伊开战两周 伊朗反击已致美损失约8亿美元",
-          "url": "https://flash.jin10.com/detail/20260322083833057800",
+          "title": "黄金为何会跌跌不休？专家解惑",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%BC%9A%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E6%83%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "消息人士：日本财务省正权衡一项削减回购规模的计划，拟在4月和6月分别回购150亿日元（9411万美元）。政府在1月、2月和3月分别回购了200亿日元的通胀挂钩国债。",
+          "url": "https://flash.jin10.com/detail/20260323110641964800",
           "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "新台币兑美元日内跌幅扩大至0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3074778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "消息人士：日本正在考虑削减通胀挂钩国债的回购规模。",
+          "url": "https://flash.jin10.com/detail/20260323110526631800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "恒生指数日内跌幅达3%，中国宏桥跌近11%，老铺黄金跌超8%，中国人寿跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3074775",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         },
         {
-          "title": "伊拉克表示伊朗天然气供应已恢复至每日500万立方米。（伊拉克国家通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3074454",
-          "source": "华尔街见闻-快讯",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "中东冲突持续影响油价 悉尼部分加油站柴油售罄",
-          "url": "https://wallstreetcn.com/livenews/3074452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时27分"
         }
       ]
     }
