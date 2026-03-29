@@ -1,253 +1,220 @@
 {
-  "generated_at": "2026-03-28T11:20:48.452576+08:00",
+  "generated_at": "2026-03-29T11:43:25.357331+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 22,
+      "match_count": 19,
       "titles": [
         {
-          "title": "美股“七姐妹”技术性崩坏正在提速",
-          "url": "https://www.toutiao.com/trending/7621931362551971883/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
+          "title": "黄金逼近熊市之际，抄底大军来了！",
+          "url": "https://wallstreetcn.com/articles/3768650",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "伊朗公布沙特美军基地遭袭前后对比图(图)",
-          "url": "https://news.ifeng.com/c/8rqXXynoKqj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
-          "url": "https://wallstreetcn.com/articles/3768553",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "倾向加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837405",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "美国消费者信心跌至三个月低点 最富裕阶层也因股市重挫遭受打击",
-          "url": "https://www.cls.cn/detail/2327642",
-          "source": "财联社热门",
+          "title": "今年首季我国创新药对外授权交易额超600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3078652",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "美伊开战 为什么土耳其却在疯狂“抛售”黄金？",
-          "url": "https://wallstreetcn.com/premium/articles/3768521?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "伊朗称“摧毁乌克兰反无人机系统仓库”，乌方称“消息不实”",
+          "url": "https://news.ifeng.com/c/8rs0nFd9EaG",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "伊朗称摧毁位于迪拜的乌克兰武器库，乌克兰否认",
+          "url": "https://wallstreetcn.com/livenews/3078649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "黄金后续的走势怎么看",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%90%8E%E7%BB%AD%E7%9A%84%E8%B5%B0%E5%8A%BF%E6%80%8E%E4%B9%88%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "分红险演示利率下调至3.5%：新产品立即执行，存量产品需6月底前变更备案",
-          "url": "https://www.cls.cn/detail/2327414",
+          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2327820",
           "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "国际货币基金组织关于巴基斯坦的声明：一经批准，巴基斯坦将可在强化基金机制下获得约10亿美元资金，并在快速信贷机制下获得约2.1亿美元资金。今日的批准使两项安排下的累计拨付款总额达到约45亿美元。",
-          "url": "https://flash.jin10.com/detail/20260328102819539800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "3 月 27 日伊朗革命卫队表示「霍尔木兹海峡已关闭」，对石油及能源市场影响有多大？油价会再次上涨吗？",
-          "url": "https://www.zhihu.com/question/2020919092639527140",
-          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
-          "source": "财联社热门",
+          "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
+          "url": "https://news.ifeng.com/c/8rs4ohFjfzA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "通胀预期与实际收益率共振，金价剑指6600美元？",
+          "url": "https://flash.jin10.com/detail/20260329102213974800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "沙特美军基地遭打击前后对比图公布",
-          "url": "https://www.toutiao.com/trending/7621407941371134015/",
-          "source": "今日头条",
+          "title": "中国黄金集团与山东黄金集团举行工作会商",
+          "url": "https://wallstreetcn.com/livenews/3078644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "氦气价格暴涨50%",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A850%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "俄罗斯拟自 4 月 1 日起实行汽油出口临时禁令，优先保障俄国内市场供应，会导致国际油价进一步大涨吗？",
+          "url": "https://www.zhihu.com/question/2021309155579884417",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "沙特境内美军基地遭袭 12名美军士兵受伤 加油机受损",
-          "url": "https://flash.jin10.com/detail/20260328100440585800",
+          "title": "专家：油价上涨或致美通胀回落预期受挫 美联储面临挑战",
+          "url": "https://flash.jin10.com/detail/20260329101423627800",
           "source": "金十数据",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "美官员称伊朗袭击沙特境内美军基地致多人受伤",
-          "url": "https://wallstreetcn.com/livenews/3078508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "三部门提醒：“人民币版”冥币不要用",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%EF%BC%9A%E2%80%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E7%89%88%E2%80%9D%E5%86%A5%E5%B8%81%E4%B8%8D%E8%A6%81%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金十图示：2026年03月28日（周六）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260328092426748800",
+          "title": "澳大利亚两个州将提供免费交通服务，以应对燃油价格上涨",
+          "url": "https://flash.jin10.com/detail/20260329101315174800",
           "source": "金十数据",
           "ranks": [
-            25
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "美国总统特朗普：我们想要低利率，无通胀。",
-          "url": "https://wallstreetcn.com/livenews/3078505",
+          "title": "黄金还是避险之王吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%98%AF%E9%81%BF%E9%99%A9%E4%B9%8B%E7%8E%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
+          "url": "https://wallstreetcn.com/livenews/3078627",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         },
         {
-          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
-          "url": "https://wallstreetcn.com/livenews/3078503",
+          "title": "油价又飙升了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%8F%88%E9%A3%99%E5%8D%87%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "泽连斯基称“乌克兰人在中东遭袭”消息不实",
+          "url": "https://wallstreetcn.com/livenews/3078624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "最后3天！VIP秒抓黄金异动！",
-          "url": "https://flash.jin10.com/detail/20260328090748757800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "11时43分"
         }
       ]
     }
