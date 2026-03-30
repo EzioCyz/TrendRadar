@@ -1,220 +1,352 @@
 {
-  "generated_at": "2026-03-29T11:43:25.357331+08:00",
+  "generated_at": "2026-03-30T11:46:30.814489+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 19,
+      "match_count": 31,
       "titles": [
         {
-          "title": "黄金逼近熊市之际，抄底大军来了！",
-          "url": "https://wallstreetcn.com/articles/3768650",
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "从基金角度看CBOT大豆后市：COT指数仍处极值，是否仍有下跌风险？",
+          "url": "https://flash.jin10.com/detail/20260330113848099800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "印度卢比兑美元大涨1.4%至93.4775，此前印度央行收紧外汇规则。",
+          "url": "https://wallstreetcn.com/livenews/3078951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
-          "url": "https://wallstreetcn.com/articles/3768639",
+          "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
+          "url": "https://wallstreetcn.com/articles/3768680",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
+          "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2328159",
           "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "油价攀升加剧市场不安 机构预警标普500指数下行空间",
+          "url": "https://flash.jin10.com/detail/20260330113721460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "上证指数早盘收报3922.72点，涨0.23%。 深证成指早盘收报13743.85点，跌0.12%。 创业板指早盘收报3279.29点，跌0.50%。 沪深300早盘收报4495.74点，跌0.15%。 科创50早盘收报1292.45点，跌0.64%。 中证500早盘收报7763.00点，涨0.33%。 中证1000早盘收报7770.83点，涨0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3078950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
+          "url": "https://wallstreetcn.com/articles/3768667",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "今年首季我国创新药对外授权交易额超600亿美元",
-          "url": "https://wallstreetcn.com/livenews/3078652",
+          "title": "A股午评：沪指涨0.23% 铝业股、商业航天概念股走强",
+          "url": "https://flash.jin10.com/detail/20260330113601298800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.20%，10年期主力合约涨0.08%，5年期主力合约涨0.08%，2年期主力合约涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3078946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3078942",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "伊朗称“摧毁乌克兰反无人机系统仓库”，乌方称“消息不实”",
-          "url": "https://news.ifeng.com/c/8rs0nFd9EaG",
-          "source": "凤凰网",
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "伊朗称摧毁位于迪拜的乌克兰武器库，乌克兰否认",
-          "url": "https://wallstreetcn.com/livenews/3078649",
+          "title": "PiperSandler：对摩根大通(JPM.N)的目标价从345美元下调至325美元。",
+          "url": "https://flash.jin10.com/detail/20260330113449605800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "黄金后续的走势怎么看",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%90%8E%E7%BB%AD%E7%9A%84%E8%B5%B0%E5%8A%BF%E6%80%8E%E4%B9%88%E7%9C%8B",
-          "source": "bilibili 热搜",
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260330113110890800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2327820",
-          "source": "财联社热门",
+          "title": "沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。",
+          "url": "https://wallstreetcn.com/livenews/3078940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260330113107463800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨近6%，碳酸锂、乙二醇（EG）涨超4%，苯乙烯（EB）、沪锡、燃油、甲醇涨超3%。跌幅方面，烧碱跌超5%，合成橡胶跌超3%，工业硅跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260330113056917800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
-          "url": "https://news.ifeng.com/c/8rs4ohFjfzA",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "通胀预期与实际收益率共振，金价剑指6600美元？",
-          "url": "https://flash.jin10.com/detail/20260329102213974800",
+          "title": "Pro Farmer一周展望：CBOT大豆跌停后反弹，豆粕出口惊喜能否持续？",
+          "url": "https://flash.jin10.com/detail/20260330113037035800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "中国黄金集团与山东黄金集团举行工作会商",
-          "url": "https://wallstreetcn.com/livenews/3078644",
-          "source": "华尔街见闻-快讯",
+          "title": "港股开盘恒生指数跌1.68%",
+          "url": "https://www.douyin.com/hot/2448265",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "氦气价格暴涨50%",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A850%25",
-          "source": "百度热搜",
+          "title": "通胀预期持稳 机构看好新加坡金管局应对地缘冲击",
+          "url": "https://flash.jin10.com/detail/20260330113034789800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率多数下跌 一年期拆息创近两周新低",
+          "url": "https://flash.jin10.com/detail/20260330112859971800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "俄罗斯拟自 4 月 1 日起实行汽油出口临时禁令，优先保障俄国内市场供应，会导致国际油价进一步大涨吗？",
-          "url": "https://www.zhihu.com/question/2021309155579884417",
-          "source": "知乎",
+          "title": "内存价格跳水,等等党大胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352479&amp;topic_name=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%2C%E7%AD%89%E7%AD%89%E5%85%9A%E5%A4%A7%E8%83%9C",
+          "source": "贴吧",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "专家：油价上涨或致美通胀回落预期受挫 美联储面临挑战",
-          "url": "https://flash.jin10.com/detail/20260329101423627800",
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260330111343629800",
           "source": "金十数据",
           "ranks": [
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "澳大利亚两个州将提供免费交通服务，以应对燃油价格上涨",
-          "url": "https://flash.jin10.com/detail/20260329101315174800",
+          "title": "富时中国A50指数期货转涨，此前跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260330111147402800",
           "source": "金十数据",
           "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "黄金还是避险之王吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%98%AF%E9%81%BF%E9%99%A9%E4%B9%8B%E7%8E%8B%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "经济增长隐忧盖过通胀压力 全球债市重现避险买盘",
+          "url": "https://flash.jin10.com/detail/20260330110902200800",
+          "source": "金十数据",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
         },
         {
-          "title": "泽连斯基：美方正施压乌克兰撤出顿巴斯",
-          "url": "https://wallstreetcn.com/livenews/3078627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "油价又飙升了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E5%8F%88%E9%A3%99%E5%8D%87%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "泽连斯基称“乌克兰人在中东遭袭”消息不实",
-          "url": "https://wallstreetcn.com/livenews/3078624",
+          "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3078908",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时46分"
+        },
+        {
+          "title": "新西兰证交所拟推基准指数期货 以重振本土衍生品交易",
+          "url": "https://flash.jin10.com/detail/20260330110805734800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3078907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     }
