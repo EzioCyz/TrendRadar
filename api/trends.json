@@ -1,418 +1,187 @@
 {
-  "generated_at": "2026-04-24T11:55:46.225848+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T11:37:20.147649+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 37,
+      "match_count": 16,
       "titles": [
         {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
+          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
+          "url": "https://wallstreetcn.com/articles/3770804",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "恒生科技指数早盘盘尾翻红，此前一度跌近2%；恒生指数跌幅缩窄至0.31%。",
-          "url": "https://flash.jin10.com/detail/20260424114833558800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
-          "url": "https://www.cls.cn/detail/2354164",
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "2026年首期特别国债发行结果出炉 30年期中标利率2.2%",
-          "url": "https://flash.jin10.com/detail/20260424114626452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "离岸人民币同业拆息利率涨跌互现，隔夜拆息创逾一周新高",
-          "url": "https://flash.jin10.com/detail/20260424114222628800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "中国财政部发行1年期债券，规模1700亿元，发行利率1.0600%，边际利率1.0900%，预期1.1200%，投标倍数2.29倍，边际倍数1.54倍； 中国财政部发行20年期债券，规模340亿元，发行利率2.2000%，预期2.1800%，投标倍数3.73倍，边际倍数1.55倍； 中国财政部发行30年期债券，规模850亿元，发行利率2.2000%，预期2.2200%，投标倍数3.58倍，边际倍数2.42倍。",
-          "url": "https://wallstreetcn.com/livenews/3093698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "港股市场AI概念股跳水，MINIMAX-W(00100.HK)跳水跌近5%，智谱(02513.HK)一度跌超7%。",
-          "url": "https://flash.jin10.com/detail/20260424114025391800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "离岸人民币1个月期Hibor周五跌至1.4397%，创下2013年有记录以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3093697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "160关口失守!日元汇率已入死局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353680&amp;topic_name=160%E5%85%B3%E5%8F%A3%E5%A4%B1%E5%AE%88%21%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E5%B7%B2%E5%85%A5%E6%AD%BB%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "上证指数早盘收报4069.37点，跌0.58%。 深证成指早盘收报14837.69点，跌1.37%。 创业板指早盘收报3638.28点，跌2.20%。 沪深300早盘收报4745.79点，跌0.85%。 科创50早盘收报1458.31点，涨1.80%。 中证500早盘收报8210.66点，跌1.02%。 中证1000早盘收报8281.27点，跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3093694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "A股午评：创业板指跌2.2% 锂矿、芯片股逆势拉升",
-          "url": "https://flash.jin10.com/detail/20260424113320799800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "4月24日午间收评：创业板指半日跌超2%，算力硬件、商业航天概念集体调整",
-          "url": "https://wallstreetcn.com/livenews/3093693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "创业板跌近1%，算力硬件齐跌、中际旭创盘中市值破万亿，有色金属普跌，恒科指大跌2%，科网股普遍下挫",
-          "url": "https://wallstreetcn.com/articles/3770670",
-          "source": "华尔街见闻",
+          "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "日本薪资物价飞轮正在启动，欧洲央行料维持利率不变",
-          "url": "https://flash.jin10.com/detail/20260424113307340800",
-          "source": "金十数据",
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260424113127051800",
-          "source": "金十数据",
+          "title": "“最长断粮17天”，乌克兰前线士兵骨瘦如柴照片曝光(图)",
+          "url": "https://news.ifeng.com/c/8sbaE7Ou3Vt",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
-          "url": "https://www.cls.cn/detail/2354408",
+          "title": "【数据看盘】机构、北向资金狂买锂电股 游资联手量化资金抢筹富瀚微",
+          "url": "https://www.cls.cn/detail/2354982",
           "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260424113116280800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "进出口行发行3年期债券，规模70亿元，发行利率1.5117%，预期1.5100%，投标倍数3.84倍，边际倍数2.24倍。",
-          "url": "https://wallstreetcn.com/livenews/3093688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。低硫燃料油（LU）涨超4%，液化石油气（LPG）、燃料油、沪镍、沥青、SC原油涨超2%，不锈钢涨近2%；跌幅方面，多晶硅跌超7%，钯跌超4%，铂、沪银跌超3%，豆一跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260424113027742800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "中东局势剑拔弩张！特朗普又“变脸”：美国人“短时间内”需忍受高油价",
-          "url": "https://www.cls.cn/detail/2354238",
+          "title": "降息预期升温！美司法部终止调查鲍威尔 沃什接任障碍解除",
+          "url": "https://www.cls.cn/detail/2355528",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "美军士兵押注“马杜罗被捕”暴赚40万美元后被捕！",
-          "url": "https://news.ifeng.com/c/8sZqcV2WOoZ",
-          "source": "凤凰网",
+          "title": "男子30年前被扣押2859克黄金未返还",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9030%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%89%A3%E6%8A%BC2859%E5%85%8B%E9%BB%84%E9%87%91%E6%9C%AA%E8%BF%94%E8%BF%98",
+          "source": "百度热搜",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "国际油价23日显著上涨",
-          "url": "https://www.toutiao.com/trending/7631152489502818350/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260424112656338800",
+          "title": "油价飙升增加财政不确定性 标普下调比利时信用评级",
+          "url": "https://flash.jin10.com/detail/20260425100728022800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "特朗普承诺油价“很快会降”，石油行业警告：临界点已至，可能更糟",
-          "url": "https://flash.jin10.com/detail/20260424112033969800",
+          "title": "超聚变完成A股IPO辅导",
+          "url": "https://flash.jin10.com/detail/20260425095247617800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
-          "url": "https://www.zhihu.com/question/2030579939343380868",
-          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "A股商业航天概念持续调整，西部材料封跌停，久之洋、雷电微力跌超10%，顺灏股份、中衡设计、广联航空、通宇通讯、上海港湾等多股跌幅靠前。",
-          "url": "https://flash.jin10.com/detail/20260424111843378800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "港股芯片股大涨，华虹半导体涨超10%，中芯国际涨超7%。恒生科技指数跌幅收窄至0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3093675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "女子穿睡衣买12万黄金首饰店主报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E7%9D%A1%E8%A1%A3%E4%B9%B012%E4%B8%87%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "港股芯片股快速拉升，华虹半导体涨超7%，中芯国际涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3093673",
+          "title": "“大空头”Michael Burry买入半导体ETF看跌期权，“我知道费城半导体指数会回落”",
+          "url": "https://wallstreetcn.com/livenews/3094317",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "布伦特原油跌破100美元/桶，日内跌1.14%。WTI原油日内跌0.65%，现报98.64美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260424111628246800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "DeepSeek-V4上线 国产AI芯片股拉升",
-          "url": "https://www.baidu.com/s?wd=DeepSeek-V4%E4%B8%8A%E7%BA%BF+%E5%9B%BD%E4%BA%A7AI%E8%8A%AF%E7%89%87%E8%82%A1%E6%8B%89%E5%8D%87",
-          "source": "百度热搜",
+          "title": "160关口失守!日元汇率已入死局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353680&amp;topic_name=160%E5%85%B3%E5%8F%A3%E5%A4%B1%E5%AE%88%21%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E5%B7%B2%E5%85%A5%E6%AD%BB%E5%B1%80",
+          "source": "贴吧",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "纽约期银日内跌超1.00%，现报74.75美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260424111036749800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "美股周四走低，分析师：投资者借战争之机减仓",
-          "url": "https://flash.jin10.com/detail/20260424110903189800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "A股锂矿股震荡走强，金圆股份封涨停，天华新能、江特电机涨超8%，西藏珠峰、融捷股份、西藏城投等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3093663",
+          "title": "周五（4月24日）纽约尾盘，标普500股指期货最终涨0.78%，道指期货跌0.11%，纳斯达克100股指期货涨1.94%。 罗素2000股指期货涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3094309",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "特朗普当地时间周六中午将在佛罗里达州举行的加密货币会议上讲话。",
-          "url": "https://wallstreetcn.com/livenews/3093660",
+          "title": "周五（4月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8346元，较周四纽约尾盘涨10点，日内整体交投于6.8403-6.8310元区间。 本周，离岸人民币累计下跌大约180点，跌幅大约0.26%，周二亚太午盘达到6.8117元，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3094308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         },
         {
-          "title": "欧洲斯托克50指数期货下跌0.92%；英国富时100指数期货跌超1%；德国DAX30指数期货下跌0.5%。",
-          "url": "https://flash.jin10.com/detail/20260424110441026800",
-          "source": "金十数据",
+          "title": "惠誉：上调立陶宛评级至A+，前景展望稳定。 确认乌克兰CCC评级，确认喀麦隆B评级。",
+          "url": "https://wallstreetcn.com/livenews/3094306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.69%，深成指跌1.31%，AI应用、算力租赁、算力硬件等方向跌幅居前，沪深京三市下跌个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3093657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "11时37分"
         }
       ]
     }
