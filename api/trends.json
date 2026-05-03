@@ -1,363 +1,176 @@
 {
-  "generated_at": "2026-05-02T11:57:01.028327+08:00",
+  "generated_at": "2026-05-03T12:16:14.382971+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 32,
+      "match_count": 15,
       "titles": [
         {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
+          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771492",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "日本采购的俄罗斯原油将于2日抵达",
-          "url": "https://flash.jin10.com/detail/20260502102810027800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "9月就是极限！摩根大通：届时原油库存见底，霍尔木兹海峡“无论如何都将重开”",
-          "url": "https://wallstreetcn.com/articles/3771455",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260502102042473800",
+          "title": "因伊朗战争导致能源成本上升，越南通胀加速",
+          "url": "https://flash.jin10.com/detail/20260503110746505800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "女子15年前买的金条完全不含黄金",
-          "url": "https://www.toutiao.com/trending/7634657327857614889/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "915亿“真金白银”直达16个领域",
-          "url": "https://www.baidu.com/s?wd=915%E4%BA%BF%E2%80%9C%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E2%80%9D%E7%9B%B4%E8%BE%BE16%E4%B8%AA%E9%A2%86%E5%9F%9F",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "日本采购的俄罗斯原油将于2日抵达",
-          "url": "https://wallstreetcn.com/livenews/3098104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "915亿“真金白银”直达16个领域",
-          "url": "https://www.douyin.com/hot/2486329",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "女子15年前买的金条经检测不含黄金",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9015%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%87%91%E6%9D%A1%E7%BB%8F%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%90%AB%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "美国批准对以色列等4国超86亿美元军售",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%AD%894%E5%9B%BD%E8%B6%8586%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE",
-          "source": "bilibili 热搜",
+          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时16分"
         },
         {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
+          "title": "新美联储通讯社：从“降不降息”到“加息条件”，美联储内部讨论重心转向",
+          "url": "https://wallstreetcn.com/articles/3771482",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
+          "title": "越南4月CPI年率 5.46%，预期4.60%，前值4.65%。",
+          "url": "https://flash.jin10.com/detail/20260503110610761800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "title": "据半岛电视台：TankerTrackers称，一艘载有价值2.2亿美元石油的伊朗超级油轮成功避开了美国的封锁。",
+          "url": "https://flash.jin10.com/detail/20260503104835970800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
           "url": "https://www.cls.cn/detail/2361824",
           "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15042.08吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260502082257768800",
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260503100854906800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502080556644800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260502040605158800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040603336800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040600017800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "标普：（关于卡塔尔）因拉斯拉凡工业城基础设施受损导致的液化天然气（LNG）产量下滑，恐需数年时间方能恢复。",
-          "url": "https://flash.jin10.com/detail/20260502040556227800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "林毅夫：中国人均GDP达到美国一半时，美国就会接受中国崛起",
-          "url": "https://news.ifeng.com/c/8sn5FwWdXRA",
-          "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
-          "title": "湃用场丨订好的机票价格“跳水”，消费者可以申请退差价吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33089503",
-          "source": "澎湃新闻",
+          "title": "越南4月贸易帐 -32.8亿美元，预期-4亿美元，前值-6.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503100527566800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "日本财务大臣拒绝置评是否干预日元",
+          "url": "https://flash.jin10.com/detail/20260503091453410800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "越南4月贸易余额 -32.8亿美元，预期 -4亿美元，前值 -6.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时16分"
         },
         {
-          "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084131",
-          "source": "澎湃新闻",
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时16分"
         },
         {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "视频丨陈芋汐/卢为夺得跳水世界杯总决赛女子双人10米台冠军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33089571",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2033597739573965448",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时16分"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
+          "title": "全红婵师妹蒋林静跳水世界杯夺冠",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B8%88%E5%A6%B9%E8%92%8B%E6%9E%97%E9%9D%99%E8%B7%B3%E6%B0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
           "ranks": [
-            21
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。",
-          "url": "https://wallstreetcn.com/livenews/3098075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "人民币冒充日元?日网友又爆典",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353910&amp;topic_name=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%92%E5%85%85%E6%97%A5%E5%85%83%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E5%8F%88%E7%88%86%E5%85%B8",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时16分"
         }
       ]
     }
