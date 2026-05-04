@@ -1,176 +1,297 @@
 {
-  "generated_at": "2026-05-03T12:16:14.382971+08:00",
+  "generated_at": "2026-05-04T12:15:06.170417+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
         {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
+          "title": "欧洲央行管委温施：欧洲在坚持旧经济模式上显得“天真”。",
+          "url": "https://flash.jin10.com/detail/20260504120304391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "本周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
+          "url": "https://wallstreetcn.com/articles/3771488",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "因伊朗战争导致能源成本上升，越南通胀加速",
-          "url": "https://flash.jin10.com/detail/20260503110746505800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "新美联储通讯社：从“降不降息”到“加息条件”，美联储内部讨论重心转向",
-          "url": "https://wallstreetcn.com/articles/3771482",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "越南4月CPI年率 5.46%，预期4.60%，前值4.65%。",
-          "url": "https://flash.jin10.com/detail/20260503110610761800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "据半岛电视台：TankerTrackers称，一艘载有价值2.2亿美元石油的伊朗超级油轮成功避开了美国的封锁。",
-          "url": "https://flash.jin10.com/detail/20260503104835970800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
+          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
+          "url": "https://www.cls.cn/detail/2362321",
           "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260503100854906800",
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "AI狂潮继续！亚太股市攀至近历史高位，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨超3%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "杰富瑞：将苹果公司目标价从294.91美元上调至299.88美元。",
+          "url": "https://flash.jin10.com/detail/20260504115817031800",
           "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "越南4月贸易帐 -32.8亿美元，预期-4亿美元，前值-6.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260503100527566800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "日本财务大臣拒绝置评是否干预日元",
-          "url": "https://flash.jin10.com/detail/20260503091453410800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
-        },
-        {
-          "title": "越南4月贸易余额 -32.8亿美元，预期 -4亿美元，前值 -6.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098224",
+          "title": "美元兑日元短线快速跳水，跌破156关口，10分钟内下跌100多点，日内跌幅扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3098384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "12时15分"
         },
         {
-          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
-          "url": "https://www.zhihu.com/question/2032142179552994728",
-          "source": "知乎",
+          "title": "Jefferies将Meta目标股价从1000美元下调至825美元，将Alphabet目标价从400美元上调至445美元。",
+          "url": "https://wallstreetcn.com/livenews/3098383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "OPEC+同意6月增产18.8万桶/日，但可能只是“纸面数字”",
+          "url": "https://wallstreetcn.com/articles/3771509",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "霍尔木兹海峡“迟迟不通”，美国原油出口激增，一跃成为“全球出口第一”",
+          "url": "https://wallstreetcn.com/articles/3771518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "杰富瑞：将微软目标价从675美元下调至575美元。",
+          "url": "https://flash.jin10.com/detail/20260504115145879800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "杰富瑞：将Meta公司的目标价从1,000美元下调至825美元。",
+          "url": "https://flash.jin10.com/detail/20260504115140164800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "杰富瑞：将Alphabet的目标价从400美元上调至445美元。",
+          "url": "https://flash.jin10.com/detail/20260504115123993800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "十年大数据统计：金、银、油、铜、农产品期货本周展望",
+          "url": "https://flash.jin10.com/detail/20260504111031307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "港股科网股集体走高，小米集团涨超10%",
+          "url": "https://flash.jin10.com/detail/20260504111015275800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "澳新银行：布伦特原油2027年有可能突破100美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504110643764800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "巴菲特谈美股投机风气",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "阿联酋退出欧佩克如何影响油价",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E6%AC%A7%E4%BD%A9%E5%85%8B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%B2%B9%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "高盛估计日本上周动用5万亿日元干预汇市，可再出手30次",
+          "url": "https://wallstreetcn.com/livenews/3098370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "12时15分"
         },
         {
-          "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2033597739573965448",
-          "source": "知乎",
+          "title": "Anthropic接近与黑石、高盛及其他公司达成15亿美元的组建合资企业的协议，Anthropic、黑石、Hellman & Friedman各投资约3亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "巴菲特场外访谈警告股市“赌场化”：投机风气已达顶峰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095220",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "12时15分"
         },
         {
-          "title": "全红婵师妹蒋林静跳水世界杯夺冠",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B8%88%E5%A6%B9%E8%92%8B%E6%9E%97%E9%9D%99%E8%B7%B3%E6%B0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0",
-          "source": "百度热搜",
+          "title": "国家外汇局局长朱鹤新出席东盟与中日韩财长和央行行长会等系列会议",
+          "url": "https://wallstreetcn.com/livenews/3098364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
+          "url": "https://wallstreetcn.com/livenews/3098363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "港股科网股延续涨势 中芯国际涨近5%",
+          "url": "https://www.toutiao.com/trending/7635166845512089646/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "12时15分"
+        },
+        {
+          "title": "香港外汇基金第一季度投资收益345亿港元。 香港外汇基金第一季度债券投资收益246亿港元，香港股票投资亏损50亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3098355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }
