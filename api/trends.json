@@ -1,374 +1,253 @@
 {
-  "generated_at": "2026-05-09T12:02:18.769512+08:00",
+  "generated_at": "2026-05-10T12:31:17.557522+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 33,
+      "match_count": 22,
       "titles": [
         {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
+          "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
+          "url": "https://www.cls.cn/detail/2366912",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
+          "title": "中国4月原油进口量降至三年低位，大豆进口量同比大涨近40%，铝出口量创17个月高位",
+          "url": "https://wallstreetcn.com/articles/3771892",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "美国4月非农新增就业11.5万人大超预期，创两年来最大两月增长纪录，失业率维持在4.3%",
-          "url": "https://wallstreetcn.com/articles/3771861",
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
           "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
-          "url": "https://www.cls.cn/detail/2366511",
-          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "美国4月非农录得11.5万远超预期 中东战争冲击尚未波及就业市场",
-          "url": "https://www.cls.cn/detail/2366473",
-          "source": "财联社热门",
+          "title": "美联储降息理由日益枯竭，沃什接棒面临棘手局面",
+          "url": "https://wallstreetcn.com/articles/3771899",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
+          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
+          "url": "https://www.zhihu.com/question/2036716290836883357",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "“滞胀交易”席卷市场，今晚非农要多差，才能重启降息预期？",
-          "url": "https://wallstreetcn.com/articles/3771837",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
-          "url": "https://www.cls.cn/detail/2366454",
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "达利欧：美国经济正积累“致命斑块”，未来五年将迎历史性大变局",
-          "url": "https://wallstreetcn.com/articles/3771816",
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
-          "url": "https://wallstreetcn.com/articles/3771807",
+          "title": "一周展望：沃什即将接过美联储帅印，黄金静待CPI“宣判”！",
+          "url": "https://flash.jin10.com/detail/20260510112504515800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://wallstreetcn.com/articles/3771884",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "美国4月非农超预期 三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2366446",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "海关总署：中国4月天然气进口841.8万吨，3月为818.3万吨。",
-          "url": "https://flash.jin10.com/detail/20260509110026550800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "海关总署：中国1-4月天然气进口3653.5万吨。",
-          "url": "https://flash.jin10.com/detail/20260509105956344800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "海关总署：中国4月原油进口3847.1万吨，3月为4998.2万吨。",
-          "url": "https://flash.jin10.com/detail/20260509105820029800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "海关总署：中国1-4月原油进口18529.2万吨。",
-          "url": "https://flash.jin10.com/detail/20260509105750275800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "中国4月原油进口3,847.1万吨；1-4月累计原油进口18,529.2万吨，同比上升1.3%。 4月成品油出口311.9万吨；1-4月累计出口1,586.6万吨，同比下降9%。 4月成品油进口180.9万吨；1-4月累计进口1,447.7万吨，同比上升12.5%。 4月煤及褐煤进口3,308.3万吨；1-4月累计进口14,936.0万吨，同比下降2.1%。 4月天然气进口841.8万吨；1-4月累计进口3,653.5万吨，同比下降6.2%。",
-          "url": "https://wallstreetcn.com/livenews/3100999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国4月大豆进口847.8万吨；1-4月累计大豆进口2,515万吨，同比上升8.5% 4月肥料出口323.6万吨；1-4月累计出口1,139万吨，同比上升17.5%。",
-          "url": "https://wallstreetcn.com/livenews/3100998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国4月份对美国出口同比增长11.4%至367.6亿美元，自美国进口同比上升9.4%至136.9亿美元，对美国贸易顺差230.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国1-4月份以美元计价出口同比增长14.5%，进口同比增长23.6%，贸易顺差3,477亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100995",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "中国4月贸易帐(按人民币计) 5856.9亿人民币，前值 3547.5亿人民币。",
-          "url": "https://wallstreetcn.com/livenews/3100994",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+          "url": "https://www.cls.cn/detail/2367033",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国4月进口同比(按人民币计) 20.6%，前值 23.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国4月出口同比(按人民币计) 9.8%，前值 -0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3100992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "中国4月以美元计价出口同比增长14.1%， 预估为+8.4%。 中国4月以美元计价进口同比增长25.3%，预估为+20.0%。 中国4月贸易顺差848.2亿美元，预估为顺差836.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100991",
-          "source": "华尔街见闻-快讯",
+          "title": "荷兰首相：在访问加勒比地区的第一天，我受到圣马丁总理梅塞利纳的热烈欢迎。我们探讨了圣马丁的现状以及圣马丁所面临的机遇与挑战。 我们还探讨了地缘政治形势变化对这座岛屿的影响，比如油价的高涨。",
+          "url": "https://flash.jin10.com/detail/20260510101343599800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "中国4月贸易帐(按美元计) 848.2亿美元，前值 511.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100990",
-          "source": "华尔街见闻-快讯",
+          "title": "SK能源将向加油站提供补贴以应对高油价",
+          "url": "https://flash.jin10.com/detail/20260510095157067800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "球鞋暴跌耐克暴亏千亿",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%83%E9%9E%8B%E6%9A%B4%E8%B7%8C%E8%80%90%E5%85%8B%E6%9A%B4%E4%BA%8F%E5%8D%83%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "中国4月进口同比(按美元计) 25.3%，前值 27.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100989",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰抗议后以方拒绝接收，俄罗斯回应",
+          "url": "https://news.ifeng.com/c/8szuvQmquBd",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "百万英镑买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E4%B8%87%E8%8B%B1%E9%95%91%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "中国4月出口同比(按美元计) 14.1%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3100988",
-          "source": "华尔街见闻-快讯",
+          "title": "利润暴跌超90%！保时捷卖了布加迪",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%E8%B6%8590%25%EF%BC%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%96%E4%BA%86%E5%B8%83%E5%8A%A0%E8%BF%AA",
+          "source": "百度热搜",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "一季度国内黄金ETF增仓量为50.438吨，同比增长114.88%",
-          "url": "https://wallstreetcn.com/livenews/3100986",
-          "source": "华尔街见闻-快讯",
+          "title": "直播间工作人员偷走近600件黄金饰品",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E8%B5%B0%E8%BF%91600%E4%BB%B6%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81",
+          "source": "百度热搜",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "中国黄金协会：一季度黄金消费量同比增4.41%，其中金条及金币大增近五成",
-          "url": "https://wallstreetcn.com/livenews/3100984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "巴尔韦德与琼阿梅尼各罚50万欧元",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%B0%94%E9%9F%A6%E5%BE%B7%E4%B8%8E%E7%90%BC%E9%98%BF%E6%A2%85%E5%B0%BC%E5%90%84%E7%BD%9A50%E4%B8%87%E6%AC%A7%E5%85%83",
+          "title": "曼城3-0布伦特福德",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         },
         {
-          "title": "精神病院炒股 持股市值超千万",
-          "url": "https://www.douyin.com/hot/2492713",
-          "source": "抖音",
+          "title": "俄总统助理：乌克兰问题三方谈判已暂停",
+          "url": "https://wallstreetcn.com/livenews/3101070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "泽连斯基与欧洲理事会主席通话 讨论乌克兰入盟等议题",
+          "url": "https://wallstreetcn.com/livenews/3101069",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时31分"
         }
       ]
     }
