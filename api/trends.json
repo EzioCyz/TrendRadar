@@ -1,504 +1,691 @@
 {
-  "generated_at": "2026-05-13T12:27:41.392186+08:00",
+  "generated_at": "2026-05-14T12:27:03.158991+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 45,
+      "match_count": 62,
       "titles": [
         {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
+          "title": "日本金属与能源安全组织构JOGMEC：日本4月液化天然气现货合同价格为19.10美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260514121949260800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
-          "url": "https://wallstreetcn.com/articles/3772095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
+          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+          "url": "https://www.cls.cn/detail/2370687",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "印尼证券交易所主席表示，明晟公司（MSCI）的公告降低了印尼金融市场的不确定性。",
-          "url": "https://flash.jin10.com/detail/20260513120301035800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "名创优品第一季度营收初步数据56.8亿元人民币至57.3亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3102708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "泰国央行：不急于加息。",
-          "url": "https://flash.jin10.com/detail/20260513120237069800",
+          "title": "日本央行审议委员增一行：通过适当的货币政策管理通胀率，从而维持实际工资增长至关重要。",
+          "url": "https://flash.jin10.com/detail/20260514121420493800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "美国4月PPI同比飙升6% 创2022年以来最大增幅",
+          "url": "https://www.cls.cn/detail/2370553",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：如果通胀未能控制在适当水平，可能导致企业被迫进一步加薪以留住员工，从而形成恶性循环。",
+          "url": "https://flash.jin10.com/detail/20260514121342112800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "凯文·沃什获美参议院批准 将成为下一任美联储主席",
+          "url": "https://www.cls.cn/detail/2370673",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "印度卢比兑美元汇率跌破95.7950，续创历史新低。",
+          "url": "https://flash.jin10.com/detail/20260514121314053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "中美元首会谈",
+          "url": "https://www.toutiao.com/trending/7638537146568425514/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "沙特被曝3月曾对伊朗发动多次“报复性”空袭",
-          "url": "https://wallstreetcn.com/livenews/3102707",
+          "title": "日本央行审议委员增一行：尽管仍低于2%，但日本的潜在通胀率正非常接近2%的目标。 必须密切关注日元贬值引发的通胀是否会提高民众的通胀预期，并进而影响潜在通胀率。 日本央行将根据经济、物价及金融形势的变化，继续上调政策利率。 日本显然已进入通胀阶段。 至关重要的一点是确保通过及时且适当的加息，使潜在通胀率不会超过2%。 在4月的会议上，政策委员会成员对于是否立即加息持不同意见。",
+          "url": "https://wallstreetcn.com/livenews/3103414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
+          "title": "中美元首握手",
+          "url": "https://www.toutiao.com/trending/7638536386953612842/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "美国4月CPI超预期升温 通胀近3年来首次完全吞噬工资增长",
-          "url": "https://www.cls.cn/detail/2369439",
-          "source": "财联社热门",
+          "title": "中美元首握手",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "4月CPI意味着什么？“新美联储通讯社”：降息不再是2026年故事，沃什麻烦了",
-          "url": "https://wallstreetcn.com/articles/3772111",
-          "source": "华尔街见闻",
+          "title": "中美元首握手合影",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "美参议院确认凯文·沃什出任美联储理事 为主席任命铺平道路",
-          "url": "https://www.cls.cn/detail/2369561",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "铜银单日暴涨，黄金为何没跟？",
-          "url": "https://flash.jin10.com/detail/20260513120012556800",
-          "source": "金十数据",
+          "title": "如何看券商新增即时平仓线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%88%B8%E5%95%86%E6%96%B0%E5%A2%9E%E5%8D%B3%E6%97%B6%E5%B9%B3%E4%BB%93%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
-          "source": "华尔街见闻",
+          "title": "卢比暴跌,莫迪喊你少吃肉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354267&amp;topic_name=%E5%8D%A2%E6%AF%94%E6%9A%B4%E8%B7%8C%2C%E8%8E%AB%E8%BF%AA%E5%96%8A%E4%BD%A0%E5%B0%91%E5%90%83%E8%82%89",
+          "source": "贴吧",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
-          "url": "https://www.cls.cn/detail/2369664",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "投资者在担心什么？美股芯片板块集体回调 市场静待英伟达财报定方向",
-          "url": "https://www.cls.cn/detail/2369669",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "日本20年期国债收益率升至3.511%，为1996年以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260513115935807800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "印度政府上调黄金和白银的进口关税 美参议院确认沃什出任美联储理事 | 环球市场",
-          "url": "https://www.cls.cn/detail/2369615",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "金十图示：2026年05月13日（周三）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260513115930613800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
-          "url": "https://www.zhihu.com/question/2037578815958947124",
+          "title": "在已收割玉米地放羊，50 只羊吃了地里毒玉米后接连死亡，这种情况田主有责任吗？羊主能在他人地里放牧吗？",
+          "url": "https://www.zhihu.com/question/2037476194132517128",
           "source": "知乎",
           "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "日本央行审议委员增一行：我认为日本央行需要进一步提高政策利率，以确保其稳固地落在中性利率的预估范围内。",
+          "url": "https://flash.jin10.com/detail/20260514121258556800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：需密切关注疲软日元是否影响基础通胀。",
+          "url": "https://flash.jin10.com/detail/20260514121239051800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "美国4月PPI飙升至2022年来最高，能源成本单月暴涨7.8%，加息押注升温",
+          "url": "https://wallstreetcn.com/articles/3772201",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：由于政策利率目前已接近预估的中性水平，日本央行在考虑进一步加息时，需要更全面地审视价格、就业和金融状况等因素。",
+          "url": "https://flash.jin10.com/detail/20260514121234049800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：鉴于日本已不再处于通缩时期，负实际利率应尽快得到解决。",
+          "url": "https://flash.jin10.com/detail/20260514121114869800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "“加息噩梦”近了？美联储“昔日鸽派”：通胀走向错误，与关税、石油无关！",
-          "url": "https://www.cls.cn/detail/2369809",
+          "title": "芯片股上演大反攻！“股王”英伟达再创历史：市值站上5.5万亿美元",
+          "url": "https://www.cls.cn/detail/2370764",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "金十图示：2026年05月13日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260513115928349800",
+          "title": "日本央行审议委员增一行：从长期来看，食品价格总体上是未来通胀的关键决定因素。",
+          "url": "https://flash.jin10.com/detail/20260514121105470800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "Anthropic据悉寻求300亿美元融资 投前估值超9000亿美元",
-          "url": "https://www.cls.cn/detail/2369594",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "通胀未来仍有反弹惯性，美联储降息计划将继续搁置",
-          "url": "https://flash.jin10.com/detail/20260513115820009800",
+          "title": "离岸人民币同业拆息利率多数持稳，一周和两周期拆息小跌至逾一周低点",
+          "url": "https://flash.jin10.com/detail/20260514121046733800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "中国财政部发行91天期债券，规模300亿元，发行利率0.0000%，边际利率0.9770%，预期1.0000%，投标倍数3.45倍，边际倍数4.20倍； 中国财政部发行1年期债券，规模1700亿元，发行利率1.1582%，边际利率1.1875%，预期1.1300%，投标倍数2.43倍，边际倍数1.57倍； 中国财政部发行20年期债券，规模340亿元，发行利率2.2496%，预期2.2500%，投标倍数4.86倍，边际倍数1.18倍。",
-          "url": "https://wallstreetcn.com/livenews/3102694",
-          "source": "华尔街见闻-快讯",
+          "title": "英国央行副行长布里登：最初的稳定币计划可能过于保守，央行正在非常努力地研究替代方案。",
+          "url": "https://flash.jin10.com/detail/20260514121035250800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
-          "url": "https://www.cls.cn/detail/2369513",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "韦德布什：将甲骨文(ORCL.N)目标价从225美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20260513115602486800",
+          "title": "霍尔木兹封锁75天后，油价为何涨不起来了？",
+          "url": "https://flash.jin10.com/detail/20260514120938651800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "印度白银ETF同步上涨，涨幅在5.3%-6.1%不等。",
-          "url": "https://flash.jin10.com/detail/20260513115255435800",
+          "title": "日本央行审议委员增一行：伊朗战争引发的能源冲击对日本经济的影响可能比1973年的第一次石油危机更为严重，这一风险值得关注。",
+          "url": "https://flash.jin10.com/detail/20260514120928959800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "恒生科技指数转涨，此前一度跌超1%。京东集团涨超6%，美团涨4%。 香港恒生指数转涨，此前跌约0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3102690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "如何看待 2026 年 5 月 12 日《给阿嬷的情书》总票房预测值大幅飙升至 7.29 亿人民币？",
-          "url": "https://www.zhihu.com/question/2037661800808895288",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "印度卢比兑美元保持稳定，印度黄金、白银期货上涨6%，此前印度上调黄金白银进口关税。",
-          "url": "https://wallstreetcn.com/livenews/3102687",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行审议委员增一行：考虑到这一趋势，我行将确定资产负债表的适当规模。",
+          "url": "https://flash.jin10.com/detail/20260514120858527800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "印度黄金ETF走强，上涨5.5%-6.2%不等。",
-          "url": "https://flash.jin10.com/detail/20260513115108425800",
+          "title": "日本央行审议委员增一行：2008年全球金融危机后，全球金融机构的流动性监管趋严，中央银行储备的需求也在不断变化。",
+          "url": "https://flash.jin10.com/detail/20260514120839050800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "上证指数早盘收报4218.22点，涨0.09%。 深证成指早盘收报15881.76点，涨0.36%。 创业板指早盘收报3946.79点，涨0.30%。 沪深300早盘收报4948.23点，涨0.00%。 科创50早盘收报1729.89点，涨0.35%。 中证500早盘收报8830.30点，涨0.50%。 中证1000早盘收报8885.08点，涨0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3102685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "CPI爆表金价却跌？这一次，市场选择了...",
-          "url": "https://flash.jin10.com/detail/20260513114951262800",
+          "title": "日本央行审议委员增一行：这并不一定意味着资产负债表应减少到实施量化质化宽松之前的水平。",
+          "url": "https://flash.jin10.com/detail/20260514120827759800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "5月13日午间收评：创业板指低开高走涨0.3%，绿电、算力概念股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3102684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.04%，10年期主力合约涨0.06%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3102682",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行审议委员增一行：日本央行在2027年3月后需要严格审查其日本国债购买的节奏，同时关注市场状况。",
+          "url": "https://flash.jin10.com/detail/20260514120810224800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "山西一农户50只羊吃邻村地里毒玉米死亡，村干部：毒玉米可能是用来防野猪损害庄稼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33164256",
-          "source": "澎湃新闻",
+          "title": "日本央行审议委员增一行：更高的分销成本、运输费用上涨以及进口肥料价格可能导致食品价格上涨，可能造成持久而非暂时的冲击。",
+          "url": "https://flash.jin10.com/detail/20260514120749230800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "新西兰二季度2年通胀预期 2.53%，前值 2.37%。",
-          "url": "https://wallstreetcn.com/livenews/3102675",
-          "source": "华尔街见闻-快讯",
+          "title": "英国央行副行长布里登：我们热衷于建立一个稳定币能够成功运行并为用户带来好处的机制。",
+          "url": "https://flash.jin10.com/detail/20260514120722867800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "港股午评：恒生指数涨0.34% 恒生科技指数涨0.3%",
+          "url": "https://flash.jin10.com/detail/20260514120719951800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：燃油价格上涨可能只是暂时冲击，但令人担忧的是，这可能进一步加速日本日益增加的分配成本。",
+          "url": "https://flash.jin10.com/detail/20260514120704492800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "OECD激进预判：2027年底前日本央行将加息至2%",
-          "url": "https://flash.jin10.com/detail/20260513113647196800",
+          "title": "美元兑日元USD/JPY短线一度下跌近40点至157.74，现报157.98。",
+          "url": "https://flash.jin10.com/detail/20260514120650817800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "印尼金融监管机构表示，股市近期走弱是当前市场环境下的预期结果。",
-          "url": "https://flash.jin10.com/detail/20260513113623043800",
+          "title": "日本央行审议委员增一行：话虽如此，如果数据没有显示出明显的经济下行迹象，我认为应尽可能在最早阶段提高政策利率。",
+          "url": "https://flash.jin10.com/detail/20260514120539856800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "A股午评：创业板指涨0.3% 电力板块活跃",
-          "url": "https://flash.jin10.com/detail/20260513113548364800",
+          "title": "日本央行审议委员增一行：我在四月的货币政策会议上判断，当前形势不支持急于加息。",
+          "url": "https://flash.jin10.com/detail/20260514120443133800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "泡泡玛特：国际油价及航运市场波动较大 对海外业务毛利率造成影响",
-          "url": "https://wallstreetcn.com/livenews/3102668",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行审议委员增一行：在四月会议上，政策委员会成员对是否立即提高政策利率存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260514120433961800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "印度白银期货价格跃升6%。",
-          "url": "https://flash.jin10.com/detail/20260513113247712800",
+          "title": "日本央行审议委员增一行：今后至关重要的是，通过及时和适当的政策利率上调，确保潜在通胀率不超过2%。",
+          "url": "https://flash.jin10.com/detail/20260514120425009800",
           "source": "金十数据",
           "ranks": [
-            29
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "A股PCB概念股震荡拉升，生益科技触及涨停，大族激光此前封板，股价均续创历史新高，本川智能、鹏鼎控股、大族数控、宏昌电子等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3102666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "印度黄金期货价格跃升6%，此前印度政府提高黄金进口关税。",
-          "url": "https://flash.jin10.com/detail/20260513113150315800",
+          "title": "日本央行审议委员增一行：日本明显已进入通胀阶段。",
+          "url": "https://flash.jin10.com/detail/20260514120352647800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "中国财政部发行63天期债券，规模200亿元，发行利率0.9146%，边际利率0.9633%，预期1.0000%，投标倍数3.68倍，边际倍数4.22倍； 中国财政部发行7年期债券，规模1310亿元，发行利率1.5862%，边际利率1.6089%，预期1.6100%，投标倍数2.88倍，边际倍数9.65倍； 中国财政部发行10年期债券，规模900亿元，发行利率1.7200%，边际利率1.7400%，预期1.7400%，投标倍数3.90倍，边际倍数4.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3103404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
         {
-          "title": "进出口行发行2年期债券，规模20亿元，发行利率1.4092%，预期1.4000%，投标倍数7.25倍，边际倍数1.29倍； 进出口行发行3年期债券，规模40亿元，发行利率1.3971%，预期1.3900%，投标倍数4.08倍，边际倍数1.10倍。",
-          "url": "https://wallstreetcn.com/livenews/3102664",
+          "title": "中美元首握手",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "马斯克黄仁勋等进入中美元首会谈现场",
+          "url": "https://www.toutiao.com/trending/7639587297951780379/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "这7个普通地市人均GDP超20万",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%997%E4%B8%AA%E6%99%AE%E9%80%9A%E5%9C%B0%E5%B8%82%E4%BA%BA%E5%9D%87GDP%E8%B6%8520%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "十余名美商界代表进入中美元首会谈现场",
+          "url": "https://wallstreetcn.com/livenews/3103396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "中美元首合影",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%88%E5%BD%B1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "上证指数早盘收报4199.19点，跌1.02%。 深证成指早盘收报15831.83点，跌1.60%。 创业板指早盘收报3960.51点，跌1.93%。 沪深300早盘收报4933.13点，跌1.30%。 科创50早盘收报1742.63点，跌1.55%。 中证500早盘收报8752.48点，跌1.86%。 中证1000早盘收报8835.06点，跌1.34%。",
+          "url": "https://wallstreetcn.com/livenews/3103395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "5月14日午间收评：创业板指半日跌近2%，全市场下跌个股超4300只",
+          "url": "https://wallstreetcn.com/livenews/3103394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.09%，10年期主力合约与昨日持平，5年期主力合约涨0.00%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3103392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "恒生科技指数转跌，开盘一度涨超3%。恒生指数涨幅收窄至0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3103387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
+          "url": "https://www.zhihu.com/question/2037920346959868531",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "参加中美元首会谈的美方代表都有谁",
+          "url": "https://www.toutiao.com/trending/7638727148517982235/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "美商界代表进入中美元首会谈现场",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E8%BF%9B%E5%85%A5%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "进出口行发行66月期债券，规模40亿元，发行利率1.5533%，预期1.5600%，投标倍数6.13倍，边际倍数1.02倍； 进出口行发行1年期债券，规模100亿元，发行利率1.2886%，预期1.2800%，投标倍数5.16倍，边际倍数3.74倍。",
+          "url": "https://wallstreetcn.com/livenews/3103386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "参加中美元首会谈的美方代表有哪些",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E6%9C%89%E5%93%AA%E4%BA%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "中金：看好A股市场延续震荡上行趋势",
+          "url": "https://www.toutiao.com/trending/7638878420365590582/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌近1%，深成指跌1.6%，锂矿、军工、电网设备、影视传媒等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3103371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "国开行发行3年期债券，规模100亿元，发行利率1.3493%，预期1.3500%，投标倍数3.58倍，边际倍数3.26倍； 国开行发行7年期债券，规模20亿元，发行利率1.6911%，预期1.7000%，投标倍数5.67倍，边际倍数1.29倍。",
+          "url": "https://wallstreetcn.com/livenews/3103367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "中美元首会谈的美方代表有哪些",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E6%9C%89%E5%93%AA%E4%BA%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "航运板块异动拉升，招商南油封涨停，国航远洋涨超8%，招商轮船、中远海能、海通发展、中远海特跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3103358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "A股猪肉股震荡反弹，天域生物涨停，天邦食品涨近8%，巨星农牧、海大集团、华统股份、正邦科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3103352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
