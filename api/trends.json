@@ -1,264 +1,418 @@
 {
-  "generated_at": "2026-05-17T12:36:46.560438+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-18T12:49:11.851830+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 23,
+      "match_count": 37,
       "titles": [
         {
-          "title": "中美经贸磋商初步成果公布：一定范围产品的相互降税，农产品等均将受益！中方购买美方飞机，美方保障我飞机发动机等供应！",
-          "url": "https://wallstreetcn.com/articles/3772434",
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2373180",
-          "source": "财联社热门",
+          "title": "泰国财政部长：第一季度GDP好于预期。",
+          "url": "https://flash.jin10.com/detail/20260518123719463800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
+          "url": "https://wallstreetcn.com/articles/3772441",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "上市未“满月”成为A股“新股王”，联讯仪器回应",
+          "url": "https://wallstreetcn.com/livenews/3105103",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
+        },
+        {
+          "title": "从外贸之“质”读懂中国经济之“韧”",
+          "url": "https://www.toutiao.com/trending/7640510277032607786/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "美伊局势升温推高油价，韩国股市V形反弹，亚太股市仍普遍承压，黄金跌破4500",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "全球债市“熊火”终于烧向股市！一文读懂：最危险的博弈开始了？",
+          "url": "https://www.cls.cn/detail/2373616",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "人民日报和音：从外贸之“质”读懂中国经济之“韧”",
+          "url": "https://www.cls.cn/detail/2373546",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "英国央行副行长布里登：英国央行不应急于调整利率",
+          "url": "https://flash.jin10.com/detail/20260518122105323800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260518121835727800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
+          "url": "https://wallstreetcn.com/articles/3772467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "据英国金融时报：英国央行副行长布里登表示，英国央行不应在利率问题上过于“激进”。",
+          "url": "https://flash.jin10.com/detail/20260518121732550800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
+          "url": "https://flash.jin10.com/detail/20260518120811012800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "油价和债市联手后，金价如何才能反击？",
+          "url": "https://flash.jin10.com/detail/20260518115414844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260518115403661800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260518115220937800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "290亿只是开始？专家警告：对伊战争代价或达3000亿美元！",
+          "url": "https://flash.jin10.com/detail/20260518114408874800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "交易员：印度央行可能在96.20卢比水平附近卖出美元。",
+          "url": "https://flash.jin10.com/detail/20260518113930907800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "A股午评：三大股指震荡盘整 存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260518113454558800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "印度10年期国债收益率上行5个基点至7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3105098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "印度卢比兑美元跌至96.165，为纪录新低，日内下跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3105095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "上证指数早盘收报4126.35点，跌0.22%。 深证成指早盘收报15513.13点，跌0.31%。 创业板指早盘收报3909.26点，跌0.50%。 沪深300早盘收报4826.19点，跌0.69%。 科创50早盘收报1712.79点，涨0.97%。 中证500早盘收报8554.27点，涨0.21%。 中证1000早盘收报8715.43点，涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3105094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "5月18日午间收评：创业板指冲高回落跌0.5%，存储芯片板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3105093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3105091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约跌0.03%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3105089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "打车零抽成,昆明司机收入暴涨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354352&amp;topic_name=%E6%89%93%E8%BD%A6%E9%9B%B6%E6%8A%BD%E6%88%90%2C%E6%98%86%E6%98%8E%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8",
           "source": "贴吧",
           "ranks": [
-            3
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
-          "url": "https://www.zhihu.com/question/2038931746901710643",
+          "title": "中俄贸易连续三年突破 2000 亿美元，此次普京访华可能给中俄贸易带来哪些新机遇？会利好哪些产业？",
+          "url": "https://www.zhihu.com/question/2039040286517454238",
           "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "中美经贸磋商初步成果公布，包含推动扩大包括农产品在内等领域的双向贸易等，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039080107742950084",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
-          "url": "https://wallstreetcn.com/articles/3772420",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "未来十年的“宏观图景”：前5年“通胀持续”，后5年“超级通缩”？",
-          "url": "https://wallstreetcn.com/articles/3772433",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "据CNBC：爱沙尼亚国防部长警告称，欧洲国防产品价格已上涨逾50%，这使北约重新武装以及对乌克兰紧急提供援助以对抗俄罗斯的工作变得更加复杂。",
-          "url": "https://flash.jin10.com/detail/20260517113353799800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "中美元首会晤，这些细节值得关注",
-          "url": "https://www.cls.cn/detail/2373062",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "郑丽文回应中美元首会晤",
-          "url": "https://www.toutiao.com/trending/7639251243563302953/",
-          "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "美联储新主席上任有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E6%96%B0%E4%B8%BB%E5%B8%AD%E4%B8%8A%E4%BB%BB%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "光力科技：长期来看公司半导体业务毛利率将会得到提升",
-          "url": "https://flash.jin10.com/detail/20260517111027885800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
-          "url": "https://wallstreetcn.com/livenews/3104824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
-          "url": "https://wallstreetcn.com/livenews/3104817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
-          "url": "https://wallstreetcn.com/livenews/3104815",
-          "source": "华尔街见闻-快讯",
+          "title": "联讯仪器反超茅台成为A股“新股王”",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E8%AE%AF%E4%BB%AA%E5%99%A8%E5%8F%8D%E8%B6%85%E8%8C%85%E5%8F%B0%E6%88%90%E4%B8%BAA%E8%82%A1%E2%80%9C%E6%96%B0%E8%82%A1%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "珠宝行业：印度白银进口新政将导致本土市场供应吃紧",
-          "url": "https://wallstreetcn.com/livenews/3104821",
-          "source": "华尔街见闻-快讯",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260517104541794800",
-          "source": "金十数据",
+          "title": "微观察·中美元首北京会晤丨历史性的一页，要用历史的长镜头去端详",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192111",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "印度限制绝大部分白银进口以缩减进口账单，从而支撑卢比",
-          "url": "https://wallstreetcn.com/livenews/3104808",
+          "title": "榴莲价格大跳水",
+          "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "韩国股市开盘闪崩，瞬间暴跌 350 点，启动熔断机制，背后原因是什么？应如何理解其市场信号？",
+          "url": "https://www.zhihu.com/question/2039630692439384740",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "印尼10年期国债收益率上行13个基点至6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         },
         {
-          "title": "媒体人：巨力索具暴涨神话崩塌",
-          "url": "https://www.toutiao.com/trending/7640516241257401910/",
+          "title": "中国央行700亿元人民币1个月国库现金定期存款中标利率1.68%。",
+          "url": "https://wallstreetcn.com/livenews/3105067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "机构：A股将再起夏季攻势行情",
+          "url": "https://www.toutiao.com/trending/7640642770335547419/",
           "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "12时49分"
         }
       ]
     }
