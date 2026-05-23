@@ -1,385 +1,286 @@
 {
-  "generated_at": "2026-05-22T12:41:40.026498+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-23T12:13:18.325271+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 34,
+      "match_count": 25,
       "titles": [
         {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
+          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
+          "url": "https://wallstreetcn.com/articles/3772917",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
-          "url": "https://www.cls.cn/detail/2378280",
+          "title": "盘前暴跌，老虎、富途、长桥的处罚终是落地了，始末回顾",
+          "url": "https://www.cls.cn/detail/2379178",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
-          "url": "https://flash.jin10.com/detail/20260522121130127800",
-          "source": "金十数据",
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "C罗夺得沙特联赛冠军",
-          "url": "https://search.bilibili.com/all?keyword=C%E7%BD%97%E5%A4%BA%E5%BE%97%E6%B2%99%E7%89%B9%E8%81%94%E8%B5%9B%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
+          "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
+          "url": "https://www.cls.cn/detail/2379432",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "据英国金融时报：摩根大通(JPM.N)正寻求减持40亿美元的私募股权相关贷款风险敞口。",
-          "url": "https://flash.jin10.com/detail/20260522120740338800",
+          "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
+          "url": "https://wallstreetcn.com/articles/3772942",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
+          "url": "https://www.cls.cn/detail/2379634",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "债市失锚！市场为何替美联储加息？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260523111840255800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
+          "title": "富途：完成约1.6亿美元美国存托股份回购",
+          "url": "https://wallstreetcn.com/livenews/3108306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
-          "url": "https://flash.jin10.com/detail/20260522120616602800",
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "富途：完成约1.6亿美元美国存托股份回购",
+          "url": "https://flash.jin10.com/detail/20260523111148070800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "花旗财富CIO：黄金在投资组合中分散风险的作用日益凸显",
-          "url": "https://wallstreetcn.com/livenews/3107782",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://www.cls.cn/detail/2379666",
+          "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "美国加息概率冲上52%，谁会先跌为敬？",
-          "url": "https://flash.jin10.com/detail/20260522120209260800",
-          "source": "金十数据",
+          "title": "美联储理事沃勒放鹰，称未来加息与降息“五五开”，市场预计年底加息",
+          "url": "https://wallstreetcn.com/articles/3772945",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "今晚，美联储正式换帅，“沃什时代”来了！",
+          "url": "https://wallstreetcn.com/articles/3772906",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "摩根大通寻求剥离40亿美元私募股权相关贷款敞口。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3107778",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "“加息噩梦”渐近？巴尔金：现在还不用，美联储或对油价飙升“视而不见”！",
-          "url": "https://www.cls.cn/detail/2378544",
+          "title": "“大鸽派”沃勒倒戈！美联储风向突变 加息概率骤然飙升",
+          "url": "https://www.cls.cn/detail/2379600",
           "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "C罗捧起沙特联赛冠军奖杯",
-          "url": "https://www.douyin.com/hot/2507626",
-          "source": "抖音",
+          "title": "沙特媒体称获悉美伊协议草案 内容包括在所有战线实现停火",
+          "url": "https://wallstreetcn.com/articles/3772931",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "中国财政部发行3年期债券，规模1700亿元，发行利率1.2600%，边际利率1.2900%，预期1.2900%，投标倍数2.10倍，边际倍数1.68倍； 中国财政部发行5年期债券，规模1500亿元，发行利率1.4197%，边际利率1.4389%，预期1.4400%，投标倍数2.80倍，边际倍数3.02倍。",
-          "url": "https://wallstreetcn.com/livenews/3107773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260522115211451800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3107770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260522115205019800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3107769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "沙特联利雅得 4-1 战胜达马克夺冠，C 罗首次夺得沙特联冠军，如何评价这场比赛及 C 罗表现？",
-          "url": "https://www.zhihu.com/question/2040802705124348384",
+          "title": "C 罗随利雅得胜利夺得沙特联赛冠军，这对他职业生涯有何意义？",
+          "url": "https://www.zhihu.com/question/2041073671389835414",
           "source": "知乎",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "5月22日午间收评：创业板指半日涨近2%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3107768",
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约与昨日持平，10年期主力合约跌0.05%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3107766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "美正研拟暂停对台140亿美元军售计划",
-          "url": "https://www.toutiao.com/trending/7642326208918945846/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "电视剧《主角》里的“黄金配角”",
-          "url": "https://www.toutiao.com/trending/7642276125415358500/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "进出口行发行3年期债券，规模60亿元，发行利率1.4459%，预期1.4500%，投标倍数4.39倍，边际倍数14.41倍。",
-          "url": "https://wallstreetcn.com/livenews/3107759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "野村证券预计美联储将在2026年维持利率不变，此前预测今年9月和12月将降息。",
-          "url": "https://flash.jin10.com/detail/20260522113515433800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "百万英镑但是来找茬",
-          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E4%B8%87%E8%8B%B1%E9%95%91%E4%BD%86%E6%98%AF%E6%9D%A5%E6%89%BE%E8%8C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "离岸人民币同业拆息利率多数上行，一年期拆息创两周新高",
-          "url": "https://flash.jin10.com/detail/20260522113510890800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "韩国投资者抄底A股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%8A%84%E5%BA%95A%E8%82%A1%23&t=31&band_rank=24&Refer=top",
+          "title": "美联储预期加息25个基点",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E9%A2%84%E6%9C%9F%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "A股午评：创业板指高开高走收涨1.91% 算力硬件方向集体爆发",
-          "url": "https://flash.jin10.com/detail/20260522113451966800",
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "欧洲央行加息预期升温，但美元利差“护城河”依然宽阔",
-          "url": "https://flash.jin10.com/detail/20260522113420421800",
-          "source": "金十数据",
+          "title": "印度将汽油价格上调0.9%，将柴油价格上调1.0%。",
+          "url": "https://wallstreetcn.com/livenews/3108280",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "日本财务大臣暗示补充预算规模约190亿美元",
-          "url": "https://flash.jin10.com/detail/20260522113304668800",
-          "source": "金十数据",
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "联想集团暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         },
         {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260522113110169800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "A股绿电概念异动拉升，晋控电力直线涨停，天富能源、京能电力、协鑫能科、京能热力、杭州热电涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3107739",
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260522113106021800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "12时13分"
         }
       ]
     }
