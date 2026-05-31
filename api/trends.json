@@ -1,187 +1,154 @@
 {
-  "generated_at": "2026-05-30T12:31:52.627458+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-31T12:57:59.611533+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 16,
+      "match_count": 13,
       "titles": [
         {
-          "title": "标普九周连涨、创2023年底最长，原油创六年来最大月跌幅，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3773437",
+          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773500",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
-          "url": "https://wallstreetcn.com/articles/3773412",
+          "title": "美伊协议“预期”砸崩油价，这家投行警告“市场跟现实严重脱节”：6-8月会有严峻压力",
+          "url": "https://wallstreetcn.com/articles/3773489",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "海峡还没通航油价先跌10%，多头在怕什么？",
-          "url": "https://flash.jin10.com/detail/20260530120116231800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "三星、SK海力士暴涨“撑爆”持仓红线：基金被迫抛售，韩股外资创纪录流出",
-          "url": "https://wallstreetcn.com/articles/3773445",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "油价回落为何金价没有大涨？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260530113517975800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "日元沦为全球最弱货币",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354718&amp;topic_name=%E6%97%A5%E5%85%83%E6%B2%A6%E4%B8%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B1%E8%B4%A7%E5%B8%81",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "存储器价格暴涨近1000%",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E8%BF%911000%25",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
+          "url": "https://www.cls.cn/detail/2386240",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "如何看待法拉利首款电车引发争议，股价暴跌 8%？",
+          "url": "https://www.zhihu.com/question/2043051538101318224",
+          "source": "知乎",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "“华尔街先知”Yardeni：标普与黄金将在2030年同步迈向10000大关",
-          "url": "https://wallstreetcn.com/articles/3773452",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "科技股究竟因何调整？四大原因讨论最多",
-          "url": "https://www.cls.cn/detail/2385809",
-          "source": "财联社热门",
+          "title": "海峡还没通航油价先跌10%，多头在怕什么？",
+          "url": "https://flash.jin10.com/detail/20260531120903744800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "加沙物价飞涨：1公斤西红柿5美元，1公斤辣椒15美元",
-          "url": "https://news.ifeng.com/c/8tXnVsra0a1",
-          "source": "凤凰网",
+          "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
+          "url": "https://www.zhihu.com/question/2043976799139492397",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260531120430838800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
+          "title": "日元沦为全球最弱货币",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354718&amp;topic_name=%E6%97%A5%E5%85%83%E6%B2%A6%E4%B8%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B1%E8%B4%A7%E5%B8%81",
+          "source": "贴吧",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "京东黄金手链92折",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%BB%84%E9%87%91%E6%89%8B%E9%93%BE92%E6%8A%98%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "菲律宾央行：5月年通胀率可能在7.1%至7.9%之间。",
-          "url": "https://flash.jin10.com/detail/20260530100757224800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "MiniMax启动A股IPO辅导备案",
-          "url": "https://wallstreetcn.com/livenews/3111690",
+          "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
+          "url": "https://wallstreetcn.com/livenews/3111836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         },
         {
-          "title": "科技股调整原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E8%82%A1%E8%B0%83%E6%95%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "万亿美元大市场！又一赛道火了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%B8%82%E5%9C%BA%EF%BC%81%E5%8F%88%E4%B8%80%E8%B5%9B%E9%81%93%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "12时57分"
         }
       ]
     }
