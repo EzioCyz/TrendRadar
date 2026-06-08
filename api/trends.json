@@ -1,275 +1,462 @@
 {
-  "generated_at": "2026-06-07T13:02:05.970408+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-08T13:09:58.772259+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 24,
+      "match_count": 41,
       "titles": [
         {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
-          "url": "https://wallstreetcn.com/articles/3774030",
-          "source": "华尔街见闻",
+          "title": "集邦咨询：预估2027年全球卫星产业产值将达4470亿美元 年增长率达14%",
+          "url": "https://flash.jin10.com/detail/20260608123433231800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
+          "title": "国际油价日内涨超4%。据媒体报道，以色列在新一轮袭击中打击伊朗石化设施。",
+          "url": "https://wallstreetcn.com/livenews/3115861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "韩国总统李在明： 我认为韩国股市目前仍被低估",
+          "url": "https://wallstreetcn.com/articles/3774067",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "伊战已打100天了，为何油价没有飞天，后续还会不会飞天？",
-          "url": "https://wallstreetcn.com/articles/3774028",
+          "title": "黄仁勋“紧急救场”叠加韩总统“喊话”，韩股V形大反弹，Kospi指数跌幅收窄至4%",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2392448",
-          "source": "财联社热门",
+          "title": "业内：A股再度迎来4000点关口考验",
+          "url": "https://www.toutiao.com/trending/7648816183089397766/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "美联储“喉舌”：从“三次降息”到“重启加息” 沃什首次议息会议便遭遇空前考验",
-          "url": "https://www.cls.cn/detail/2392722",
-          "source": "财联社热门",
+          "title": "日本40年期国债收益率上行4.5个基点至3.80%。",
+          "url": "https://wallstreetcn.com/livenews/3115857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
+          "url": "https://wallstreetcn.com/articles/3774033",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "非农只是导火索：风险资产大跌背后的去杠杆链条",
-          "url": "https://wallstreetcn.com/premium/articles/3774023?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "科技股暴跌怎么办？黄仁勋：买入！高盛看好韩国股市反弹",
+          "url": "https://flash.jin10.com/detail/20260608122419716800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
-          "url": "https://www.cls.cn/detail/2392300",
+          "title": "韩股开盘即熔断！全球抛售风险叠加高杠杆正放大波动",
+          "url": "https://www.cls.cn/detail/2393128",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
-          "url": "https://www.cls.cn/detail/2392464",
-          "source": "财联社热门",
+          "title": "分析师：科技股回调属健康修正，但杠杆平仓与通胀数据构成短期扰动",
+          "url": "https://flash.jin10.com/detail/20260608122318485800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2526841",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "华侨银行：科技股大幅回调表明市场在异常上涨后必定迎来波动",
+          "url": "https://flash.jin10.com/detail/20260608121945108800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "一周展望：美国CPI携手两大央行决议，SpaceX IPO重磅来袭",
-          "url": "https://flash.jin10.com/detail/20260607111947400800",
+          "title": "法兴银行：当前市场对科技股业绩极度敏感",
+          "url": "https://flash.jin10.com/detail/20260608121646701800",
           "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "6月8日投资避雷针：上周五纳指重挫逾4% 科技股大幅回调",
+          "url": "https://www.cls.cn/detail/2393073",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "舜宇光学科技（集团）考虑发行约30亿元人民币的点心债，这家港股上市公司计划最早于本月内推介这只5年期债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3115850",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "金十图示：2026年06月07日（周日）中国黄金及外汇储备",
-          "url": "https://flash.jin10.com/detail/20260607102642433800",
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "业内：A股市场结构性矛盾初步缓和",
+          "url": "https://www.toutiao.com/trending/7648464874117038116/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "策略师：预期过高导致亚洲科技股回调 行业拐点并未到来",
+          "url": "https://flash.jin10.com/detail/20260608120930095800",
           "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "马来西亚林吉特兑美元跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3115845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "乌克兰扎波罗热地区报告俄方袭击造成5人死亡，14人受伤。",
+          "url": "https://flash.jin10.com/detail/20260608120616481800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "港股午评：恒指收跌1.18%，PCB概念走强",
+          "url": "https://flash.jin10.com/detail/20260608120533629800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "印尼债券跌幅扩大，10年期国债收益率大幅上行逾30个基点。",
+          "url": "https://wallstreetcn.com/livenews/3115841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本10年期国债收益率上行5个基点至2.715%。",
+          "url": "https://wallstreetcn.com/livenews/3115840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "国家外汇管理局公布2026年5月末外汇储备规模数据",
-          "url": "https://flash.jin10.com/detail/20260607100952299800",
-          "source": "金十数据",
+          "title": "A股三次大牛市带来哪些启示",
+          "url": "https://www.toutiao.com/trending/7648853706955296292/",
+          "source": "今日头条",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "中国5月外汇储备 34422.4亿美元，预期34110亿美元，前值34105.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260607100305376800",
+          "title": "6月预警：三方“抢钱”，真正危险的不是美联储！",
+          "url": "https://flash.jin10.com/detail/20260608120219302800",
           "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "韩国总统李在明：目前的韩元汇率水平不正常，这只是暂时的现象。",
+          "url": "https://wallstreetcn.com/livenews/3115837",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://flash.jin10.com/detail/20260607100117805800",
+          "title": "从基金角度看CBOT大豆后市：COT指数能否顺利离开超买区间？",
+          "url": "https://flash.jin10.com/detail/20260608120011129800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
-          "title": "国家外汇管理局公布2026年5月末外汇储备规模数据",
-          "url": "https://wallstreetcn.com/livenews/3115514",
+          "title": "高盛称韩股在经历“吓人”的回档后会反弹",
+          "url": "https://wallstreetcn.com/livenews/3115834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "13时09分"
         },
         {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3115513",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月08日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260608115327467800",
+          "source": "金十数据",
           "ranks": [
-            7
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "13时09分"
         },
         {
-          "title": "中国5月外汇储备 34422.4亿美元，前值 34105.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "北约酝酿700亿欧元对乌新支持计划",
-          "url": "https://wallstreetcn.com/livenews/3115511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "总决赛 G3 尼克斯主场最低票价已超过 8200 美元，为什么尼克斯主场门票可以卖到这么贵？",
-          "url": "https://www.zhihu.com/question/2046166862464078881",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
-          "url": "https://wallstreetcn.com/livenews/3115489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "美联储巴尔警告：放宽华尔街银行规则伴随重大风险",
-          "url": "https://wallstreetcn.com/livenews/3115485",
+          "title": "上证指数早盘收报3976.83点，跌1.26%。 深证成指早盘收报14933.82点，跌2.49%。 创业板指早盘收报3845.78点，跌2.83%。 沪深300早盘收报4737.50点，跌1.65%。 科创50早盘收报1607.78点，跌3.63%。 中证500早盘收报8033.72点，跌2.64%。 中证1000早盘收报8135.59点，跌2.46%。",
+          "url": "https://wallstreetcn.com/livenews/3115831",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "13时09分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260608115310808800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "6月8日午间收评：深成指、创业板指均跌超2%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3115830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本10年期国债收益率延续涨势，上涨5个基点至2.715%。",
+          "url": "https://flash.jin10.com/detail/20260608115253909800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.09%，10年期主力合约跌0.06%，5年期主力合约跌0.07%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3115828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     }
