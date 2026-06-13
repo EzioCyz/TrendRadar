@@ -1,396 +1,187 @@
 {
-  "generated_at": "2026-06-12T13:12:45.390319+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-13T12:56:52.643538+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 35,
+      "match_count": 16,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
+          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "欧洲央行管委内格尔：我们已为7月保留了所有选择，一旦需要，我们将随时准备再次作出回应。由于高能源价格对其他价格的间接影响日益加剧，加息是必要的。",
-          "url": "https://flash.jin10.com/detail/20260612130029709800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "科威特下调7月销往亚洲的原油价格",
-          "url": "https://flash.jin10.com/detail/20260612125950723800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：若有必要，欧洲央行准备在7月再次加息。 通胀前景恶化。 下次会议保留所有选项。",
-          "url": "https://wallstreetcn.com/livenews/3118591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
+          "title": "SK海力士、三星、台积电同时被限！华尔街大行限制对冲基金对亚洲芯片股的杠杆押注",
+          "url": "https://wallstreetcn.com/articles/3774508",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "据港交所文件：江苏贝尔家居科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260612125924178800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "定价文件显示，科威特大幅下调7月对亚洲的原油售价。",
-          "url": "https://flash.jin10.com/detail/20260612125241303800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "铁的熔点是 1540℃，为什么中国古代炉温大于 1200℃就可以用来将铁矿石化为铁水来炼铁了？",
-          "url": "https://www.zhihu.com/question/663409412",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "女子买黄金从赚30万到亏近20万",
-          "url": "https://www.toutiao.com/trending/7650170784305053759/",
-          "source": "今日头条",
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "四年来首次入熊，黄金背刺了所有相信它的人",
-          "url": "https://wallstreetcn.com/articles/3774419",
-          "source": "华尔街见闻",
+          "title": "CME突改周末规则，推动黄金更易反转？",
+          "url": "https://flash.jin10.com/detail/20260613120116932800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "美国5月PPI同比6.5%，创逾三年最大涨幅，核心PPI意外放缓至4.9%",
-          "url": "https://wallstreetcn.com/articles/3774440",
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
           "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
-          "url": "https://www.cls.cn/detail/2397705",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "黄金看空情绪升温！交易员押注未来两年将再跌40%",
-          "url": "https://wallstreetcn.com/articles/3774379",
+          "title": "美国资管巨头申报多个中国股票杠杆ETF，包括中际旭创、新易盛、天孚通信等",
+          "url": "https://wallstreetcn.com/livenews/3119116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3774506",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "深圳水贝金饰克价下探至1060元、北京投资金柜台前排长队，黄金市场销量回升",
-          "url": "https://wallstreetcn.com/livenews/3118580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "中际旭创两倍做多产品已在募集阶段",
-          "url": "https://wallstreetcn.com/livenews/3118579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "黄金4000、白银60：这两道“心理防线”破了会怎样？",
-          "url": "https://flash.jin10.com/detail/20260612123152016800",
-          "source": "金十数据",
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
-          "url": "https://www.zhihu.com/question/2048672745810916944",
-          "source": "知乎",
+          "title": "美国宣布向波兰提供40亿美元军事贷款",
+          "url": "https://flash.jin10.com/detail/20260613100814860800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260613095629145800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "美国市场两倍做多中际旭创的产品处于募集阶段，预计两个月后上市",
-          "url": "https://flash.jin10.com/detail/20260612123008674800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "欧洲央行管委Dolenc：即使海峡开放，战争的影响也将持续更长时间。",
-          "url": "https://wallstreetcn.com/livenews/3118572",
+          "title": "美国商品期货交易委员会（CFTC）正考虑否决芝加哥商业交易所（CME）推出全天候原油合约的申请。",
+          "url": "https://wallstreetcn.com/livenews/3119104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "黄金盗窃案2主犯都是高学历赌徒",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%9B%97%E7%AA%83%E6%A1%882%E4%B8%BB%E7%8A%AF%E9%83%BD%E6%98%AF%E9%AB%98%E5%AD%A6%E5%8E%86%E8%B5%8C%E5%BE%92",
-          "source": "百度热搜",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "二手燃油车价格大跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=20&Refer=top",
+          "title": "黄金上涨原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         },
         {
-          "title": "澳新银行：将年末黄金价格预测从每盎司5600美元下调至5200美元，以反映近期价格变动。",
-          "url": "https://flash.jin10.com/detail/20260612121550951800",
-          "source": "金十数据",
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "车贷年利率近18% 为何畸高",
-          "url": "https://www.toutiao.com/trending/7650278039506387007/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "中国财政部发行7年期债券，规模1500亿元，发行利率1.5600%，边际利率1.5900%，预期1.5800%，投标倍数3.17倍，边际倍数6.72倍。",
-          "url": "https://wallstreetcn.com/livenews/3118566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "大厂经理为还赌债偷2700万黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8E%82%E7%BB%8F%E7%90%86%E4%B8%BA%E8%BF%98%E8%B5%8C%E5%80%BA%E5%81%B72700%E4%B8%87%E9%BB%84%E9%87%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "印度愿意让财政赤字扩大至GDP的4.8%。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3118565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "上证指数早盘收报4049.29点，涨1.56%。 深证成指早盘收报15103.14点，涨1.69%。 创业板指早盘收报3859.75点，涨1.27%。 沪深300早盘收报4794.71点，涨1.53%。 科创50早盘收报1681.58点，涨1.15%。 中证500早盘收报8219.78点，涨2.29%。 中证1000早盘收报8300.32点，涨1.73%。",
-          "url": "https://wallstreetcn.com/livenews/3118561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "甲骨文称积压订单达6380亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E9%AA%A8%E6%96%87%E7%A7%B0%E7%A7%AF%E5%8E%8B%E8%AE%A2%E5%8D%95%E8%BE%BE6380%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.24%，10年期主力合约涨0.05%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3118557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "香港恒生指数日内涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3118556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "12时56分"
         }
       ]
     }
