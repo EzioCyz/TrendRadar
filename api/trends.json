@@ -1,462 +1,231 @@
 {
-  "generated_at": "2026-06-19T13:32:00.365868+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-20T12:47:56.492317+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 41,
+      "match_count": 20,
       "titles": [
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "据俄新社：斯洛伐克将通过从俄罗斯的供应满足大部分天然气需求。",
+          "url": "https://flash.jin10.com/detail/20260620120918630800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
-          "title": "欧洲斯托克50指数期货下跌0.5%，德国DAX指数期货下跌0.5%，英国富时指数期货下跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260619132135493800",
+          "title": "世界银行： 3月份，世界银行天然气价格指数上涨了24%，而亚洲的LNG基准价格飙升约94%，欧洲的基准价格上涨了59%。",
+          "url": "https://flash.jin10.com/detail/20260620120043871800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
+          "url": "https://wallstreetcn.com/articles/3775100",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
           "url": "https://www.cls.cn/detail/2404108",
           "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
-          "title": "纳指期货跌1%，标普500指数期货跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260619132127114800",
-          "source": "金十数据",
+          "title": "沃什放鹰，美元“转折点”来了？",
+          "url": "https://wallstreetcn.com/articles/3775084",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
-          "title": "乌克兰副总理：俄罗斯无人机袭击导致一名巴拿马籍船员在黑海水域遇难。",
-          "url": "https://flash.jin10.com/detail/20260619131928611800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "沃什的美联储首秀：比想象中更鹰",
-          "url": "https://wallstreetcn.com/premium/articles/3774945?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "泰国财政部长：今年将努力实现超过2%的GDP增长。",
-          "url": "https://flash.jin10.com/detail/20260619131859836800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "现货黄金日内跌幅达2%，现货白银跌近3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3121988",
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "161！日元跌至近40年低位，财长重申“将采取大胆行动”",
+          "url": "https://wallstreetcn.com/articles/3775080",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
+          "url": "https://www.zhihu.com/question/2051265976675604351",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
           "url": "https://www.cls.cn/detail/2404026",
           "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
-          "title": "纽元兑美元NZD/USD日内跌幅达0.50%，现报0.5724。",
-          "url": "https://flash.jin10.com/detail/20260619130854537800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "高盛Kaplan：美联储或在秋季“连环加息”",
-          "url": "https://wallstreetcn.com/articles/3774984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404205",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "WTI原油期货突破76美元/桶，日内涨0.20%。",
-          "url": "https://flash.jin10.com/detail/20260619130751402800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "利率期货成交“四倍异动”！交易员押注美联储下月就加息？",
-          "url": "https://www.cls.cn/detail/2404221",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.8086。",
-          "url": "https://flash.jin10.com/detail/20260619130444315800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "现货黄金日内跌2%，现报4123.81美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260619130048809800",
-          "source": "金十数据",
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "现货黄金回落至4130美元/盎司下方，日内跌1.89%。纽约期金回落至4150美元/盎司下方，日内跌2.27%。",
-          "url": "https://flash.jin10.com/detail/20260619125449091800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "现货白银日内走低3.00%，现报63.70美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260619124328316800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "现货黄金失守4140美元/盎司，日内跌幅1.62%。",
-          "url": "https://flash.jin10.com/detail/20260619123836702800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "贝伦贝格：将礼来公司目标价从1,050美元上调至1,135美元。",
-          "url": "https://flash.jin10.com/detail/20260619123834679800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "金十图示：2026年06月19日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260619123251740800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "金十图示：2026年06月19日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260619123233419800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "消息人士：自动驾驶企业Momenta计划在香港首次公开募股中筹集约10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260619123012178800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "高盛大砍黄金年末目标价至4900，美联储年内降息预期清零",
-          "url": "https://flash.jin10.com/detail/20260619121849435800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "92号汽油跌回“7元时代”，机构预测油价将现“三连跌”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33410455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "12时47分"
         },
         {
-          "title": "纳斯达克100指数期货日内跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3121984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3121982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "近200亿市值A股公司将变ST",
-          "url": "https://www.toutiao.com/trending/7652121189392875562/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "标普500指数期货日内跌幅扩大至0.5%，纳指期货跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3121975",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：下周黄金走势高度依赖数据 谨防杀跌风险",
+          "url": "https://flash.jin10.com/detail/20260620102610063800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "12时47分"
         },
         {
-          "title": "现货黄金日内跌幅扩大至1.1%，现报4161.80美元/盎司。 现货白银日内跌幅扩大至2.2%，报64.22美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3121972",
-          "source": "华尔街见闻-快讯",
+          "title": "美加墨世界杯红牌“通胀”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33417862",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "12时47分"
         },
         {
-          "title": "日经225指数回吐稍早涨幅，转为下跌0.1%。 韩国首尔综指盘中也一度跳水转跌，目前微涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3121970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "高盛将金价目标下调500美元",
-          "url": "https://wallstreetcn.com/livenews/3121969",
+          "title": "周五（6月19日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7838元，较周四纽约尾盘跌54点，日内整体交投于6.7759-6.7980元区间。 本周，离岸人民币累计下挫大约200点，跌幅0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3122196",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "12时47分"
         },
         {
-          "title": "油价两连降!将重回7元时代",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355262&amp;topic_name=%E6%B2%B9%E4%BB%B7%E4%B8%A4%E8%BF%9E%E9%99%8D%21%E5%B0%86%E9%87%8D%E5%9B%9E7%E5%85%83%E6%97%B6%E4%BB%A3",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "专家：68%的个股跑不赢上证指数",
-          "url": "https://www.toutiao.com/trending/7652943088733654582/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3121964",
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "现货白银失守65美元/盎司，为6月11日来首次，日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
-          "url": "https://wallstreetcn.com/livenews/3121959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "12时47分"
         }
       ]
     }
