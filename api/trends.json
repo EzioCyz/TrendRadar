@@ -1,396 +1,407 @@
 {
-  "generated_at": "2026-06-23T12:37:05.325909+08:00",
+  "generated_at": "2026-06-24T12:44:35.396584+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "CFTC日元净仓位在深度负值区扩大，美日逼近干预关口？",
-          "url": "https://flash.jin10.com/detail/20260623121810910800",
-          "source": "金十数据",
+          "title": "特朗普：大型石油公司没有降低油价，已指示司法部立即调查。 汽油价格“最好赶紧下降”。",
+          "url": "https://wallstreetcn.com/livenews/3123784",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
-          "source": "华尔街见闻",
+          "title": "市场消息：字节跳动寻求200亿美元的史上最大规模海外贷款。",
+          "url": "https://flash.jin10.com/detail/20260624123040274800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
+          "title": "“加息噩梦”真要来了？高盛投资主管：7月份概率较大！",
+          "url": "https://www.cls.cn/detail/2407413",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "更多华尔街大行“投降”！美银、德银双双改口：美联储9月料启动加息",
-          "url": "https://www.cls.cn/detail/2406242",
+          "title": "卡塔尔首相谢赫·穆罕默德预计该国将在数周内恢复液化天然气（LNG）正常生产。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3123782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
+          "url": "https://wallstreetcn.com/articles/3775325",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "A股新“股王”盘中大涨：上市两月，股价狂飙30倍",
+          "url": "https://www.cls.cn/detail/2407657",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "title": "印度央行行长：在印度央行采取措施遏制投机行为后，外汇市场的波动保持有序。",
+          "url": "https://flash.jin10.com/detail/20260624122738454800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
-          "url": "https://wallstreetcn.com/articles/3775154",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623120926115800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "德意志银行：预计第三季度金价将达4300美元/盎司，第四季度将达4800美元/盎司。 美联储加息，金价存在跌至3800美元/盎司的风险。",
-          "url": "https://wallstreetcn.com/livenews/3123168",
+          "title": "中国财政部发行91天期债券，规模200亿元，发行利率0.8280%，边际利率0.9085%，预期0.8300%，投标倍数3.70倍，边际倍数2.34倍； 中国财政部发行2年期债券，规模1600亿元，发行利率1.2100%，边际利率1.2300%，预期1.2200%，投标倍数2.93倍，边际倍数1.57倍； 中国财政部发行30年期债券，规模850亿元，发行利率2.2300%，预期2.2300%，投标倍数3.29倍，边际倍数1.46倍。",
+          "url": "https://wallstreetcn.com/livenews/3123780",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
-          "url": "https://www.cls.cn/detail/2406089",
+          "title": "中国赴日游客连续 6 个月减少，5 月同比暴跌 60.4%，原因为何？客流断崖下滑，日本旅游业会受多大冲击？",
+          "url": "https://www.zhihu.com/question/2052721837830935858",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "普京：准备与乌克兰进行和平谈判",
+          "url": "https://news.ifeng.com/c/8uCTlqYZbjx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
+          "url": "https://wallstreetcn.com/articles/3775310",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "芯片股抛售潮席卷全球市场 德国全境铁路暂停运营 | 环球市场",
+          "url": "https://www.cls.cn/detail/2407384",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "美联储转鹰、华尔街纷纷投降，花旗成“最后的倔强”：坚持10月重启降息",
-          "url": "https://wallstreetcn.com/articles/3775196",
+          "title": "西太平洋银行：中东冲击或引发通胀“第二轮效应”，仍预计澳洲联储8月加息",
+          "url": "https://flash.jin10.com/detail/20260624122553743800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "印度央行行长：干预措施旨在确保外汇市场的有序波动。",
+          "url": "https://flash.jin10.com/detail/20260624122328035800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "华尔街吵起来了？与美银、高盛“唱反调” 瑞银称美联储加息风险被高估",
+          "url": "https://www.cls.cn/detail/2407535",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "港股午评：恒生指数跌1.13%，恒生科技指数跌2.21%",
-          "url": "https://flash.jin10.com/detail/20260623120402391800",
+          "title": "印度央行行长：随着股市估值的适度回落，资本市场驱动的外资回流应会减缓。",
+          "url": "https://flash.jin10.com/detail/20260624122317986800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "久违一幕！美国市场“股跌债升” 加息担忧过头了？",
+          "url": "https://www.cls.cn/detail/2407456",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "印度央行行长：不为卢比设定任何汇率目标。",
+          "url": "https://flash.jin10.com/detail/20260624122309480800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "韩股盘中跳水",
+          "url": "https://wallstreetcn.com/livenews/3123767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "印度央行行长：让市场力量决定卢比汇率水平。",
+          "url": "https://flash.jin10.com/detail/20260624122253896800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2405983",
-          "source": "财联社热门",
+          "title": "农发行发行1年期债券，规模50亿元，发行利率1.3775%，预期1.3600%，投标倍数1.00倍，边际倍数1.00倍； 农发行发行3年期债券，规模40亿元，发行利率1.4712%，预期1.4800%，投标倍数1.00倍，边际倍数1.00倍； 农发行发行10年期债券，规模40亿元，发行利率1.8263%，预期1.8300%，投标倍数1.00倍，边际倍数1.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3123764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "进出口行发行29天期债券，规模50亿元，发行利率0.0000%，预期1.2700%，投标倍数1.00倍，边际倍数1.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3123763",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "美联储加息近了？又一官员“放鹰”：通胀过高且朝着错误方向发展！",
-          "url": "https://www.cls.cn/detail/2406455",
-          "source": "财联社热门",
+          "title": "美指强势突破，我们被特朗普的弱美元骗了吗？",
+          "url": "https://flash.jin10.com/detail/20260624122051163800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "伊朗拿了豁免但不谈核，金价的地缘缓冲还不够厚？",
-          "url": "https://flash.jin10.com/detail/20260623115934816800",
+          "title": "印度央行行长：吸引美元流入的措施初步反响良好，预计将迎来可观的资金流入。",
+          "url": "https://flash.jin10.com/detail/20260624121925916800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "进出口行发行3年期债券，规模40亿元，发行利率1.4200%，预期1.4000%，投标倍数2.93倍，边际倍数2.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3123756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日韩股市全线反弹",
+          "url": "https://www.douyin.com/hot/2545407",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "印度央行行长：现在谈论加息为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260624121230179800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
-          "title": "金十图示：2026年06月23日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260623115831562800",
+          "title": "韩国央行：考虑通胀经济金融等因素，需要在适当时候提高利率",
+          "url": "https://wallstreetcn.com/livenews/3123751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "印度央行行长：如果我们想让市场为加息做好准备，我们会将立场从中性转变为具有限制性。",
+          "url": "https://flash.jin10.com/detail/20260624121213985800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "金十图示：2026年06月23日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260623115829896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "韩股暴跌6%触发熔断，外资狂抛13亿美元，超买警报早就拉满？",
-          "url": "https://flash.jin10.com/detail/20260623114156887800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "离岸人民币同业拆息利率全线上行，隔夜拆息创近四个月新高",
-          "url": "https://flash.jin10.com/detail/20260623113710941800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "欧美主要股指期货下挫，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%；欧洲斯托克50期货、德国DAX指数期货跌0.7%，英国富时指数期货跌0.8%。",
-          "url": "https://flash.jin10.com/detail/20260623113539155800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "韩国股市跌到熔断",
-          "url": "https://www.douyin.com/hot/2544370",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
-          "url": "https://www.zhihu.com/question/2052610103719760554",
+          "title": "黄金月内再次跌破 4100 美元，白银跌破 62 美元，黄金 4000 美元关口能否守住？普通投资者该如何应对？",
+          "url": "https://www.zhihu.com/question/2052784601471493284",
           "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "印度去年国防出口为何暴涨62%",
-          "url": "https://www.toutiao.com/trending/7654405819005423158/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "金价又又又崩了",
-          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "美股科技股深夜下挫",
-          "url": "https://www.douyin.com/hot/2544157",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "6月23日午间收评：创业板指半日跌超2%，医药股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3123157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
-          "url": "https://www.zhihu.com/question/2052405403254616397",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "国际金价“高台跳水” 金饰价格降了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "伊朗央行行长：没有义务从美国购买农产品",
-          "url": "https://wallstreetcn.com/livenews/3123147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "美联储前主席格林斯潘去世，享年100岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33430214",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "韩国交易所因KOSPI 200期货下跌5%启动KOSPI的熔断机制，程序化交易暂停5分钟。",
-          "url": "https://wallstreetcn.com/livenews/3123144",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
           "title": "美联储前主席格林斯潘去世",
@@ -399,86 +410,130 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "韩国交易所启动KOSDAQ指数熔断机制，程序化交易暂停5分钟。",
-          "url": "https://wallstreetcn.com/livenews/3123143",
-          "source": "华尔街见闻-快讯",
+          "title": "金价同时面对三重利空，4000是终点还是跳板？",
+          "url": "https://flash.jin10.com/detail/20260624121205050800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "农发行发行2年期债券，规模50亿元，发行利率1.4347%，预期1.3400%，投标倍数1.00倍，边际倍数1.00倍； 农发行发行7年期债券，规模30亿元，发行利率1.6300%，预期1.6500%，投标倍数1.00倍，边际倍数1.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3123142",
-          "source": "华尔街见闻-快讯",
+          "title": "专家：金价仍在下跌通道",
+          "url": "https://www.toutiao.com/trending/7654738155483958838/",
+          "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "国开行发行3年期债券，规模30亿元，发行利率1.3980%，预期1.4000%，投标倍数4.97倍，边际倍数1.03倍。",
-          "url": "https://wallstreetcn.com/livenews/3123141",
-          "source": "华尔街见闻-快讯",
+          "title": "日元沦为“全球最弱货币”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%85%83%E6%B2%A6%E4%B8%BA%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%B1%E8%B4%A7%E5%B8%81%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "国开行发行1年期债券，规模40亿元，发行利率1.3008%，预期1.3000%，投标倍数10.08倍，边际倍数8.95倍； 国开行发行5年期债券，规模60亿元，发行利率1.4960%，预期1.5200%，投标倍数4.67倍，边际倍数3.43倍； 国开行发行10年期债券，规模130亿元，发行利率1.7499%，预期1.7500%，投标倍数3.40倍，边际倍数2.91倍。",
-          "url": "https://wallstreetcn.com/livenews/3123139",
-          "source": "华尔街见闻-快讯",
+          "title": "据英国金融时报：委内瑞拉将在全球最大债务重组中披露2400亿美元债务总额。",
+          "url": "https://flash.jin10.com/detail/20260624120914417800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "美联储今年不降息黄金恐崩",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E4%B8%8D%E9%99%8D%E6%81%AF%E9%BB%84%E9%87%91%E6%81%90%E5%B4%A9%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "印度央行行长：尚未看到通胀普遍化的迹象。",
+          "url": "https://flash.jin10.com/detail/20260624120836801800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "SpaceX跳水大跌16%",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E8%B7%B3%E6%B0%B4%E5%A4%A7%E8%B7%8C16%25",
-          "source": "百度热搜",
+          "title": "券商股再度拉升，华安证券直线涨停，国元证券涨近6%，华创云信、财达证券、招商证券、红塔证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123737",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
         },
         {
-          "title": "机器人概念股异动拉升，巨轮智能直线涨停，方正电机、联诚精密此前封板，国民技术、万通液压、华是科技、拓斯达、金道科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3123128",
+          "title": "印度央行行长：对通胀的第二轮影响不确定。上行风险已降低。",
+          "url": "https://flash.jin10.com/detail/20260624120809356800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "半导体产业链震荡拉升，西陇科学2连板，汇成股份、赛英电子、富满微、格科微均涨超10%，神工股份、中科飞测、长电科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "澳大利亚5月CPI同比 4%，预期 4.3%，前值 4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3123728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "上证指数开盘报4090.10点，跌0.39%。 深证成指开盘报15782.40点，跌0.45%。 创业板指开盘报4181.91点，跌0.25%。 沪深300开盘报4900.38点，跌0.39%。 科创50开盘报1896.34点，跌1.04%。 中证500开盘报8638.66点，跌0.57%。 中证1000开盘报8650.82点，跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3123724",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "12时44分"
+        },
+        {
+          "title": "金价见底三大信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     }
