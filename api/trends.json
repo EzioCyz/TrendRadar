@@ -1,154 +1,352 @@
 {
-  "generated_at": "2026-06-28T12:57:46.683325+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-29T13:08:29.979565+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 13,
+      "match_count": 31,
       "titles": [
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
+          "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "【早报】普京：考虑全面禁止柴油出口；国际油价开盘大涨；加拿大队史首次晋级16强",
+          "url": "https://www.cls.cn/detail/2411240",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "两周不到重回70美元，油价新一轮危险正在降临！",
-          "url": "https://flash.jin10.com/detail/20260628121736837800",
+          "title": "欧洲冬季天然气库存或将跌至15年来最低水平",
+          "url": "https://flash.jin10.com/detail/20260629121042409800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "下半年美元指数何去何从",
-          "url": "https://wallstreetcn.com/articles/3775680",
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "铜价走到哪了？",
-          "url": "https://wallstreetcn.com/articles/3775678",
-          "source": "华尔街见闻",
+          "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
+          "url": "https://flash.jin10.com/detail/20260629120904570800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "英国国王首次公布纳税信息，一年缴纳1300万英镑",
-          "url": "https://news.ifeng.com/c/8uIYR1JXhIs",
-          "source": "凤凰网",
+          "title": "据港交所文件显示，盛威時代科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3125870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，下周是第一次！",
-          "url": "https://wallstreetcn.com/articles/3775687",
+          "title": "PCE只带来喘息，金价修复仍等就业验证",
+          "url": "https://flash.jin10.com/detail/20260629120148011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "明修栈道暗度陈仓！沃什为9月“降息”铺路？",
+          "url": "https://wallstreetcn.com/articles/3775714",
           "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "利率一再降 “存款搬家”搬去哪",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E7%8E%87%E4%B8%80%E5%86%8D%E9%99%8D+%E2%80%9C%E5%AD%98%E6%AC%BE%E6%90%AC%E5%AE%B6%E2%80%9D%E6%90%AC%E5%8E%BB%E5%93%AA",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2410708",
+          "title": "沃什“放鹰”是作秀？华尔街激辩利率走向：少数分析师笃定美联储将降息",
+          "url": "https://www.cls.cn/detail/2411350",
           "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "北京发行1年期土储专项地方债，规模1.4600亿元，发行利率1.1600%，边际倍数1.16倍，倍数预期1.16； 北京发行2年期土储专项地方债，规模4.8000亿元，发行利率1.2500%，边际倍数1.29倍，倍数预期1.25； 北京发行3年期其他专项地方债，规模14.5100亿元，发行利率1.3400%，边际倍数5.60倍，倍数预期1.29； 北京发行5年期土储专项地方债，规模20.4300亿元，发行利率1.4900%，边际倍数4.39倍，倍数预期1.44； 北京发行10年期市政基建专项地方债，规模7.0000亿元，发行利率1.7900%，边际倍数1.87倍，倍数预期1.74； 北京发行10年期其他专项地方债，规模10.0000亿元，发行利率1.7900%，边际倍数2.09倍，倍数预期1.74。",
+          "url": "https://wallstreetcn.com/livenews/3125863",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "澳大利亚财长：预计通胀将在年中见顶于4.25%",
-          "url": "https://flash.jin10.com/detail/20260628112154343800",
+          "title": "金十图示：2026年06月29日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260629115137859800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260628104742126800",
-          "source": "金十数据",
+          "title": "如何看待最近盛行的定型文「假如你是一个韩国人…」、「韩国黄金时代」?",
+          "url": "https://www.zhihu.com/question/2054567938204645292",
+          "source": "知乎",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
-          "url": "https://wallstreetcn.com/livenews/3125608",
+          "title": "金十图示：2026年06月29日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260629115121611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "LNG船货“跨境通”首单落地，油气贸易人民币结算再拓新场景",
+          "url": "https://wallstreetcn.com/livenews/3125859",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "离岸人民币同业拆息利率多数下跌，隔夜拆息创三周新低",
+          "url": "https://flash.jin10.com/detail/20260629115014894800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "油价下跌难掩通胀黏性，更高更久成美元最强支撑",
+          "url": "https://flash.jin10.com/detail/20260629114827460800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "日本IPO数量跌至15年来的最低点，短期内难以反弹",
+          "url": "https://flash.jin10.com/detail/20260629114805931800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
+          "title": "中国有巨大贸易顺差，人民币国际化又需要开放人民币，这两者如何调和？",
+          "url": "https://www.zhihu.com/question/2053870272458100869",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "上证指数早盘收报4034.08点，涨0.17%。 深证成指早盘收报15591.37点，跌1.21%。 创业板指早盘收报4140.65点，跌1.28%。 沪深300早盘收报4871.03点，涨0.06%。 科创50早盘收报2063.94点，涨1.56%。 中证500早盘收报8676.33点，跌0.31%。 中证1000早盘收报8458.74点，跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3125849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "6月29日午间收评：创业板指冲高回落跌1.28%，医药、消费股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3125848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3125846",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
         },
         {
-          "title": "塞尔维亚人民币论坛聚焦拓展双边金融合作",
-          "url": "https://wallstreetcn.com/livenews/3125600",
+          "title": "厦门发行7年+3年期土储专项地方债，规模3.5000亿元，发行利率1.7900%，边际倍数2.00倍，倍数预期1.79； 厦门发行7年期其他专项地方债，规模9.8000亿元，发行利率1.6300%，边际倍数3.99倍，倍数预期1.63； 厦门发行15年期收费公路专项地方债，规模12.0000亿元，发行利率2.1700%，边际倍数2.04倍，倍数预期2.13； 厦门发行20年期其他专项地方债，规模21.9800亿元，发行利率2.3500%，边际倍数1.96倍，倍数预期2.33； 厦门发行30年期其他专项地方债，规模17.5000亿元，发行利率2.4000%，边际倍数2.73倍，倍数预期2.40； 厦门发行10年期其他专项地方债，规模9.0000亿元，发行利率1.7900%，边际倍数1.08倍，倍数预期1.79； 厦门发行10年期其他专项地方债，规模17.2200亿元，发行利率1.7900%，边际倍数1.31倍，倍数预期1.79。",
+          "url": "https://wallstreetcn.com/livenews/3125845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "恒生指数涨幅扩大至2%，恒生科技指数现涨3.4%，恒生生物科技指数涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3125842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "富时中国A50指数期货涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3125841",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "13时08分"
+        },
+        {
+          "title": "港股联想集团(00992.HK)持续走弱，日内跌逾10%。",
+          "url": "https://flash.jin10.com/detail/20260629113454152800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "A股午评：创业板指冲高回落跌逾1% 创新药板块强势大涨",
+          "url": "https://flash.jin10.com/detail/20260629113411622800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     }
