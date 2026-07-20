@@ -1,165 +1,341 @@
 {
-  "generated_at": "2026-07-19T12:02:40.427934+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-20T12:12:41.660006+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 14,
+      "match_count": 30,
       "titles": [
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
+          "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430665",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
-          "url": "https://www.cls.cn/detail/2430101",
+          "title": "稳定信号出现，五大A股主力联袂力挺",
+          "url": "https://www.cls.cn/detail/2430700",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "5个关键词！一文读懂中国经济半年报",
-          "url": "https://www.toutiao.com/trending/7664019916105859113/",
-          "source": "今日头条",
+          "title": "读懂2026上半年中国经济成绩单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%822026%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
-          "url": "https://wallstreetcn.com/articles/3777330",
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
-          "url": "https://wallstreetcn.com/articles/3777307",
+          "title": "上证指数早盘收报3808.39点，涨1.18%。 深证成指早盘收报13735.81点，涨0.21%。 创业板指早盘收报3467.32点，涨1.13%。 沪深300早盘收报4599.32点，涨1.55%。 科创50早盘收报1712.12点，跌0.19%。 中证500早盘收报7493.45点，跌0.27%。 中证1000早盘收报7100.05点，跌0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3136544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "中东冲突再起，交易员直言\"所有缓冲垫都已燃尽\"，原油市场处于崩溃边缘",
+          "url": "https://wallstreetcn.com/articles/3777346",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "【早报】茅台宣布：涨价；国内油价，今起上调",
-          "url": "https://www.cls.cn/detail/2430081",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "韩国公布使韩元自由可交易的具体路线图，韩国将放宽外汇规定，方便外国人更便捷地进行韩元交易。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3136139",
+          "title": "7月20日午间收评：沪指、创业板指均涨超1%，油气、煤炭板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3136543",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2577975",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3136541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "10天借出10%股份！空头猛扑SpaceX",
-          "url": "https://wallstreetcn.com/articles/3777331",
+          "title": "关于杠杆新规、估值和外资最新走向，这是华尔街对韩股的最新看法",
+          "url": "https://wallstreetcn.com/articles/3777343",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "加息周期真的回来了吗？",
-          "url": "https://wallstreetcn.com/articles/3777317",
-          "source": "华尔街见闻",
+          "title": "中国海油A股盘中触及涨停。",
+          "url": "https://wallstreetcn.com/livenews/3136538",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "韩国财政部：将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元。",
-          "url": "https://flash.jin10.com/detail/20260719110115291800",
+          "title": "离岸人民币同业拆息利率多数下行",
+          "url": "https://flash.jin10.com/detail/20260720113638757800",
           "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
+        },
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "A股午评：沪指收涨1.18%，石油石化板块走强",
+          "url": "https://flash.jin10.com/detail/20260720113417283800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "创业板指日内涨幅再次扩大至2%，此前一度翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3136527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260720113301562800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "油价反弹，对冲基金对纽元的空头头寸升至历史新高",
+          "url": "https://flash.jin10.com/detail/20260720113158594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "物价飞涨,日本增产1日元硬币",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260720113127293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260720113117585800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现，液化石油气（LPG）涨超8%，集运欧线、低硫燃料油（LU）涨超6%，SC原油涨近6%，甲醇涨超5%，纯苯、燃料油、丙烯涨近5%。跌幅方面，鸡蛋、生猪跌超2%，碳酸锂跌近2%，多晶硅、玻璃、苹果跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260720113053178800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "西班牙冠军奖金5000万美元",
+          "url": "https://www.toutiao.com/trending/7663630635046535211/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "财政部1个月期国库现金定存中标利率1.64%，上次为1.67%；财政部3个月期国库现金定存中标利率1.67%，上次为1.69%。",
+          "url": "https://wallstreetcn.com/livenews/3136506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美指的涨跌风险高度不对称，空头“反扑”可能比预期中更猛烈",
+          "url": "https://flash.jin10.com/detail/20260720111256205800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "创业板指下行翻绿，此前一度涨超3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3136505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "老外扎堆来中国,机票暴涨12倍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356299&amp;topic_name=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%2C%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A812%E5%80%8D",
           "source": "贴吧",
           "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "曝切尔西1.17亿英镑签罗杰斯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%88%87%E5%B0%94%E8%A5%BF1.17%E4%BA%BF%E8%8B%B1%E9%95%91%E7%AD%BE%E7%BD%97%E6%9D%B0%E6%96%AF",
-          "source": "bilibili 热搜",
+          "title": "两大央企深夜宣布：增持A股",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1",
+          "source": "百度热搜",
           "ranks": [
-            11
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
         },
         {
-          "title": "全球科技股抛售潮接近尾声了吗",
-          "url": "https://www.toutiao.com/trending/7663165060491296819/",
-          "source": "今日头条",
+          "title": "西班牙冠军奖金5000万美元",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            21
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "12时12分"
+        },
+        {
+          "title": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
+          "url": "https://wallstreetcn.com/livenews/3136497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
