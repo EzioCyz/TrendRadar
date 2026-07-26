@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T11:45:35.404819+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-26T12:04:53.694646+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,246 +8,246 @@
       "match_count": 22,
       "titles": [
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
+          "title": "“订单暴涨3000%”！两大赛道，全球爆单",
+          "url": "https://www.cls.cn/detail/2436975",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
-          "url": "https://www.zhihu.com/question/2064132609781798497",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260726113154615800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260725111226216800",
-          "source": "金十数据",
+          "title": "伊朗就商船遭袭召见乌克兰临时代办",
+          "url": "https://wallstreetcn.com/livenews/3139799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "沙特民防部门表示，吉赞地区的危险已解除。",
-          "url": "https://flash.jin10.com/detail/20260725111206937800",
-          "source": "金十数据",
+          "title": "伊朗称该国商船在里海遭乌克兰袭击致1死1伤",
+          "url": "https://wallstreetcn.com/livenews/3139796",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "沙特民防部门针对吉赞地区发布紧急预警。",
-          "url": "https://flash.jin10.com/detail/20260725110604199800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
-          "url": "https://www.zhihu.com/question/2063926827077445448",
-          "source": "知乎",
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
+          "title": "“红海战线”升级：胡塞武装一天两次袭击沙特红海港口石油设施，沙特空袭回应",
+          "url": "https://wallstreetcn.com/articles/3777935",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "沙特吉赞据报遭袭",
-          "url": "https://wallstreetcn.com/livenews/3139703",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰寻求与加拿大签署为期30年的能源协议",
+          "url": "https://flash.jin10.com/detail/20260726102010178800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "佛得角门将找到新工作，身价暴涨10倍",
-          "url": "https://news.ifeng.com/c/8v2c7641WeC",
-          "source": "凤凰网",
+          "title": "乌克兰无人机袭击引发俄罗斯秋明炼油厂火灾",
+          "url": "https://flash.jin10.com/detail/20260726101828465800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "显卡再次暴涨,等等党气哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "美军称在阿曼湾对一艘商船开火 沙特空袭也门荷台达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2436879",
-          "source": "财联社热门",
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063902919200711048",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "马斯克旗下的隧道企业“无聊公司”（The Boring Company）拟在新一轮融资中寻求200亿美元的估值。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "詹姆斯降薪4862万美元",
-          "url": "https://www.baidu.com/s?wd=%E8%A9%B9%E5%A7%86%E6%96%AF%E9%99%8D%E8%96%AA4862%E4%B8%87%E7%BE%8E%E5%85%83",
+          "title": "31省份上半年GDP公布 6省位次变了",
+          "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4GDP%E5%85%AC%E5%B8%83+6%E7%9C%81%E4%BD%8D%E6%AC%A1%E5%8F%98%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
-          "url": "https://flash.jin10.com/detail/20260725101746595800",
-          "source": "金十数据",
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "沙特吉赞据报遭袭",
-          "url": "https://flash.jin10.com/detail/20260725101658794800",
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "纸币会带来通胀，金银也会带来通胀吗？",
+          "url": "https://www.zhihu.com/question/2063981377708725274",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：今年上半年韩国汽车出口量同比增长2.1%，达到144.1万辆。环保车型出口占比从去年同期的30.0%提升至37.0%。不过，受全球主要国家高通胀和加息影响，韩国汽车出口在今年下半年预计将同比下降0.3%，至132万辆。全年出口预计达到276万辆，同比增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20260726090842501800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
         },
         {
-          "title": "据伊朗媒体Fars News：有消息称，也门的袭击以沙特阿美公司的一处石油设施为目标。",
-          "url": "https://flash.jin10.com/detail/20260725101606389800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
-          "url": "https://wallstreetcn.com/livenews/3139690",
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时04分"
+        },
+        {
+          "title": "乌克兰袭击伊朗商船致1死1伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E8%87%B41%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         }
       ]
     }
