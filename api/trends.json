@@ -1,638 +1,605 @@
 {
-  "generated_at": "2026-07-30T11:39:36.911549+08:00",
+  "generated_at": "2026-07-31T11:58:57.110057+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 57,
+      "match_count": 54,
       "titles": [
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美联储如预期按兵不动 1/4成员投下反对票",
-          "url": "https://www.cls.cn/detail/2440646",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "韩股暴跌,股民穿标语游街",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356625&amp;topic_name=%E9%9F%A9%E8%82%A1%E6%9A%B4%E8%B7%8C%2C%E8%82%A1%E6%B0%91%E7%A9%BF%E6%A0%87%E8%AF%AD%E6%B8%B8%E8%A1%97",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "罚款当营销,罗技营收暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356623&amp;topic_name=%E7%BD%9A%E6%AC%BE%E5%BD%93%E8%90%A5%E9%94%80%2C%E7%BD%97%E6%8A%80%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "A股科技退潮",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2065738421474271320",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
-          "url": "https://www.cls.cn/detail/2440772",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "再放量 创业板ETF易方达半日近百亿成交",
-          "url": "https://flash.jin10.com/detail/20260730113305877800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "十年最强鹰派分歧？美联储继续按兵不动、强调通胀承诺，但三票委支持加息",
-          "url": "https://wallstreetcn.com/articles/3778256",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "一图解读美联储7月决议：如期“按兵不动”，内部加息呼声渐多！",
-          "url": "https://www.cls.cn/detail/2440758",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美联储维持利率不变",
-          "url": "https://www.douyin.com/hot/2590053",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
-          "url": "https://www.cls.cn/detail/2440511",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "创业板指跌至3200点下方，日内跌5.3%，抹去年内全部涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3142107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "多年来“最不确定”的一次！今晚的美联储会给“惊吓”吗？",
-          "url": "https://wallstreetcn.com/articles/3778189",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "李在明能否挽救韩国股市",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "CNH同业拆息利率多数续升，一周期拆息创近一周新高",
-          "url": "https://flash.jin10.com/detail/20260730113151619800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成 9 票对 3 票，内部发生了什么？9 月会加息吗？",
-          "url": "https://www.zhihu.com/question/2066063922856027842",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "双创暴跌超5% “易中天”均跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E5%88%9B%E6%9A%B4%E8%B7%8C%E8%B6%855%25+%E2%80%9C%E6%98%93%E4%B8%AD%E5%A4%A9%E2%80%9D%E5%9D%87%E8%B7%8C%E8%B6%8510%25",
+          "title": "新一轮油价调整今晚开启",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E8%BD%AE%E6%B2%B9%E4%BB%B7%E8%B0%83%E6%95%B4%E4%BB%8A%E6%99%9A%E5%BC%80%E5%90%AF",
           "source": "百度热搜",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
-          "url": "https://wallstreetcn.com/articles/3778200",
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
+          "url": "https://www.cls.cn/detail/2442025",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行利率决议过后，美元/日元短线波动不大。",
+          "url": "https://wallstreetcn.com/livenews/3142899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行：2026财年下半年CPI同比涨幅可能明显超过2%。",
+          "url": "https://wallstreetcn.com/livenews/3142898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "股价盘后涨近10%！亚马逊云业务蓬勃发展 上调全年资本支出至2200亿美元",
+          "url": "https://www.cls.cn/detail/2442011",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日元疑似干预重创美元，金价借势走高",
+          "url": "https://flash.jin10.com/detail/20260731114729880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行：需要关注外汇对经济和通胀的影响。 经济展望面临的风险包括中东局势及其对外汇和日本经济的影响。 需要特别关注中东局势发展。 全球AI需求有助于提振日本经济。 价格趋势正在接近2%的物价目标，将价格趋势稳定在2%附近至关重要。 将密切关注中东局势、AI及外汇以决定下一次加息时点。 中短期内实质利率一直处于负值状态。 日元贬值可能会推高物价，近期日元下跌是导致物价上涨的因素之一。",
+          "url": "https://wallstreetcn.com/livenews/3142897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行：2026财年GDP预测为0.6%，此前预测为0.5%。 2027财年GDP预测为0.8%，此前预测为0.7%。 2028财年GDP预测为0.8%，此前预测为0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3142895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2442063",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行：预计2026财年核心CPI为2.5%，此前预测为2.8%。 预计2027财年核心CPI为2.4%，此前预测为2.3%。 预计2028财年核心CPI为2.0%，此前预测为2.0%。 预计2026财年扣除能源的核心CPI为2.5%，此前预测为2.6%。 预计2027财年扣除能源的核心CPI为2.6%，此前预测为2.6%。 预计2028财年扣除能源的核心CPI为2.2%，此前预测为2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3142894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日本央行：将根据经济和物价情况持续加息。 通胀风险偏向上行。 经济风险整体平衡。 价格趋势存在偏离并高于目标的风险。 价格趋势在2026财年下半年至2027财年期间将与目标保持一致。 消费者物价指数（CPI）风险偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3142893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "我的暑期限定solotrip",
+          "url": "https://www.douyin.com/hot/2590796",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
+          "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260730113112757800",
+          "title": "暴力反弹17%！韩股又熔断 SK海力士一度涨近30%",
+          "url": "https://www.cls.cn/detail/2442203",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "A股午评：创业板指涨超5% AI硬件板块集体反弹",
+          "url": "https://flash.jin10.com/detail/20260731114226607800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
-          "url": "https://wallstreetcn.com/livenews/3142105",
+          "title": "日本央行维持利率在1%不变，符合预期。 日本央行以8-1的投票结果通过利率决议。 日本央行审议委员高田创对利率决议投反对票，他主张加息。",
+          "url": "https://wallstreetcn.com/livenews/3142891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "沃什上演“官样文章”：嘴上在乎通胀 但拒绝解释如何解决问题",
-          "url": "https://www.cls.cn/detail/2440710",
+          "title": "高金价下更多人转向囤金条",
+          "url": "https://www.toutiao.com/trending/7667953755556003894/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
+          "url": "https://wallstreetcn.com/articles/3778371",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260730113110270800",
+          "title": "日本央行经济活动与物价前景报告（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260731114038216800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股银行板块逆势走强，工商银行、建设银行均创历史新高，瑞丰银行、青农商行、沪农商行、无锡银行等涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3142102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
-          "url": "https://www.cls.cn/detail/2440581",
-          "source": "财联社热门",
+          "title": "新一轮油价调整将开启",
+          "url": "https://www.douyin.com/hot/2591499",
+          "source": "抖音",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线、菜粕、纯碱、铁矿石跌超2%，氧化铝、玻璃跌近2%，碳酸锂、硅铁、聚氯乙烯（PVC）跌超1%。涨幅方面，乙二醇（EG）涨近4%，SC原油涨超3%，低硫燃料油（LU）涨近2%，瓶片、短纤、燃料油、对二甲苯、沪铝、PTA涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260730113102956800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "加息还是暂停？新美联储通讯社：今晚FOMC三大看点全解析",
-          "url": "https://wallstreetcn.com/articles/3778192",
+          "title": "70万散户遭杠杆爆雷血洗！韩国面临政治风暴，抛出五大“救市牌”",
+          "url": "https://wallstreetcn.com/articles/3778336",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股创业板指、科创50指数午盘前双双跌超6%，深证成指跌近3.86%，上证指数跌1.2%。",
-          "url": "https://flash.jin10.com/detail/20260730112945919800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "国开行发行7年期债券，规模60亿元，发行利率1.6742%，预期1.6500%，投标倍数1.83倍，边际倍数1.22倍。",
-          "url": "https://wallstreetcn.com/livenews/3142097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "韩国股市暴跌背后的真相",
-          "url": "https://www.douyin.com/hot/2589992",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
+          "title": "日元汇率一小时内暴拉近500点 市场猜测日本政府再度干预汇市",
+          "url": "https://www.cls.cn/detail/2441933",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "沙特刚与美国打击亲伊武装后急闯白宫，推动伊朗局势降温",
-          "url": "https://flash.jin10.com/detail/20260730112815022800",
+          "title": "日本央行不认为增长风险偏向下行，AI需求抵御地缘拖累",
+          "url": "https://flash.jin10.com/detail/20260731113832426800",
           "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美媒：沙特国防大臣访美 希望缓和地区局势",
-          "url": "https://flash.jin10.com/detail/20260730112314833800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "国开行发行3年期债券，规模110亿元，发行利率1.5089%，预期1.4900%，投标倍数1.84倍； 国开行发行10年期债券，规模70亿元，发行利率1.8213%，预期1.7900%，投标倍数2.16倍，边际倍数4.70倍。",
-          "url": "https://wallstreetcn.com/livenews/3142094",
+          "title": "日本财务大臣片山皋月：我们非常重视与市场的沟通。 对是否干预了汇市不予置评。",
+          "url": "https://wallstreetcn.com/livenews/3142881",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股科创50指数跌幅扩大至6%，源杰科技跌超17%。",
-          "url": "https://flash.jin10.com/detail/20260730112042756800",
-          "source": "金十数据",
+          "title": "A股全线飘红 超4500股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%A8%E7%BA%BF%E9%A3%98%E7%BA%A2+%E8%B6%854500%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "富时中国A50指数期货盘中跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260730111936365800",
+          "title": "CNH同业拆息利率多数回落，隔夜拆息创两个月新低",
+          "url": "https://flash.jin10.com/detail/20260731113454282800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "创业板指年内转跌",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%B9%B4%E5%86%85%E8%BD%AC%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "日本央行按兵不动 市场聚焦干预与加息线索",
+          "url": "https://flash.jin10.com/detail/20260731113400811800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "普徕仕：如果油价和通胀走低，美联储9月或按兵不动",
-          "url": "https://flash.jin10.com/detail/20260730111548887800",
-          "source": "金十数据",
+          "title": "日本财务大臣片山皋月：日本外汇事务负责人三村淳将继续担任现有职位。",
+          "url": "https://wallstreetcn.com/livenews/3142873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "怎么看韩国股市跌44%",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E8%B7%8C44%25",
-          "source": "bilibili 热搜",
+          "title": "日经225指数在日本央行决议后小幅回落，目前上涨4.1%。",
+          "url": "https://flash.jin10.com/detail/20260731113237093800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
-          "url": "https://wallstreetcn.com/livenews/3142087",
+          "title": "日本内阁官房长官木原稔：对是否干预了汇市不予置评。",
+          "url": "https://wallstreetcn.com/livenews/3142872",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "派杰投资：将Reddit(RDDT.O)目标价从215美元下调至195美元。",
+          "url": "https://flash.jin10.com/detail/20260731113209478800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股半导体芯片股再度走低，通富微电逼近跌停，瑞芯微此前跌停，星宸科技、全志科技、有研硅、长光华芯、翱捷科技、华虹宏力均跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3142084",
-          "source": "华尔街见闻-快讯",
+          "title": "日本10年期国债期货在日本央行利率决议公布后扩大涨幅，最新上涨0.17日元。",
+          "url": "https://flash.jin10.com/detail/20260731113140371800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股算力硬件股震荡下挫，东山精密、贤丰控股、共进股份跌停，新易盛、联讯仪器、源杰科技、中际旭创均跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3142082",
-          "source": "华尔街见闻-快讯",
+          "title": "韩股暴跌,股民穿标语游街",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356625&amp;topic_name=%E9%9F%A9%E8%82%A1%E6%9A%B4%E8%B7%8C%2C%E8%82%A1%E6%B0%91%E7%A9%BF%E6%A0%87%E8%AF%AD%E6%B8%B8%E8%A1%97",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "韩国股市大涨13%触发熔断",
+          "url": "https://www.douyin.com/hot/2591434",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "如何评价王虹和 Hinton 都在尝试建筑学后「提桶跑路」？并转而在新的领域做出卓越的成果？",
+          "url": "https://www.zhihu.com/question/2064084814068704024",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260731113135261800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260731113132048800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "上市首日破发！港股中际旭创跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%EF%BC%81%E6%B8%AF%E8%82%A1%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "黄金反弹高度被美债收益率封锁，下行压力或在...时触发——新版发布",
-          "url": "https://flash.jin10.com/detail/20260730110631490800",
+          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、焦煤、燃料油跌超3%，焦炭跌近3%，SC原油、低硫燃料油（LU）、纯苯、乙二醇（EG）、苯乙烯跌超2%。涨幅方面，沪锡、苹果、钯涨近2%，20号胶、铂、红枣涨超1%，沪银、多晶硅、沪锌涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260731113123171800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "中国GDP十强城市再“易位”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDGDP%E5%8D%81%E5%BC%BA%E5%9F%8E%E5%B8%82%E5%86%8D%E2%80%9C%E6%98%93%E4%BD%8D%E2%80%9D",
-          "source": "百度热搜",
+          "title": "开盘仅1个小时，科创50ETF华夏（588000）、创业板ETF易方达（159915）成交额均破100亿，较昨日此时大幅放量成交。",
+          "url": "https://wallstreetcn.com/livenews/3142861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "24岁“AI股神”翻车：450亿美元基金遭遇爆仓危机，华尔街开始接盘",
+          "url": "https://flash.jin10.com/detail/20260731113018378800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "加拿大丰业银行：将Meta Platforms(META.O)目标价从700美元下调至600美元。",
-          "url": "https://flash.jin10.com/detail/20260730110536721800",
-          "source": "金十数据",
+          "title": "股市暴雷,韩国殡葬业赚翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356644&amp;topic_name=%E8%82%A1%E5%B8%82%E6%9A%B4%E9%9B%B7%2C%E9%9F%A9%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%9A%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "日元兑美元回吐隔夜干预后逾一半的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3142857",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "创业板指、科创50均跌超3%，沪指跌0.18%，深成指跌0.86%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2100只。",
-          "url": "https://wallstreetcn.com/livenews/3142072",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：日本央行经济预期：下调今年核心CPI预期，上调今明两年GDP预期",
+          "url": "https://flash.jin10.com/detail/20260731112203208800",
+          "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "中证1000股指期货（IM）主力合约日内跌幅达2.00%，现报6883.2点。中证500股指期货（IC）主力合约日内大跌3.00%，现报7216.0点。",
-          "url": "https://flash.jin10.com/detail/20260730110058870800",
+          "title": "日本央行公布2027年货币政策会议的日期安排。",
+          "url": "https://flash.jin10.com/detail/20260731112156302800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "香港金管局就美联储利率决定作出回应：会继续密切监察市场变化。",
-          "url": "https://wallstreetcn.com/livenews/3142066",
-          "source": "华尔街见闻-快讯",
+          "title": "罚款当营销,罗技营收暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356623&amp;topic_name=%E7%BD%9A%E6%AC%BE%E5%BD%93%E8%90%A5%E9%94%80%2C%E7%BD%97%E6%8A%80%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "当地官员表示，乌克兰克里维里赫遭到俄罗斯导弹袭击，包括儿童在内的六人遇难，八人受伤。",
-          "url": "https://flash.jin10.com/detail/20260730105820979800",
+          "title": "沃什美联储蜜月期结束！债市发出警告：投资者要求更强硬抗通胀信号",
+          "url": "https://flash.jin10.com/detail/20260731112054418800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3142068",
+          "title": "日本央行7月利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3142847",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
         },
         {
-          "title": "A股科技股拥挤度",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E6%8B%A5%E6%8C%A4%E5%BA%A6&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "A股黄金股为何强势反弹",
+          "url": "https://www.toutiao.com/trending/7668177588883295763/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时58分"
+        },
+        {
+          "title": "道富：日本干预日元汇率的规模估计在5万亿日元",
+          "url": "https://wallstreetcn.com/livenews/3142846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     }
