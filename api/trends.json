@@ -1,517 +1,374 @@
 {
-  "generated_at": "2026-08-08T10:27:29.520041+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-09T10:34:13.994081+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 46,
+      "match_count": 33,
       "titles": [
         {
-          "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
-          "url": "https://wallstreetcn.com/articles/3778959",
-          "source": "华尔街见闻",
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "非农爆冷打击加息预期，标普道指收创新高，本周美油跌近8%、期金反弹超7%",
-          "url": "https://wallstreetcn.com/articles/3778924",
+          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
+          "url": "https://wallstreetcn.com/articles/3778987",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
-          "url": "https://www.cls.cn/detail/2448836",
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
-          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
-          "source": "凤凰网",
+          "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20260809094505071800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
-          "url": "https://wallstreetcn.com/articles/3778928",
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
+          "url": "https://flash.jin10.com/detail/20260809094144161800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
+          "title": "国家统计局：7月份，PPI环比下降",
+          "url": "https://flash.jin10.com/detail/20260809094115453800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
+          "url": "https://flash.jin10.com/detail/20260809093957019800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "10时34分"
+        },
+        {
+          "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "国家统计局：7月份，CPI环比降幅收窄",
+          "url": "https://flash.jin10.com/detail/20260809093821444800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "中国央行连续21个月增持黄金，7月购金力度提速",
-          "url": "https://wallstreetcn.com/articles/3778942",
+          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
+          "url": "https://flash.jin10.com/detail/20260809093547261800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "日元只是暂时稳住，中期选举后怎么办？",
+          "url": "https://wallstreetcn.com/articles/3778986",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
-          "url": "https://flash.jin10.com/detail/20260808093558882800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "据The Information：英伟达(NVDA.O)将投资高达30亿美元于黑石集团支持的电力公司。",
-          "url": "https://flash.jin10.com/detail/20260808092622518800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
           "url": "https://www.cls.cn/detail/2448946",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
-          "url": "https://wallstreetcn.com/articles/3778955",
-          "source": "华尔街见闻",
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "改名“最多两倍做多海力士”首周，灵活杠杆了吗？表现如何？",
-          "url": "https://www.cls.cn/detail/2448543",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "贷款利率定价基准“换锚” 利率市场化再进一步",
-          "url": "https://wallstreetcn.com/livenews/3146945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "部分中小银行逆势上调存款利率",
-          "url": "https://wallstreetcn.com/livenews/3146943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "中东局势新变化！沙特、土耳其、巴基斯坦签署共同防务协议",
-          "url": "https://www.cls.cn/detail/2448756",
+          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
+          "url": "https://www.cls.cn/detail/2449090",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "乌克兰首都多个物流中心遭毁灭性打击",
-          "url": "https://news.ifeng.com/c/8vP3q5kzjxs",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美官员：乌克兰同意避免攻击非俄籍油轮和黑海石油设施",
-          "url": "https://flash.jin10.com/detail/20260808091137158800",
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "原油ETF持仓报告正式上线，美、布两油昨日如何变化？",
-          "url": "https://flash.jin10.com/detail/20260808091105116800",
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
-          "source": "华尔街见闻-快讯",
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3146939",
-          "source": "华尔街见闻-快讯",
+          "title": "中国7月CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "南非兰特非农日涨超1.3%，本周累涨超2.3%",
-          "url": "https://wallstreetcn.com/livenews/3146937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "受高温干旱影响，法国籽粒玉米产量或创新低",
-          "url": "https://wallstreetcn.com/livenews/3146936",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260809091020252800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "大摩对日元转向偏空，干预影响逐渐消退",
-          "url": "https://wallstreetcn.com/livenews/3146935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
-          "url": "https://flash.jin10.com/detail/20260808083739753800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "三菱日联：建议做多澳元/日元 ，美联储加息押注降温提振套息交易",
-          "url": "https://wallstreetcn.com/livenews/3146933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "目击者称，乌克兰首都基辅传出多声强烈爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260808082252663800",
+          "title": "韩股最动荡阶段或已结束，“去杠杆”后波动率回落至两个月低点",
+          "url": "https://flash.jin10.com/detail/20260809085352753800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "大摩：预计美联储资产负债表将缩减1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146930",
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股多家上市公司收到美政府退税",
+          "url": "https://www.douyin.com/hot/2602233",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "10时34分"
         },
         {
-          "title": "金十图示：2026年08月08日（周六）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260808081401751800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "油价金价银价都涨了",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.818吨，当前持仓量为1017.537吨。",
-          "url": "https://flash.jin10.com/detail/20260808081205549800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3146928",
+          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
+          "url": "https://wallstreetcn.com/livenews/3147009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "10时34分"
         },
         {
-          "title": "金十图示：2026年08月07日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260808040638353800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.24%，纳斯达克100股指期货涨1.16%。 罗素2000股指期货涨1.07%。",
-          "url": "https://wallstreetcn.com/livenews/3146925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
-          "url": "https://wallstreetcn.com/livenews/3146924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040607361800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
-          "url": "https://wallstreetcn.com/livenews/3146923",
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040559195800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
-          "url": "https://wallstreetcn.com/livenews/3146922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "10时34分"
         }
       ]
     }
