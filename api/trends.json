@@ -1,374 +1,484 @@
 {
-  "generated_at": "2026-08-09T10:34:13.994081+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-10T10:40:01.089656+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 利率 加息 降息 通胀 CPI PPI GDP 就业数据 非农 国债收益率 量化宽松 经济衰退 货币政策 财政刺激 美国经济 中国经济 欧洲央行 日本央行 央行干预 汇率波动 股市 美股 A股 港股 日经指数 道琼斯 标普500 纳斯达克 上证指数 深证成指 创业板 恒生指数 科技股 蓝筹股 抛售潮 暴跌 反弹 做空 多头 空头 机构买盘 外资流入 北向资金 外汇 美元 日元 欧元 英镑 人民币 加元 澳元 新西兰元 瑞郎 汇率 外汇储备 汇市 货币对 DXY 美元指数 期货 黄金期货 白银期货 原油期货 天然气 铜价 铁矿石 大豆 玉米 农产品 能源市场 商品期货 CME 布伦特原油 WTI原油 黄金 白银 金价 伦敦金 国际金价 黄金ETF 避险资产 黄金储备 贵金属 原油 油价 OPEC 沙特 减产 供需平衡 原油库存 能源危机 天然气价格 WTI 布伦特 比特币 以太坊 BTC ETH SOL XRP DOGE TON USDT 稳定币 加密货币 数字货币 区块链 山寨币 DeFi NFT Web3 链上交易 钱包地址 交易所 币安 OKX 火币 Coinbase FTX 黑客攻击 爆仓 多空比 加密市场 数字资产 做多 做空 建仓 平仓 止盈 止损 杠杆 仓位 流动性 波动率 恐慌指数 VIX 资金流向 市场情绪 技术分析 K线 支撑位 阻力位 趋势反转 爆拉 跳水 拉升 暴涨 盘整 地缘政治 中东冲突 乌克兰 战争风险 美债危机 银行倒闭 流动性危机 市场崩盘 黑天鹅",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
         {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
-          "url": "https://wallstreetcn.com/articles/3778987",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
-          "url": "https://flash.jin10.com/detail/20260809094505071800",
+          "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810101240509800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
-          "url": "https://flash.jin10.com/detail/20260809094144161800",
+          "title": "索尼、台积电1万亿日元布局图像传感器 目标2029年在熊本实现量产",
+          "url": "https://flash.jin10.com/detail/20260810100959431800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "国家统计局：7月份，PPI环比下降",
-          "url": "https://flash.jin10.com/detail/20260809094115453800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
-          "url": "https://flash.jin10.com/detail/20260809093957019800",
-          "source": "金十数据",
+          "title": "A股旅游板块震荡走强，华天酒店触及涨停，西安饮食、三峡旅游、同庆楼、曲江文旅、金马游乐跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147235",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3147043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3147042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "国家统计局：7月份，CPI环比降幅收窄",
-          "url": "https://flash.jin10.com/detail/20260809093821444800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
-          "url": "https://flash.jin10.com/detail/20260809093547261800",
+          "title": "A股食品饮料行业板块持续走强，香飘飘、金达威、一鸣食品涨停，品渥食品、东鹏饮料、迎驾贡酒、仲景食品、会稽山、立高食品等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810100456186800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "日元只是暂时稳住，中期选举后怎么办？",
-          "url": "https://wallstreetcn.com/articles/3778986",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
-          "url": "https://www.cls.cn/detail/2448946",
+          "title": "利润大涨超100%，这一行业，黄金窗口期来了",
+          "url": "https://www.cls.cn/detail/2449206",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "title": "据日经新闻：索尼集团与台积电(TSM.N)将向熊本工厂投资1万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260810100226558800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
-          "url": "https://www.cls.cn/detail/2449090",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093023410800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
-          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "title": "中华人民共和国财政部、澳门特别行政区中央政府在澳门发行人民币国债",
+          "url": "https://flash.jin10.com/detail/20260810100121098800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
-          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810100051146800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "中国7月CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "title": "A股寒武纪跌超5%，成交额超100亿元。",
+          "url": "https://flash.jin10.com/detail/20260810095838513800",
           "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260809091020252800",
+          "title": "华尔街分析师：美国CPI数据滞后，美联储的天平正向降息倾斜",
+          "url": "https://flash.jin10.com/detail/20260810095549716800",
           "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "韩股最动荡阶段或已结束，“去杠杆”后波动率回落至两个月低点",
-          "url": "https://flash.jin10.com/detail/20260809085352753800",
+          "title": "A股白酒板块短线走强，会稽山、迎驾贡酒涨超5%，贵州茅台涨超2%，古井贡酒、泸州老窖等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095308813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "A股半导体设备板块再度拉升，盛美上海涨超10%，托伦斯、微导纳米、恒运昌、富创精密、至纯科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810095231388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810094757732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "A股早盘钴矿概念再度活跃，寒锐钴业涨超10%，此前鹏欣资源涨停，腾远钴业、华友钴业、中矿资源、格林美、盛屯矿业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810094642129800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
-          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147037",
+          "title": "A股中际旭创盘初跌超3%，成交额超110亿元。",
+          "url": "https://flash.jin10.com/detail/20260810094532495800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "A股锂矿板块走高，永杉锂业涨停，融捷股份、天齐锂业、赣锋锂业、永兴材料、盛新锂能等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810094409282800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "印尼股市上涨0.7%至6,454.388点，创5月20日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3147233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
+          "title": "内蒙古发行10年期一般债地方债，规模41.7053亿元，发行利率1.7600%，边际倍数1.63倍，倍数预期1.77； 内蒙古发行15年期普通专项地方债，规模8.8428亿元，发行利率2.1000%，边际倍数1.46倍，倍数预期2.08。",
+          "url": "https://wallstreetcn.com/livenews/3147231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股食品、白酒等消费股震荡上扬，一鸣食品、香飘飘双双涨停，金达威此前封板，品渥食品涨超10%，东鹏饮料涨超7%，迎驾贡酒、立高食品、会稽山等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2603879",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "中国财政部：将于8月20日在澳门发行60亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3147225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "索尼和台积电将向日本熊本工厂投资1万亿日元，最早将于2029年开始量产下一代图像传感器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3147223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超10%，湖南天雁、建设工业、东安动力、内蒙一机纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3147217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股养殖板块震荡拉升，益生股份涨停，大禹生物涨超10%，立华股份、牧原股份、温氏股份、湘佳股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.3%，深成指跌0.48%，6G、玻璃基板、CPO、卫星导航等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3147206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147203",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
+          "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
+          "title": "A股创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3147193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
-          "url": "https://wallstreetcn.com/livenews/3147009",
+          "title": "A股影视股早盘高开，北京文化竞价涨停，华智数媒接近涨停，儒意电影、幸福蓝海、博纳影业、中国电影等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3147188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "上证指数开盘报3943.82点，涨0.10%。 深证成指开盘报14348.95点，涨0.27%。 创业板指开盘报3567.05点，涨0.11%。 沪深300开盘报4698.82点，涨0.09%。 科创50开盘报1740.14点，跌0.22%。 中证500开盘报8003.92点，涨0.30%。 中证1000开盘报7723.38点，涨0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3147184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
         },
         {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
+          "title": "中国央行公开市场开展180亿元7天期逆回购操作，操作利率1.40%，持平上次。今日630亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "10时40分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月10日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3147179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     }
